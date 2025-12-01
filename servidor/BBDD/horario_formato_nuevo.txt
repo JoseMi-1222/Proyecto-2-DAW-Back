@@ -1,0 +1,2692 @@
+PCT	1º A ESO	114	Cubero Madroñal, Emilia	V	3
+APOYO Lengua	1º A ESO		Iglésis Gallardo, Margari	V	3
+Lengua	1º A ESO		Ramos Calderón, Antonio	V	3
+PCT	1º A ESO	114	Cubero Madroñal, Emilia	J	2
+APOYO Lengua	1º A ESO		Iglésis Gallardo, Margari	J	2
+Lengua	1º A ESO		Ramos Calderón, Antonio	J	2
+APOYO Lengua	1º A ESO		Iglésis Gallardo, Margari	M	6
+Lengua	1º A ESO	114	Ramos Calderón, Antonio	M	6
+Apoyo Música	1º A ESO		Iglésis Gallardo, Margari	M	5
+Música	1º A ESO	222	González Macías, Rocío	M	5
+APOYO PT	1º A ESO		Pacheco Cano, Encarnación	X	6
+Lengua	1º A ESO	114	Ramos Calderón, Antonio	X	6
+APOYO PT	1º A ESO		Pacheco Cano, Encarnación	J	6
+APOYO SOCIOLINGUISTICO	1º A ESO		Ramos Calderón, Antonio	J	6
+APOYO FRANCES	1º A ESO		Iglésis Gallardo, Margari	J	6
+FRANCES	1º A ESO	114	Rodríguez Pueyo, Lucía	J	6
+APOYO PT	1º A ESO		Pacheco Cano, Encarnación	M	2
+APOYO SOCIOLINGUISTICO	1º A ESO		Ramos Calderón, Antonio	M	2
+FRANCES	1º A ESO	114	Rodríguez Pueyo, Lucía	M	2
+APOYO PT	1º A ESO		Pacheco Cano, Encarnación	V	7
+Biología y Geología	1º A ESO	114	Ortega Romero, Carmen	V	7
+APOYO	1º A ESO		Iglésis Gallardo, Margari	L	7
+Educación Física	1º A ESO	GIM	Fernandez Calderón, Carlos	L	7
+APOYO	1º A ESO		Durán Correa, Fernando	V	2
+Educación Física	1º A ESO	GIM	Fernandez Calderón, Carlos	V	2
+APOYO	1º A ESO		Durán Correa, Fernando	X	5
+Educación Física	1º A ESO	GIM	Fernandez Calderón, Carlos	X	5
+APOYO	1º A ESO		Iglésis Gallardo, Margari	J	5
+Biología y Geología	1º A ESO	114	Ortega Romero, Carmen	J	5
+APOYO	1º A ESO		Iglésis Gallardo, Margari	L	2
+Biología y Geología	1º A ESO	114	Ortega Romero, Carmen	L	2
+CoTutoría	1º A ESO	114	Iglésis Gallardo, Margari	L	3
+Tutoría	1º A ESO		González Macías, Rocío	L	3
+EDUCACION PLATICA Y VISUAL	1º A ESO	114	Aguilar Gutiérrez, Jorge	V	6
+APOYO EPV	1º A ESO		Iglésis Gallardo, Margari	V	6
+Ciencias Sociales	1º A ESO	114	Gavira Maestre, Clara	J	7
+Ciencias Sociales	1º A ESO		Iglésis Gallardo, Margari	J	7
+Ciencias Sociales	1º A ESO	114	Gavira Maestre, Clara	V	1
+Ciencias Sociales	1º A ESO		Iglésis Gallardo, Margari	V	1
+Ciencias Sociales	1º A ESO	114	Gavira Maestre, Clara	X	3
+PCT	1º A ESO		Ponce Garzón, Rafael	X	3
+APOYO PT	1º A ESO		Pacheco Cano, Encarnación	X	3
+Inglés	1º A ESO	114	Santos Ríos, Carmen	V	5
+APOYO INGLES	1º A ESO		Iglésis Gallardo, Margari	V	5
+Inglés	1º A ESO	114	Santos Ríos, Carmen	L	1
+APOYO INGLES	1º A ESO		Iglésis Gallardo, Margari	L	1
+Inglés	1º A ESO	114	Santos Ríos, Carmen	M	7
+APOYO INGLES	1º A ESO		Iglésis Gallardo, Margari	M	7
+Inglés	1º A ESO	114	Santos Ríos, Carmen	X	2
+APOYO PT	1º A ESO		Pacheco Cano, Encarnación	X	2
+PCT	1º A ESO	114	Amores Oviedo, Asunción	J	1
+Matemáticas	1º A ESO		Benítez Zamora, Belén	J	1
+APOYO	1º A ESO		Iglésis Gallardo, Margari	J	1
+PCT	1º A ESO	114	Amores Oviedo, Asunción	X	1
+Matemáticas	1º A ESO		Benítez Zamora, Belén	X	1
+APOYO	1º A ESO		Iglésis Gallardo, Margari	X	1
+PCT	1º A ESO	114	Amores Oviedo, Asunción	L	5
+Matemáticas	1º A ESO		Benítez Zamora, Belén	L	5
+APOYO	1º A ESO		Iglésis Gallardo, Margari	L	5
+PCT	1º A ESO	114	Amores Oviedo, Asunción	M	1
+Matemáticas	1º A ESO		Benítez Zamora, Belén	M	1
+APOYO PT	1º A ESO		Pacheco Cano, Encarnación	M	1
+Música	1º A ESO	222	González Macías, Rocío	J	3
+APOYO PT	1º A ESO		Pacheco Cano, Encarnación	J	3
+LABORATORIO DE RADIO	1º A ESO	114	Morillo López, Yolanda	M	3
+COMPUTACION Y ROBOTICA	1º A ESO	214	Casado Jiménez, Rocío	M	3
+LABORATORIO DE RADIO	1º A ESO	114	Morillo López, Yolanda	L	6
+COMPUTACION Y ROBOTICA	1º A ESO	214	Casado Jiménez, Rocío	L	6
+Religión	1º A ESO	114	Gómez De los Santos, Rafael	X	7
+ATENCION EDUCATIVA	1º A ESO	122	Rodríguez Pueyo, Lucía	X	7
+Religión EVANGELICA	1º A ESO	115	Moro Álvarez, Maribel	X	7
+PCT	1º B ESO	115	Cubero Madroñal, Emilia	M	6
+APOYO Lengua	1º B ESO		Pérez Ramírez, Ana Cristina	M	6
+Lengua	1º B ESO		García Fernandez, María Jesús	M	6
+PCT	1º B ESO	115	Cubero Madroñal, Emilia	V	7
+Lengua	1º B ESO		García Fernandez, María Jesús	V	7
+APOYO Lengua	1º B ESO		Pérez Ramírez, Ana Cristina	J	7
+Lengua	1º B ESO	115	García Fernandez, María Jesús	J	7
+Apoyo Música	1º B ESO		Pérez Ramírez, Ana Cristina	X	7
+Música	1º B ESO	222	González Macías, Rocío	X	7
+APOYO PT	1º B ESO		Martín Bizcocho, Rocío	L	5
+Lengua	1º B ESO	115	García Fernandez, María Jesús	L	5
+APOYO Lengua			Pérez Ramírez, Ana Cristina	L	5
+APOYO PT	1º B ESO		Martín Bizcocho, Rocío	M	5
+APOYO SOCIOLINGUISTICO	1º B ESO		Morillo López, Yolanda	M	5
+APOYO FRANCES	1º B ESO		Pérez Ramírez, Ana Cristina	M	5
+FRANCES	1º B ESO	115	Rodríguez Pueyo, Lucía	M	5
+APOYO PT	1º B ESO		Martín Bizcocho, Rocío	V	3
+APOYO SOCIOLINGUISTICO	1º B ESO		Morillo López, Yolanda	V	3
+FRANCES	1º B ESO	115	Rodríguez Pueyo, Lucía	V	3
+APOYO PT	1º B ESO		Martín Bizcocho, Rocío	X	2
+Biología y Geología	1º B ESO	115	Pezzotti, María Rosa	X	2
+APOYO	1º B ESO		Pérez Ramírez, Ana Cristina	J	1
+Educación Física	1º B ESO	GIM	Durán Correa, Fernando	J	1
+APOYO	1º B ESO		Fernandez Calderón, Carlos	L	2
+Educación Física	1º B ESO	GIM	Durán Correa, Fernando	L	2
+APOYO	1º B ESO		Fernandez Calderón, Carlos	M	1
+Educación Física	1º B ESO	GIM	Durán Correa, Fernando	M	1
+APOYO	1º B ESO		Pérez Ramírez, Ana Cristina	L	1
+Biología y Geología	1º B ESO	115	Pezzotti, María Rosa	L	1
+APOYO	1º B ESO		Pérez Ramírez, Ana Cristina	V	2
+Biología y Geología	1º B ESO	115	Pezzotti, María Rosa	V	2
+CoTutoría	1º B ESO	115	Pérez Ramírez, Ana Cristina	M	3
+Tutoría	1º B ESO		Pezzotti, María Rosa	M	3
+EDUCACION PLATICA Y VISUAL	1º B ESO	115	Aguilar Gutiérrez, Jorge	J	2
+APOYO EPV	1º B ESO		Pérez Ramírez, Ana Cristina	J	2
+Ciencias Sociales	1º B ESO	115	Torres Gago, José María	V	5
+Ciencias Sociales	1º B ESO		Pérez Ramírez, Ana Cristina	V	5
+Ciencias Sociales	1º B ESO	115	Torres Gago, José María	X	5
+Ciencias Sociales	1º B ESO		Pérez Ramírez, Ana Cristina	X	5
+Ciencias Sociales	1º B ESO	115	Torres Gago, José María	M	2
+PCT	1º B ESO		Ponce Garzón, Rafael	M	2
+APOYO PT	1º B ESO		Martín Bizcocho, Rocío	M	2
+Inglés	1º B ESO	115	Durán Campos, María José	M	7
+APOYO INGLES	1º B ESO		Pérez Ramírez, Ana Cristina	M	7
+Inglés	1º B ESO	115	Durán Campos, María José	L	3
+APOYO INGLES	1º B ESO		Pérez Ramírez, Ana Cristina	L	3
+Inglés	1º B ESO	115	Durán Campos, María José	J	5
+APOYO INGLES	1º B ESO		Pérez Ramírez, Ana Cristina	J	5
+Inglés	1º B ESO	115	Durán Campos, María José	X	1
+APOYO PT	1º B ESO		Martín Bizcocho, Rocío	X	1
+PCT	1º B ESO	115	Peña Varela, Cristina	J	6
+Matemáticas	1º B ESO	112B	Ramos Gallego, Ana	J	6
+APOYO	1º B ESO		Pérez Ramírez, Ana Cristina	J	6
+PCT	1º B ESO	115	Peña Varela, Cristina	V	6
+Matemáticas	1º B ESO	112B	Ramos Gallego, Ana	V	6
+APOYO	1º B ESO		Pérez Ramírez, Ana Cristina	V	6
+PCT	1º B ESO	115	Peña Varela, Cristina	X	6
+Matemáticas	1º B ESO		Ramos Gallego, Ana	X	6
+APOYO	1º B ESO		Pérez Ramírez, Ana Cristina	X	6
+PCT	1º B ESO	115	Peña Varela, Cristina	L	7
+Matemáticas	1º B ESO	112B	Ramos Gallego, Ana	L	7
+APOYO PT	1º B ESO		Martín Bizcocho, Rocío	L	7
+Música	1º B ESO	222	González Macías, Rocío	L	6
+APOYO PT	1º B ESO		Martín Bizcocho, Rocío	L	6
+LABORATORIO DE RADIO	1º B ESO	115	Morillo López, Yolanda	V	1
+COMPUTACION Y ROBOTICA	1º B ESO	112B	Márquez Villar, Francisco Javier	V	1
+LABORATORIO DE RADIO	1º B ESO	115	Morillo López, Yolanda	J	3
+COMPUTACION Y ROBOTICA	1º B ESO	112B	Márquez Villar, Francisco Javier	J	3
+Religión	1º B ESO	115	Gómez De los Santos, Rafael	X	3
+ATENCION EDUCATIVA	1º B ESO	122	Rodríguez Pueyo, Lucía	X	3
+Religión EVANGELICA	1º B ESO	125B	Moro Álvarez, Maribel	X	3
+APOYO EF	2º A ESO		Durán Correa, Fernando	J	5
+Educación Física	2º A ESO	GIM	Fernandez Calderón, Carlos	J	5
+APOYO PT	2º A ESO		Capote Gordillo, Alicia	M	6
+Educación Física	2º A ESO	GIM	Fernandez Calderón, Carlos	M	6
+Tutoría	2º A ESO	201	Morillo López, Yolanda	J	2
+Tutoría	2º A ESO		Ruiz Castro, Ana María	J	2
+Educacion en valores	2º A ESO	201	García Piña, Ismael	J	7
+Educacion en valores	2º A ESO		Crespo Arnold, Marcos	J	7
+Francés opt.2º eso	2º A ESO	201	Rodríguez Pueyo, Lucía	X	5
+Francés opt.2º eso	2º B ESO	201	Rodríguez Pueyo, Lucía	X	5
+Francés opt.2º eso	2º C ESO	201	Rodríguez Pueyo, Lucía	X	5
+Vida Saludable	2º A ESO	124	Reina García, Inés	X	5
+Vida Saludable	2º B ESO	124	Reina García, Inés	X	5
+Vida Saludable	2º C ESO	124	Reina García, Inés	X	5
+ORATORIA Y DEBATE	2º A ESO	202	Ramos Calderón, Antonio	X	5
+ORATORIA Y DEBATE	2º B ESO	202	Ramos Calderón, Antonio	X	5
+ORATORIA Y DEBATE	2º C ESO	202	Ramos Calderón, Antonio	X	5
+COMPUTACION Y ROBOTICA	2º A ESO	214	Casado Jiménez, Rocío	X	5
+COMPUTACION Y ROBOTICA	2º B ESO	214	Casado Jiménez, Rocío	X	5
+COMPUTACION Y ROBOTICA	2º C ESO	214	Casado Jiménez, Rocío	X	5
+COMPUTACION Y ROBOTICA	2º A ESO	205	Márquez Villar, Francisco Javier	X	5
+COMPUTACION Y ROBOTICA	2º B ESO	205	Márquez Villar, Francisco Javier	X	5
+COMPUTACION Y ROBOTICA	2º C ESO	205	Márquez Villar, Francisco Javier	X	5
+PROYECTO EDUCACION PLASTICA	2º A ESO	213	Aguilar Gutiérrez, Jorge	X	5
+PROYECTO EDUCACION PLASTICA	2º B ESO	213	Aguilar Gutiérrez, Jorge	X	5
+PROYECTO EDUCACION PLASTICA	2º C ESO	213	Aguilar Gutiérrez, Jorge	X	5
+Francés opt.2º eso	2º A ESO	201	Rodríguez Pueyo, Lucía	L	2
+Francés opt.2º eso	2º B ESO	201	Rodríguez Pueyo, Lucía	L	2
+Francés opt.2º eso	2º C ESO	201	Rodríguez Pueyo, Lucía	L	2
+Vida Saludable	2º A ESO	124	Reina García, Inés	L	2
+Vida Saludable	2º B ESO	124	Reina García, Inés	L	2
+Vida Saludable	2º C ESO	124	Reina García, Inés	L	2
+ORATORIA Y DEBATE	2º A ESO	202	Ramos Calderón, Antonio	L	2
+ORATORIA Y DEBATE	2º B ESO	202	Ramos Calderón, Antonio	L	2
+ORATORIA Y DEBATE	2º C ESO	202	Ramos Calderón, Antonio	L	2
+COMPUTACION Y ROBOTICA	2º A ESO	214	Casado Jiménez, Rocío	L	2
+COMPUTACION Y ROBOTICA	2º B ESO	214	Casado Jiménez, Rocío	L	2
+COMPUTACION Y ROBOTICA	2º C ESO	214	Casado Jiménez, Rocío	L	2
+COMPUTACION Y ROBOTICA	2º A ESO	205	Márquez Villar, Francisco Javier	L	2
+COMPUTACION Y ROBOTICA	2º B ESO	205	Márquez Villar, Francisco Javier	L	2
+COMPUTACION Y ROBOTICA	2º C ESO	205	Márquez Villar, Francisco Javier	L	2
+PROYECTO EDUCACION PLASTICA	2º A ESO	213	Aguilar Gutiérrez, Jorge	L	2
+PROYECTO EDUCACION PLASTICA	2º B ESO	213	Aguilar Gutiérrez, Jorge	L	2
+PROYECTO EDUCACION PLASTICA	2º C ESO	213	Aguilar Gutiérrez, Jorge	L	2
+Física y Química	2º A ESO	201	Ruiz Castro, Ana María	L	1
+APOYO CN	2º A ESO		Reina García, Inés	L	1
+Física y Química	2º A ESO	201	Ruiz Castro, Ana María	M	1
+APOYO CN	2º A ESO		Reina García, Inés	M	1
+Física y Química	2º A ESO	201	Ruiz Castro, Ana María	V	3
+APOCS	2º A ESO		Pacheco Cano, Encarnación	V	3
+Geografía e Historia	2º A ESO	201	Ponce Garzón, Rafael	J	3
+APOYO CSO	2º A ESO		Torres Gago, José María	J	3
+Geografía e Historia	2º A ESO	201	Ponce Garzón, Rafael	X	1
+APOYO CSO	2º A ESO		Torres Gago, José María	X	1
+Geografía e Historia	2º A ESO	201	Ponce Garzón, Rafael	V	5
+APOCS	2º A ESO		Martín Bizcocho, Rocío	V	5
+INGLES	2º A ESO	201	Villegas Muñoz, Rosalía	M	3
+APOYO ING			Cotta Marvizón, Mercedes	M	3
+INGLES	2º A ESO	201	Villegas Muñoz, Rosalía	V	1
+APOYO ING	2º A ESO		Capote Gordillo, Alicia	V	1
+INGLES	2º A ESO	201	Villegas Muñoz, Rosalía	L	6
+APOYO ING	2º A ESO		Capote Gordillo, Alicia	L	6
+INGLES	2º A ESO	201	Villegas Muñoz, Rosalía	J	1
+APOYO ING			Capote Gordillo, Alicia	J	1
+Lengua Cstellana	2º A ESO	201	Morillo López, Yolanda	L	3
+APOYO PT	2º A ESO		Martín Bizcocho, Rocío	L	3
+APOYO LENGUA	2º A ESO		Ramos Calderón, Antonio	L	3
+Lengua Cstellana	2º A ESO	201	Morillo López, Yolanda	V	2
+PCT	2º A ESO		Cubero Madroñal, Emilia	V	2
+APOYO LENGUA	2º A ESO		Ramos Calderón, Antonio	V	2
+Lengua Cstellana	2º A ESO	201	Morillo López, Yolanda	X	2
+APOYO LENGUA	2º A ESO		Ramos Calderón, Antonio	X	2
+Lengua Cstellana	2º A ESO	201	Morillo López, Yolanda	M	7
+PCT			Cubero Madroñal, Emilia	M	7
+Matemáticas	2º A ESO	201	Benítez Zamora, Belén	X	7
+APOYO PT	2º A ESO		Pacheco Cano, Encarnación	X	7
+Matemáticas	2º A ESO	201	Benítez Zamora, Belén	L	7
+PCT	2º A ESO		Amores Oviedo, Asunción	L	7
+APOYO MATEMATICAS	2º A ESO	203	Viruel Romero, Rosa	L	7
+Matemáticas	2º A ESO	201	Benítez Zamora, Belén	V	6
+PCT	2º A ESO		Amores Oviedo, Asunción	V	6
+APOYO MATEMATICAS	2º A ESO	203	Viruel Romero, Rosa	V	6
+Matemáticas	2º A ESO	201	Benítez Zamora, Belén	J	6
+PCT	2º A ESO		Amores Oviedo, Asunción	J	6
+APOYO MATEMATICAS	2º A ESO	203	Viruel Romero, Rosa	J	6
+Música	2º A ESO	222	González Macías, Rocío	X	6
+Apoyo Música	2º A ESO		Capote Gordillo, Alicia	X	6
+Música	2º A ESO	222	González Macías, Rocío	L	5
+Apoyo Música	2º A ESO		Capote Gordillo, Alicia	L	5
+Religión	2º A ESO	201	Fuentes Monge, José	M	2
+ATENCION EDUCATIVA	2º A ESO	203	Fernandez Calderón, Carlos	M	2
+Religión EVANGELICA	2º A ESO	OPOR	Moro Álvarez, Maribel	M	2
+Tecnología	2º A ESO	214	Márquez Villar, Francisco Javier	M	5
+Apoyo Tecnología	2º A ESO		Laguna Luque, María Luisa	M	5
+Tecnología	2º A ESO	214	Márquez Villar, Francisco Javier	V	7
+Apoyo Tecnología	2º A ESO		Laguna Luque, María Luisa	V	7
+Tecnología	2º A ESO	214	Márquez Villar, Francisco Javier	X	3
+Apoyo Tecnología	2º A ESO		Laguna Luque, María Luisa	X	3
+APOYO EF	2º B ESO		Fernandez Calderón, Carlos	V	5
+Educación Física	2º B ESO	GIM	Durán Correa, Fernando	V	5
+APOYO PT	2º B ESO		Capote Gordillo, Alicia	M	5
+Educación Física	2º B ESO	GIM	Durán Correa, Fernando	M	5
+Tutoría	2º B ESO	202	Ciero Polvillo, Conchi	L	7
+Tutoría	2º B ESO		Durán Correa, Fernando	L	7
+Educacion en valores	2º B ESO	202	García Piña, Ismael	J	5
+Educacion en valores	2º B ESO		Crespo Arnold, Marcos	J	5
+Física y Química	2º B ESO	202	Ruiz Castro, Ana María	X	2
+APOYO CN	2º B ESO		Prado Lobato, Miriam	X	2
+Física y Química	2º B ESO	202	Ruiz Castro, Ana María	M	3
+APOYO CN	2º B ESO		Prado Lobato, Miriam	M	3
+Física y Química	2º B ESO	202	Ruiz Castro, Ana María	L	3
+APOCN	2º B ESO		Pacheco Cano, Encarnación	L	3
+Geografía e Historia	2º B ESO	202	Torres Gago, José María	V	2
+APOYO CSO	2º B ESO		Gavira Maestre, Clara	V	2
+Geografía e Historia	2º B ESO	202	Torres Gago, José María	J	1
+APOYO CSO	2º B ESO		Gavira Maestre, Clara	J	1
+Geografía e Historia	2º B ESO	202	Torres Gago, José María	M	7
+APOCS	2º B ESO		Martín Bizcocho, Rocío	M	7
+INGLES	2º B ESO	202	Ciero Polvillo, Conchi	X	7
+APOYO ING	2º B ESO		Capote Gordillo, Alicia	X	7
+INGLES	2º B ESO	202	Ciero Polvillo, Conchi	M	1
+APOYO ING	2º B ESO		Capote Gordillo, Alicia	M	1
+INGLES	2º B ESO	202	Ciero Polvillo, Conchi	J	3
+APOYO ING	2º B ESO		Capote Gordillo, Alicia	J	3
+INGLES	2º B ESO	202	Ciero Polvillo, Conchi	V	7
+APOYO ING	2º B ESO		Cotta Marvizón, Mercedes	V	7
+Lengua Cstellana	2º B ESO	202	García Fernandez, María Jesús	L	1
+APOYO LENGUA	2º B ESO		Morillo López, Yolanda	L	1
+Lengua Cstellana	2º B ESO	202	García Fernandez, María Jesús	X	3
+PCT	2º B ESO		Cubero Madroñal, Emilia	X	3
+APOYO LENGUA	2º B ESO		Morillo López, Yolanda	X	3
+Lengua Cstellana	2º B ESO	202	García Fernandez, María Jesús	V	6
+PCT	2º B ESO		Cubero Madroñal, Emilia	V	6
+APOYO LENGUA	2º B ESO		Morillo López, Yolanda	V	6
+Lengua Cstellana	2º B ESO	202	García Fernandez, María Jesús	J	6
+APOYO PT			Martín Bizcocho, Rocío	J	6
+Matemáticas	2º B ESO	202	Sánchez Romero, Carmen	J	7
+APOYO PT	2º B ESO		Pacheco Cano, Encarnación	J	7
+Matemáticas	2º B ESO	202	Sánchez Romero, Carmen	V	1
+PCT	2º B ESO		Amores Oviedo, Asunción	V	1
+APOYO MATEMATICAS	2º B ESO		Viruel Romero, Rosa	V	1
+Matemáticas	2º B ESO	202	Sánchez Romero, Carmen	L	6
+PCT	2º B ESO		Amores Oviedo, Asunción	L	6
+APOYO MATEMATICAS	2º B ESO		Viruel Romero, Rosa	L	6
+Matemáticas	2º B ESO	202	Sánchez Romero, Carmen	M	2
+PCT	2º B ESO		Amores Oviedo, Asunción	M	2
+APOYO MATEMATICAS	2º B ESO		Viruel Romero, Rosa	M	2
+Música	2º B ESO	222	González Macías, Rocío	X	1
+Apoyo Música	2º B ESO		Capote Gordillo, Alicia	X	1
+Música	2º B ESO	222	González Macías, Rocío	V	3
+Apoyo Música	2º B ESO		Capote Gordillo, Alicia	V	3
+Religión	2º B ESO	202	Fuentes Monge, José	M	6
+ATENCION EDUCATIVA	2º B ESO	200	Ramos Gallego, Ana	M	6
+Religión EVANGELICA	2º B ESO	203	Moro Álvarez, Maribel	M	6
+Tecnología	2º B ESO	214	Márquez Villar, Francisco Javier	L	5
+Apoyo Tecnología	2º B ESO		Laguna Luque, María Luisa	L	5
+Tecnología	2º B ESO	214	Márquez Villar, Francisco Javier	J	2
+Apoyo Tecnología	2º B ESO		Laguna Luque, María Luisa	J	2
+Tecnología	2º B ESO	214	Márquez Villar, Francisco Javier	X	6
+Apoyo Tecnología	2º B ESO		Laguna Luque, María Luisa	X	6
+APOYO EF	2º C ESO		Fernandez Calderón, Carlos	M	3
+Educación Física	2º C ESO	GIM	Durán Correa, Fernando	M	3
+APOYO PT	2º C ESO		Capote Gordillo, Alicia	X	2
+Educación Física	2º C ESO	GIM	Durán Correa, Fernando	X	2
+Tutoría	2º C ESO	205	Rodríguez Pueyo, Lucía	L	3
+Tutoría	2º C ESO		Crespo Arnold, Marcos	L	3
+Educacion en valores	2º C ESO	205	García Piña, Ismael	J	3
+Educacion en valores	2º C ESO		Crespo Arnold, Marcos	J	3
+Física y Química	2º C ESO	205	Ruiz Castro, Ana María	X	1
+APOYO CN	2º C ESO		Prado Lobato, Miriam	X	1
+Física y Química	2º C ESO	205	Ruiz Castro, Ana María	L	5
+APOYO CN	2º C ESO		Prado Lobato, Miriam	L	5
+Física y Química	2º C ESO	205	Ruiz Castro, Ana María	M	7
+APOCN	2º C ESO		Pacheco Cano, Encarnación	M	7
+Geografía e Historia	2º C ESO	205	Ponce Garzón, Rafael	M	6
+APOYO CSO	2º C ESO		Torres Gago, José María	M	6
+Geografía e Historia	2º C ESO	205	Ponce Garzón, Rafael	X	6
+APOYO CSO	2º C ESO		Torres Gago, José María	X	6
+Geografía e Historia	2º C ESO	205	Ponce Garzón, Rafael	V	7
+APOCS	2º C ESO		Martín Bizcocho, Rocío	V	7
+INGLES	2º C ESO	205	Reina Giráldez, Olga	X	3
+APOYO ING	2º C ESO		Capote Gordillo, Alicia	X	3
+INGLES	2º C ESO	205	Reina Giráldez, Olga	V	5
+APOYO ING	2º C ESO		Capote Gordillo, Alicia	V	5
+INGLES	2º C ESO	205	Reina Giráldez, Olga	L	7
+APOYO ING	2º C ESO		Capote Gordillo, Alicia	L	7
+INGLES	2º C ESO	205	Reina Giráldez, Olga	J	7
+APOYO ING	2º C ESO		Cotta Marvizón, Mercedes	J	7
+Lengua Cstellana	2º C ESO	205	Crespo Arnold, Marcos	J	6
+APOYO LENGUA	2º C ESO		Ignacio Martagón, Montserrat	J	6
+Lengua Cstellana	2º C ESO	205	Crespo Arnold, Marcos	V	1
+PCT	2º C ESO		Cubero Madroñal, Emilia	V	1
+APOYO LENGUA	2º C ESO		Ignacio Martagón, Montserrat	V	1
+Lengua Cstellana	2º C ESO	205	Crespo Arnold, Marcos	L	6
+PCT	2º C ESO		Cubero Madroñal, Emilia	L	6
+APOYO LENGUA	2º C ESO		Ignacio Martagón, Montserrat	L	6
+Lengua Cstellana	2º C ESO	205	Crespo Arnold, Marcos	X	7
+APOYO PT			Martín Bizcocho, Rocío	X	7
+Matemáticas	2º C ESO	205	Viruel Romero, Rosa	M	5
+APOYO PT	2º C ESO		Pacheco Cano, Encarnación	M	5
+Matemáticas	2º C ESO	205	Viruel Romero, Rosa	L	1
+PCT	2º C ESO		Amores Oviedo, Asunción	L	1
+APOYO MATEMATICAS	2º C ESO		Laguna Luque, María Luisa	L	1
+Matemáticas	2º C ESO	205	Viruel Romero, Rosa	V	3
+PCT	2º C ESO		Amores Oviedo, Asunción	V	3
+APOYO MATEMATICAS	2º C ESO		Laguna Luque, María Luisa	V	3
+Matemáticas	2º C ESO	205	Viruel Romero, Rosa	J	5
+PCT	2º C ESO		Amores Oviedo, Asunción	J	5
+APOYO MATEMATICAS	2º C ESO		Laguna Luque, María Luisa	J	5
+Música	2º C ESO	222	González Macías, Rocío	M	2
+Apoyo Música	2º C ESO		Capote Gordillo, Alicia	M	2
+Música	2º C ESO	222	González Macías, Rocío	J	2
+Apoyo Música	2º C ESO		Capote Gordillo, Alicia	J	2
+Religión	2º C ESO	122	Fuentes Monge, José	V	6
+ATENCION EDUCATIVA	2º C ESO	CONV	Crespo Arnold, Marcos	V	6
+Religión EVANGELICA	2º C ESO	205	Moro Álvarez, Maribel	V	6
+Tecnología	2º C ESO	214	Márquez Villar, Francisco Javier	M	1
+Apoyo Tecnología	2º C ESO		Laguna Luque, María Luisa	M	1
+Tecnología	2º C ESO	214	Márquez Villar, Francisco Javier	J	1
+Apoyo Tecnología	2º C ESO		Laguna Luque, María Luisa	J	1
+Tecnología	2º C ESO	214	Márquez Villar, Francisco Javier	V	2
+Apoyo Tecnología	2º C ESO		Laguna Luque, María Luisa	V	2
+BIOLOGIA	3º A ESO	211	Laguna Luque, María Luisa	X	5
+BIOLOGIA	3º A ESO	211	Laguna Luque, María Luisa	L	2
+CULTURA DEL FLAMENCO	3º A ESO	222	González Macías, Rocío	V	5
+CULTURA DEL FLAMENCO	3º C ESO	222	González Macías, Rocío	V	5
+CULTURA DEL FLAMENCO	3º A ESO DIVERSIFICACION	222	González Macías, Rocío	V	5
+CULTURA DEL FLAMENCO	3º B ESO	222	González Macías, Rocío	V	5
+CULTURA DEL FLAMENCO	3º B ESO DIVERSIFICACION	222	González Macías, Rocío	V	5
+CULTURA DEL FLAMENCO	3C diversificación	222	González Macías, Rocío	V	5
+TALLER LABORATORIO	3º A ESO	124	Pérez Molina, Salud	V	5
+TALLER LABORATORIO	3º C ESO	124	Pérez Molina, Salud	V	5
+TALLER LABORATORIO	3º A ESO DIVERSIFICACION	124	Pérez Molina, Salud	V	5
+TALLER LABORATORIO	3º B ESO	124	Pérez Molina, Salud	V	5
+TALLER LABORATORIO	3º B ESO DIVERSIFICACION	124	Pérez Molina, Salud	V	5
+TALLER LABORATORIO	3C diversificación	124	Pérez Molina, Salud	V	5
+COMPUTACION Y ROBOTICA	3º A ESO	214	Casado Jiménez, Rocío	V	5
+COMPUTACION Y ROBOTICA	3º C ESO	214	Casado Jiménez, Rocío	V	5
+COMPUTACION Y ROBOTICA	3º A ESO DIVERSIFICACION	214	Casado Jiménez, Rocío	V	5
+COMPUTACION Y ROBOTICA	3º B ESO	214	Casado Jiménez, Rocío	V	5
+COMPUTACION Y ROBOTICA	3º B ESO DIVERSIFICACION	214	Casado Jiménez, Rocío	V	5
+COMPUTACION Y ROBOTICA	3C diversificación	214	Casado Jiménez, Rocío	V	5
+Francés opt 3º eso	3º A ESO	211	Rodríguez Pueyo, Lucía	V	5
+Francés opt 3º eso	3º C ESO	211	Rodríguez Pueyo, Lucía	V	5
+Francés opt 3º eso	3º A ESO DIVERSIFICACION	211	Rodríguez Pueyo, Lucía	V	5
+Francés opt 3º eso	3º B ESO	211	Rodríguez Pueyo, Lucía	V	5
+Francés opt 3º eso	3º B ESO DIVERSIFICACION	211	Rodríguez Pueyo, Lucía	V	5
+Francés opt 3º eso	3C diversificación	211	Rodríguez Pueyo, Lucía	V	5
+CULTURA DEL FLAMENCO	3º A ESO	222	González Macías, Rocío	M	6
+CULTURA DEL FLAMENCO	3º C ESO	222	González Macías, Rocío	M	6
+CULTURA DEL FLAMENCO	3º A ESO DIVERSIFICACION	222	González Macías, Rocío	M	6
+CULTURA DEL FLAMENCO	3º B ESO	222	González Macías, Rocío	M	6
+CULTURA DEL FLAMENCO	3º B ESO DIVERSIFICACION	222	González Macías, Rocío	M	6
+CULTURA DEL FLAMENCO	3C diversificación	222	González Macías, Rocío	M	6
+TALLER LABORATORIO	3º A ESO	124	Pérez Molina, Salud	M	6
+TALLER LABORATORIO	3º C ESO	124	Pérez Molina, Salud	M	6
+TALLER LABORATORIO	3º A ESO DIVERSIFICACION	124	Pérez Molina, Salud	M	6
+TALLER LABORATORIO	3º B ESO	124	Pérez Molina, Salud	M	6
+TALLER LABORATORIO	3º B ESO DIVERSIFICACION	124	Pérez Molina, Salud	M	6
+TALLER LABORATORIO	3C diversificación	124	Pérez Molina, Salud	M	6
+COMPUTACION Y ROBOTICA	3º A ESO	214	Casado Jiménez, Rocío	M	6
+COMPUTACION Y ROBOTICA	3º C ESO	214	Casado Jiménez, Rocío	M	6
+COMPUTACION Y ROBOTICA	3º A ESO DIVERSIFICACION	214	Casado Jiménez, Rocío	M	6
+COMPUTACION Y ROBOTICA	3º B ESO	214	Casado Jiménez, Rocío	M	6
+COMPUTACION Y ROBOTICA	3º B ESO DIVERSIFICACION	214	Casado Jiménez, Rocío	M	6
+COMPUTACION Y ROBOTICA	3C diversificación	214	Casado Jiménez, Rocío	M	6
+Francés opt 3º eso	3º A ESO	211	Rodríguez Pueyo, Lucía	M	6
+Francés opt 3º eso	3º C ESO	211	Rodríguez Pueyo, Lucía	M	6
+Francés opt 3º eso	3º A ESO DIVERSIFICACION	211	Rodríguez Pueyo, Lucía	M	6
+Francés opt 3º eso	3º B ESO	211	Rodríguez Pueyo, Lucía	M	6
+Francés opt 3º eso	3º B ESO DIVERSIFICACION	211	Rodríguez Pueyo, Lucía	M	6
+Francés opt 3º eso	3C diversificación	211	Rodríguez Pueyo, Lucía	M	6
+Educación Física	3º A ESO	GIM	Durán Correa, Fernando	L	1
+Educación Física	3º A ESO DIVERSIFICACION	GIM	Durán Correa, Fernando	L	1
+Educación Física	3º A ESO	GIM	Durán Correa, Fernando	V	3
+Educación Física	3º A ESO DIVERSIFICACION	GIM	Durán Correa, Fernando	V	3
+EPV	3º A ESO	213	Aguilar Gutiérrez, Jorge	L	5
+EPV	3º A ESO DIVERSIFICACION	213	Aguilar Gutiérrez, Jorge	L	5
+EPV	3º A ESO	213	Aguilar Gutiérrez, Jorge	X	6
+EPV	3º A ESO DIVERSIFICACION	213	Aguilar Gutiérrez, Jorge	X	6
+Física y Química 3º	3º A ESO	211	Prado Lobato, Miriam	V	1
+Física y Química 3º	3º A ESO	211	Prado Lobato, Miriam	J	1
+Física y Química 3º	3º A ESO	211	Prado Lobato, Miriam	M	1
+Geografía e Historia	3º A ESO	211	Gavira Maestre, Clara	J	3
+Geografía e Historia	3º A ESO	211	Gavira Maestre, Clara	M	3
+Geografía e Historia	3º A ESO	211	Gavira Maestre, Clara	V	6
+APOYO PT	3º A ESO		Pacheco Cano, Encarnación	L	6
+Inglés 3º ESO	3º A ESO	211	Durán Campos, María José	L	6
+Inglés 3º ESO	3º A ESO	211	Durán Campos, María José	X	7
+Inglés 3º ESO	3º A ESO	211	Durán Campos, María José	J	2
+Inglés 3º ESO	3º A ESO	211	Durán Campos, María José	M	5
+LENGUA	3º A ESO	211	García Fernandez, María Jesús	M	7
+PCT LEN	3º A ESO		García Piña, Ismael	M	7
+LENGUA	3º A ESO	211	García Fernandez, María Jesús	L	7
+PCT LEN	3º A ESO		García Piña, Ismael	L	7
+LENGUA	3º A ESO	211	García Fernandez, María Jesús	J	5
+LENGUA	3º A ESO	211	García Fernandez, María Jesús	V	2
+PCT LEN	3º A ESO	211	Peña Varela, Cristina	V	7
+Matemáticas	3º A ESO		Benítez Zamora, Belén	V	7
+PCT LEN	3º A ESO	211	Peña Varela, Cristina	J	7
+Matemáticas	3º A ESO		Benítez Zamora, Belén	J	7
+PCT LEN	3º A ESO	211	Peña Varela, Cristina	M	2
+Matemáticas	3º A ESO		Benítez Zamora, Belén	M	2
+Matemáticas	3º A ESO	211	Benítez Zamora, Belén	X	3
+Religión	3º A ESO	211	Gómez De los Santos, Rafael	X	1
+Religión	3º A ESO DIVERSIFICACION	211	Gómez De los Santos, Rafael	X	1
+RELIGION EVANGELICA	3º A ESO	OPOR	Moro Álvarez, Maribel	X	1
+RELIGION EVANGELICA	3º A ESO DIVERSIFICACION	OPOR	Moro Álvarez, Maribel	X	1
+ATENCION EDUCATIVA	3º A ESO	200	García Piña, Ismael	X	1
+ATENCION EDUCATIVA	3º A ESO DIVERSIFICACION	200	García Piña, Ismael	X	1
+Tecnología y digitalizacion	3º A ESO	214	Casado Jiménez, Rocío	L	3
+Tecnología y digitalizacion	3º A ESO DIVERSIFICACION	214	Casado Jiménez, Rocío	L	3
+Tecnología y digitalizacion	3º A ESO	214	Casado Jiménez, Rocío	J	6
+Tecnología y digitalizacion	3º A ESO DIVERSIFICACION	214	Casado Jiménez, Rocío	J	6
+Tutoría	3º A ESO	211	Durán Campos, María José	X	2
+Tutoría	3º A ESO DIVERSIFICACION	211	Durán Campos, María José	X	2
+AMBITO CIENTIFICO-TECNICO	3º A ESO DIVERSIFICACION	200	Reina García, Inés	J	3
+AMBITO CIENTIFICO-TECNICO	3º B ESO DIVERSIFICACION	200	Reina García, Inés	J	3
+AMBITO CIENTIFICO-TECNICO	3C diversificación	200	Reina García, Inés	J	3
+AMBITO CIENTIFICO-TECNICO	3º A ESO DIVERSIFICACION	200	Reina García, Inés	J	5
+AMBITO CIENTIFICO-TECNICO	3º B ESO DIVERSIFICACION	200	Reina García, Inés	J	5
+AMBITO CIENTIFICO-TECNICO	3C diversificación	200	Reina García, Inés	J	5
+AMBITO CIENTIFICO-TECNICO	3º A ESO DIVERSIFICACION	200	Reina García, Inés	M	3
+AMBITO CIENTIFICO-TECNICO	3º B ESO DIVERSIFICACION	200	Reina García, Inés	M	3
+AMBITO CIENTIFICO-TECNICO	3C diversificación	200	Reina García, Inés	M	3
+AMBITO CIENTIFICO-TECNICO	3º A ESO DIVERSIFICACION	200	Reina García, Inés	M	5
+AMBITO CIENTIFICO-TECNICO	3º B ESO DIVERSIFICACION	200	Reina García, Inés	M	5
+AMBITO CIENTIFICO-TECNICO	3C diversificación	200	Reina García, Inés	M	5
+AMBITO CIENTIFICO-TECNICO	3º A ESO DIVERSIFICACION	200	Reina García, Inés	L	7
+AMBITO CIENTIFICO-TECNICO	3º B ESO DIVERSIFICACION	200	Reina García, Inés	L	7
+AMBITO CIENTIFICO-TECNICO	3C diversificación	200	Reina García, Inés	L	7
+AMBITO CIENTIFICO-TECNICO	3º A ESO DIVERSIFICACION	200	Reina García, Inés	L	6
+AMBITO CIENTIFICO-TECNICO	3º B ESO DIVERSIFICACION	200	Reina García, Inés	L	6
+AMBITO CIENTIFICO-TECNICO	3C diversificación	200	Reina García, Inés	L	6
+AMBITO CIENTIFICO-TECNICO	3º A ESO DIVERSIFICACION	200	Reina García, Inés	V	2
+AMBITO CIENTIFICO-TECNICO	3º B ESO DIVERSIFICACION	200	Reina García, Inés	V	2
+AMBITO CIENTIFICO-TECNICO	3C diversificación	200	Reina García, Inés	V	2
+AMBITO CIENTIFICO-TECNICO	3º A ESO DIVERSIFICACION	200	Reina García, Inés	V	1
+AMBITO CIENTIFICO-TECNICO	3º B ESO DIVERSIFICACION	200	Reina García, Inés	V	1
+AMBITO CIENTIFICO-TECNICO	3C diversificación	200	Reina García, Inés	V	1
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	J	1
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	J	1
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	J	1
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	J	2
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	J	2
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	J	2
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	M	1
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	M	1
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	M	1
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	M	2
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	M	2
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	M	2
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	X	3
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	X	3
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	X	3
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	X	5
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	X	5
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	X	5
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	V	7
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	V	7
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	V	7
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	V	6
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	V	6
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	V	6
+AMBITO SOCIOLINGUISTICO	3º A ESO DIVERSIFICACION	200	Santos Ríos, Carmen	L	2
+AMBITO SOCIOLINGUISTICO	3º B ESO DIVERSIFICACION	200	Santos Ríos, Carmen	L	2
+AMBITO SOCIOLINGUISTICO	3C diversificación	200	Santos Ríos, Carmen	L	2
+ORATORIA Y DEBATE	3º A ESO DIVERSIFICACION	200	Ramos Calderón, Antonio	X	7
+ORATORIA Y DEBATE	3º B ESO DIVERSIFICACION	200	Ramos Calderón, Antonio	X	7
+ORATORIA Y DEBATE	3C diversificación	200	Ramos Calderón, Antonio	X	7
+ORATORIA Y DEBATE	3º A ESO DIVERSIFICACION	200	Ramos Calderón, Antonio	M	7
+ORATORIA Y DEBATE	3º B ESO DIVERSIFICACION	200	Ramos Calderón, Antonio	M	7
+ORATORIA Y DEBATE	3C diversificación	200	Ramos Calderón, Antonio	M	7
+Tutoría orientación	3º A ESO DIVERSIFICACION	200	Pérez Del Río, Mercedes	J	7
+Tutoría orientación	3º B ESO DIVERSIFICACION	200	Pérez Del Río, Mercedes	J	7
+Tutoría orientación	3C diversificación	200	Pérez Del Río, Mercedes	J	7
+BIOLOGIA	3º B ESO	212	Laguna Luque, María Luisa	V	6
+BIOLOGIA	3º B ESO	212	Laguna Luque, María Luisa	M	2
+Educación Física	3º B ESO	GIM	Fernandez Calderón, Carlos	J	6
+Educación Física	3º B ESO DIVERSIFICACION	GIM	Fernandez Calderón, Carlos	J	6
+Educación Física	3º B ESO	GIM	Fernandez Calderón, Carlos	L	3
+Educación Física	3º B ESO DIVERSIFICACION	GIM	Fernandez Calderón, Carlos	L	3
+EPV	3º B ESO	213	Aguilar Gutiérrez, Jorge	X	1
+EPV	3º B ESO DIVERSIFICACION	213	Aguilar Gutiérrez, Jorge	X	1
+EPV	3º B ESO	213	Aguilar Gutiérrez, Jorge	V	3
+EPV	3º B ESO DIVERSIFICACION	213	Aguilar Gutiérrez, Jorge	V	3
+Física y Química 3º	3º B ESO	212	Prado Lobato, Miriam	M	5
+Física y Química 3º	3º B ESO	212	Prado Lobato, Miriam	L	2
+Física y Química 3º	3º B ESO	212	Prado Lobato, Miriam	J	3
+Geografía e Historia	3º B ESO	212	Ponce Garzón, Rafael	J	7
+Geografía e Historia	3º B ESO	212	Ponce Garzón, Rafael	M	7
+Geografía e Historia	3º B ESO	212	Ponce Garzón, Rafael	V	1
+APOYO PT	3º B ESO		Pacheco Cano, Encarnación	J	5
+Inglés 3º ESO	3º B ESO	212	Reina Giráldez, Olga	J	5
+Inglés 3º ESO	3º B ESO	212	Reina Giráldez, Olga	V	7
+Inglés 3º ESO	3º B ESO	212	Reina Giráldez, Olga	X	7
+Inglés 3º ESO	3º B ESO	212	Reina Giráldez, Olga	L	6
+LENGUA	3º B ESO	212	Ignacio Martagón, Montserrat	J	2
+PCT LEN	3º B ESO		García Piña, Ismael	J	2
+LENGUA	3º B ESO	212	Ignacio Martagón, Montserrat	X	3
+PCT LEN	3º B ESO		García Piña, Ismael	X	3
+LENGUA	3º B ESO	212	Ignacio Martagón, Montserrat	M	1
+LENGUA	3º B ESO	212	Ignacio Martagón, Montserrat	V	2
+PCT LEN	3º B ESO	212	Peña Varela, Cristina	X	5
+Matemáticas	3º B ESO		Sánchez Romero, Carmen	X	5
+PCT LEN	3º B ESO	212	Peña Varela, Cristina	J	1
+Matemáticas	3º B ESO		Sánchez Romero, Carmen	J	1
+PCT LEN	3º B ESO	212	Peña Varela, Cristina	M	3
+Matemáticas	3º B ESO		Sánchez Romero, Carmen	M	3
+Matemáticas	3º B ESO	212	Sánchez Romero, Carmen	L	7
+Religión	3º B ESO	212	Gómez De los Santos, Rafael	X	6
+Religión	3º B ESO DIVERSIFICACION	212	Gómez De los Santos, Rafael	X	6
+RELIGION EVANGELICA	3º B ESO	200	Moro Álvarez, Maribel	X	6
+RELIGION EVANGELICA	3º B ESO DIVERSIFICACION	200	Moro Álvarez, Maribel	X	6
+ATENCION EDUCATIVA	3º B ESO	203	Ignacio Martagón, Montserrat	X	6
+ATENCION EDUCATIVA	3º B ESO DIVERSIFICACION	203	Ignacio Martagón, Montserrat	X	6
+Tecnología y digitalizacion	3º B ESO	214	Casado Jiménez, Rocío	X	2
+Tecnología y digitalizacion	3º B ESO DIVERSIFICACION	214	Casado Jiménez, Rocío	X	2
+Tecnología y digitalizacion	3º B ESO	200	Casado Jiménez, Rocío	L	5
+Tecnología y digitalizacion	3º B ESO DIVERSIFICACION	200	Casado Jiménez, Rocío	L	5
+Tutoría	3º B ESO	212	Sánchez Romero, Carmen	L	1
+Tutoría	3º B ESO DIVERSIFICACION	212	Sánchez Romero, Carmen	L	1
+BIOLOGIA	3º C ESO	215	Castaño Sánchez, María de los Ángel	L	7
+BIOLOGIA	3º C ESO	215	Castaño Sánchez, María de los Ángel	M	5
+Educación Física	3º C ESO	GIM	Fernandez Calderón, Carlos	L	5
+Educación Física	3C diversificación	GIM	Fernandez Calderón, Carlos	L	5
+Educación Física	3º C ESO	GIM	Fernandez Calderón, Carlos	X	6
+Educación Física	3C diversificación	GIM	Fernandez Calderón, Carlos	X	6
+EPV	3º C ESO	213	Aguilar Gutiérrez, Jorge	L	3
+EPV	3C diversificación	213	Aguilar Gutiérrez, Jorge	L	3
+EPV	3º C ESO	213	Aguilar Gutiérrez, Jorge	J	6
+EPV	3C diversificación	213	Aguilar Gutiérrez, Jorge	J	6
+Física y Química 3º	3º C ESO	215	Prado Lobato, Miriam	J	2
+Física y Química 3º	3º C ESO	215	Prado Lobato, Miriam	L	6
+Física y Química 3º	3º C ESO	215	Prado Lobato, Miriam	X	7
+Geografía e Historia	3º C ESO	215	López García, José Luis	V	1
+Geografía e Historia	3º C ESO	215	López García, José Luis	J	3
+Geografía e Historia	3º C ESO	215	López García, José Luis	M	2
+APOYO PT	3º C ESO		Pacheco Cano, Encarnación	V	6
+Inglés 3º ESO	3º C ESO	215	Ciero Polvillo, Conchi	V	6
+Inglés 3º ESO	3º C ESO	215	Ciero Polvillo, Conchi	J	7
+Inglés 3º ESO	3º C ESO	215	Ciero Polvillo, Conchi	M	7
+Inglés 3º ESO	3º C ESO	215	Ciero Polvillo, Conchi	X	3
+LENGUA	3º C ESO	215	Ignacio Martagón, Montserrat	J	1
+PCT LEN	3º C ESO		García Piña, Ismael	J	1
+LENGUA	3º C ESO	215	Ignacio Martagón, Montserrat	V	7
+PCT LEN	3º C ESO		García Piña, Ismael	V	7
+LENGUA	3º C ESO	215	Ignacio Martagón, Montserrat	M	3
+LENGUA	3º C ESO	215	Ignacio Martagón, Montserrat	X	5
+PCT LEN	3º C ESO	215	Peña Varela, Cristina	L	2
+Matemáticas	3º C ESO		Sánchez Romero, Carmen	L	2
+PCT LEN	3º C ESO	215	Peña Varela, Cristina	J	5
+Matemáticas	3º C ESO		Sánchez Romero, Carmen	J	5
+PCT LEN	3º C ESO	215	Peña Varela, Cristina	V	2
+Matemáticas	3º C ESO		Sánchez Romero, Carmen	V	2
+Matemáticas	3º C ESO	215	Sánchez Romero, Carmen	M	1
+Religión	3º C ESO	215	Gómez De los Santos, Rafael	X	2
+Religión	3C diversificación	215	Gómez De los Santos, Rafael	X	2
+RELIGION EVANGELICA	3º C ESO	OPOR	Moro Álvarez, Maribel	X	2
+RELIGION EVANGELICA	3C diversificación	OPOR	Moro Álvarez, Maribel	X	2
+ATENCION EDUCATIVA	3º C ESO	200	García Piña, Ismael	X	2
+ATENCION EDUCATIVA	3C diversificación	200	García Piña, Ismael	X	2
+Tecnología y digitalizacion	3º C ESO	214	Casado Jiménez, Rocío	L	1
+Tecnología y digitalizacion	3C diversificación	214	Casado Jiménez, Rocío	L	1
+Tecnología y digitalizacion	3º C ESO	214	Casado Jiménez, Rocío	X	1
+Tecnología y digitalizacion	3C diversificación	214	Casado Jiménez, Rocío	X	1
+Tutoría	3º C ESO	215	López García, José Luis	V	3
+Tutoría	3C diversificación	215	López García, José Luis	V	3
+ARTES ESCENICAS Y DANZA	4º A ESO	222	González Macías, Rocío	M	7
+ARTES ESCENICAS Y DANZA	4º A Diversificación	222	González Macías, Rocío	M	7
+CULTURA CIENTIFICA	4º A ESO	111	Pérez Molina, Salud	M	7
+CULTURA CIENTIFICA	4º A Diversificación	111	Pérez Molina, Salud	M	7
+ILUSTRACION Y ACUARELA	4º A ESO	213	Aguilar Gutiérrez, Jorge	M	7
+ILUSTRACION Y ACUARELA	4º A Diversificación	213	Aguilar Gutiérrez, Jorge	M	7
+ARTES ESCENICAS Y DANZA	4º A ESO	222	González Macías, Rocío	J	5
+ARTES ESCENICAS Y DANZA	4º A Diversificación	222	González Macías, Rocío	J	5
+CULTURA CIENTIFICA	4º A ESO	111	Pérez Molina, Salud	J	5
+CULTURA CIENTIFICA	4º A Diversificación	111	Pérez Molina, Salud	J	5
+ILUSTRACION Y ACUARELA	4º A ESO	213	Aguilar Gutiérrez, Jorge	J	5
+ILUSTRACION Y ACUARELA	4º A Diversificación	213	Aguilar Gutiérrez, Jorge	J	5
+ATENCION EDUCATIVA	4º A ESO	112B	Ramos Calderón, Antonio	V	7
+ATENCION EDUCATIVA	4º A Diversificación	112B	Ramos Calderón, Antonio	V	7
+Religión 4º	4º A ESO	110	Fuentes Monge, José	V	7
+Religión 4º	4º A Diversificación	110	Fuentes Monge, José	V	7
+RELIGION EVANGELICA	4º A ESO	111	Moro Álvarez, Maribel	V	7
+RELIGION EVANGELICA	4º A Diversificación	111	Moro Álvarez, Maribel	V	7
+Biología y Geología	4º A ESO	111	Pezzotti, María Rosa	M	2
+Tecnología	4º A ESO	214	Márquez Villar, Francisco Javier	M	2
+Biología y Geología	4º A ESO	111	Pezzotti, María Rosa	V	3
+Tecnología	4º A ESO	214	Márquez Villar, Francisco Javier	V	3
+Biología y Geología	4º A ESO	111	Pezzotti, María Rosa	X	7
+Tecnología	4º A ESO	214	Márquez Villar, Francisco Javier	X	7
+Educación Física 4º	4º A ESO	GIM	Durán Correa, Fernando	L	6
+Educación Física 4º	4º A Diversificación	GIM	Durán Correa, Fernando	L	6
+Educación Física 4º	4º A ESO	GIM	Durán Correa, Fernando	X	1
+Educación Física 4º	4º A Diversificación	GIM	Durán Correa, Fernando	X	1
+Francés opt 4º eso	4º A ESO	111	Rodríguez Pueyo, Lucía	V	6
+Francés opt 4º eso	4º A Diversificación	111	Rodríguez Pueyo, Lucía	V	6
+MUSICA	4º A ESO	222	González Macías, Rocío	V	6
+MUSICA	4º A Diversificación	222	González Macías, Rocío	V	6
+DIGITALIZACION	4º A ESO	214	Márquez Villar, Francisco Javier	V	6
+DIGITALIZACION	4º A Diversificación	214	Márquez Villar, Francisco Javier	V	6
+Francés opt 4º eso	4º A ESO	111	Rodríguez Pueyo, Lucía	X	2
+Francés opt 4º eso	4º A Diversificación	111	Rodríguez Pueyo, Lucía	X	2
+MUSICA	4º A ESO	222	González Macías, Rocío	X	2
+MUSICA	4º A Diversificación	222	González Macías, Rocío	X	2
+DIGITALIZACION	4º A ESO	112B	Márquez Villar, Francisco Javier	X	2
+DIGITALIZACION	4º A Diversificación	112B	Márquez Villar, Francisco Javier	X	2
+Francés opt 4º eso	4º A ESO	111	Rodríguez Pueyo, Lucía	L	7
+Francés opt 4º eso	4º A Diversificación	111	Rodríguez Pueyo, Lucía	L	7
+MUSICA	4º A ESO	222	González Macías, Rocío	L	7
+MUSICA	4º A Diversificación	222	González Macías, Rocío	L	7
+DIGITALIZACION	4º A ESO	214	Márquez Villar, Francisco Javier	L	7
+DIGITALIZACION	4º A Diversificación	214	Márquez Villar, Francisco Javier	L	7
+FISICA Y QUIMICA	4º A ESO	113	Ruiz Castro, Ana María	M	6
+FISICA Y QUIMICA	4º A Diversificación	113	Ruiz Castro, Ana María	M	6
+ECONOMIA Y EMPRENDIMIENTO	4º A ESO	126	Caballero de León Morales, María	M	6
+ECONOMIA Y EMPRENDIMIENTO	4º A Diversificación	126	Caballero de León Morales, María	M	6
+EXPRESION ARTISTICA	4º A ESO	213	Aguilar Gutiérrez, Jorge	M	6
+EXPRESION ARTISTICA	4º A Diversificación	213	Aguilar Gutiérrez, Jorge	M	6
+FISICA Y QUIMICA	4º A ESO	113	Ruiz Castro, Ana María	V	1
+FISICA Y QUIMICA	4º A Diversificación	113	Ruiz Castro, Ana María	V	1
+ECONOMIA Y EMPRENDIMIENTO	4º A ESO	126	Caballero de León Morales, María	V	1
+ECONOMIA Y EMPRENDIMIENTO	4º A Diversificación	126	Caballero de León Morales, María	V	1
+EXPRESION ARTISTICA	4º A ESO	213	Aguilar Gutiérrez, Jorge	V	1
+EXPRESION ARTISTICA	4º A Diversificación	213	Aguilar Gutiérrez, Jorge	V	1
+FISICA Y QUIMICA	4º A ESO	113	Ruiz Castro, Ana María	J	1
+FISICA Y QUIMICA	4º A Diversificación	113	Ruiz Castro, Ana María	J	1
+ECONOMIA Y EMPRENDIMIENTO	4º A ESO	126	Caballero de León Morales, María	J	1
+ECONOMIA Y EMPRENDIMIENTO	4º A Diversificación	126	Caballero de León Morales, María	J	1
+EXPRESION ARTISTICA	4º A ESO	213	Aguilar Gutiérrez, Jorge	J	1
+EXPRESION ARTISTICA	4º A Diversificación	213	Aguilar Gutiérrez, Jorge	J	1
+Geografía e Historia	4º A ESO	111	Torres Gago, José María	L	2
+Geografía e Historia	4º A ESO	111	Torres Gago, José María	M	5
+Inglés 4º	4º A ESO	111	Villegas Muñoz, Rosalía	X	5
+Inglés 4º	4º A ESO	111	Villegas Muñoz, Rosalía	L	5
+Inglés 4º	4º A ESO	111	Villegas Muñoz, Rosalía	M	1
+APOYO PT	4º A ESO		Martín Bizcocho, Rocío	V	2
+Inglés 4º	4º A ESO	111	Villegas Muñoz, Rosalía	V	2
+APOYO PT	4º A ESO		Martín Bizcocho, Rocío	J	7
+Geografía e Historia	4º A ESO	111	Torres Gago, José María	J	7
+PCT	4º A ESO	111	Peña Varela, Cristina	J	2
+Matemáticas A 4º	4º A ESO		Sánchez Romero, Carmen	J	2
+PCT	4º A ESO		Amores Oviedo, Asunción	J	2
+Matemáticas B 4º	4º A ESO	122	Benítez Zamora, Belén	J	2
+PCT	4º A ESO	111	Peña Varela, Cristina	V	5
+Matemáticas A 4º	4º A ESO		Sánchez Romero, Carmen	V	5
+Matemáticas B 4º	4º A ESO	122	Benítez Zamora, Belén	V	5
+PCT	4º A ESO	111	Peña Varela, Cristina	L	3
+Matemáticas A 4º	4º A ESO		Sánchez Romero, Carmen	L	3
+Matemáticas B 4º	4º A ESO	122	Benítez Zamora, Belén	L	3
+PCT	4º A ESO	111	Cubero Madroñal, Emilia	J	3
+Lengua Castellana 4º	4º A ESO		Ramos Calderón, Antonio	J	3
+PCT	4º A ESO	111	Cubero Madroñal, Emilia	L	1
+Lengua Castellana 4º	4º A ESO		Ramos Calderón, Antonio	L	1
+Lengua Castellana 4º	4º A ESO	111	Ramos Calderón, Antonio	M	3
+Lengua Castellana 4º	4º A ESO	111	Ramos Calderón, Antonio	X	3
+Matemáticas A 4º	4º A ESO	111	Sánchez Romero, Carmen	X	6
+Matemáticas B 4º	4º A ESO	122	Benítez Zamora, Belén	X	6
+Tutoría	4º A ESO	111	Torres Gago, José María	J	6
+Tutoría	4º A Diversificación	111	Torres Gago, José María	J	6
+Tutoría	4º A ESO	110	Villegas Muñoz, Rosalía	J	6
+Tutoría	4º A Diversificación	110	Villegas Muñoz, Rosalía	J	6
+AMBITO CIENTIFICO	4º A Diversificación	110	Pérez Molina, Salud	L	3
+AMBITO CIENTIFICO	4º A Diversificación	110	Pérez Molina, Salud	L	5
+AMBITO CIENTIFICO	4º A Diversificación	110	Pérez Molina, Salud	M	5
+AMBITO CIENTIFICO	4º A Diversificación	110	Pérez Molina, Salud	M	3
+AMBITO CIENTIFICO	4º A Diversificación	110	Pérez Molina, Salud	J	3
+AMBITO CIENTIFICO	4º A Diversificación	110	Pérez Molina, Salud	J	2
+AMBITO CIENTIFICO	4º A Diversificación	110	Pérez Molina, Salud	X	7
+AMBITO CIENTIFICO	4º A Diversificación	110	Pérez Molina, Salud	X	6
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	L	1
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	L	2
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	X	5
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	X	3
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	V	3
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	V	5
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	M	1
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	M	2
+AMBITO LINGUISTICO Y SOCIAL	4º A Diversificación	110	López Rodríguez, Amparo	J	7
+Tutoría orientación	4º A Diversificación	110	Cordero Romero, Amelia	V	2
+Biología y Geología 1ºBA	1BB Bachillerato CIENCIAS NATURALES		Ortega Romero, Carmen	L	1
+Biología y Geología 1ºBA	1BB Bachillerato CIENCIAS NATURALES		Ortega Romero, Carmen	X	2
+Biología y Geología 1ºBA	1BB Bachillerato CIENCIAS NATURALES		Ortega Romero, Carmen	J	7
+Biología y Geología 1ºBA	1BB Bachillerato CIENCIAS NATURALES		Ortega Romero, Carmen	V	2
+Educación Física 1ºBA	1BB Bachillerato CIENCIAS NATURALES	131	Durán Correa, Fernando	L	5
+Educación Física 1ºBA	1BA Bachillerato Hum. y c. sociales	131	Durán Correa, Fernando	L	5
+Educación Física 1ºBA	1BB Bachillerato CIENCIAS NATURALES	131	Durán Correa, Fernando	J	2
+Educación Física 1ºBA	1BA Bachillerato Hum. y c. sociales	131	Durán Correa, Fernando	J	2
+EDUCACION EN VALORES	1BB Bachillerato CIENCIAS NATURALES	131	Figueroa Abrio, Mercedes	M	3
+EDUCACION EN VALORES	1BA Bachillerato Hum. y c. sociales	131	Figueroa Abrio, Mercedes	M	3
+Religión	1BB Bachillerato CIENCIAS NATURALES	122	Fuentes Monge, José	M	3
+Religión	1BA Bachillerato Hum. y c. sociales	122	Fuentes Monge, José	M	3
+RELIGION EVANGELICA	1BB Bachillerato CIENCIAS NATURALES	112B	Moro Álvarez, Maribel	M	3
+RELIGION EVANGELICA	1BA Bachillerato Hum. y c. sociales	112B	Moro Álvarez, Maribel	M	3
+Filosofía 1º BA	1BB Bachillerato CIENCIAS NATURALES	131	Crespo Arnold, Marcos	V	3
+Filosofía 1º BA	1BA Bachillerato Hum. y c. sociales	131	Crespo Arnold, Marcos	V	3
+Filosofía 1º BA	1BB Bachillerato CIENCIAS NATURALES	131	Crespo Arnold, Marcos	X	5
+Filosofía 1º BA	1BA Bachillerato Hum. y c. sociales	131	Crespo Arnold, Marcos	X	5
+Filosofía 1º BA	1BB Bachillerato CIENCIAS NATURALES	131	Crespo Arnold, Marcos	M	1
+Filosofía 1º BA	1BA Bachillerato Hum. y c. sociales	131	Crespo Arnold, Marcos	M	1
+Física y Química 1º BA	1BB Bachillerato CIENCIAS NATURALES		Ruiz Castro, Ana María	M	5
+Física y Química 1º BA	1BB Bachillerato CIENCIAS NATURALES		Ruiz Castro, Ana María	J	3
+Física y Química 1º BA	1BB Bachillerato CIENCIAS NATURALES		Ruiz Castro, Ana María	X	7
+Física y Química 1º BA	1BB Bachillerato CIENCIAS NATURALES		Ruiz Castro, Ana María	L	2
+Inglés 1º BA	1BB Bachillerato CIENCIAS NATURALES	131	Durán Campos, María José	J	6
+Inglés 1º BA	1BA Bachillerato Hum. y c. sociales	131	Durán Campos, María José	J	6
+Inglés 1º BA	1BB Bachillerato CIENCIAS NATURALES	131	Durán Campos, María José	M	6
+Inglés 1º BA	1BA Bachillerato Hum. y c. sociales	131	Durán Campos, María José	M	6
+Inglés 1º BA	1BB Bachillerato CIENCIAS NATURALES	131	Durán Campos, María José	L	7
+Inglés 1º BA	1BA Bachillerato Hum. y c. sociales	131	Durán Campos, María José	L	7
+Inglés 1º BA	1BB Bachillerato CIENCIAS NATURALES	131	Durán Campos, María José	V	6
+Inglés 1º BA	1BA Bachillerato Hum. y c. sociales	131	Durán Campos, María José	V	6
+Lengua Castellana 1ºBA	1BB Bachillerato CIENCIAS NATURALES	131	Morillo López, Yolanda	M	2
+Lengua Castellana 1ºBA	1BA Bachillerato Hum. y c. sociales	131	Morillo López, Yolanda	M	2
+Lengua Castellana 1ºBA	1BB Bachillerato CIENCIAS NATURALES	131	Morillo López, Yolanda	X	1
+Lengua Castellana 1ºBA	1BA Bachillerato Hum. y c. sociales	131	Morillo López, Yolanda	X	1
+Lengua Castellana 1ºBA	1BB Bachillerato CIENCIAS NATURALES	131	Morillo López, Yolanda	J	1
+Lengua Castellana 1ºBA	1BA Bachillerato Hum. y c. sociales	131	Morillo López, Yolanda	J	1
+Lengua Castellana 1ºBA	1BB Bachillerato CIENCIAS NATURALES	131	Morillo López, Yolanda	V	7
+Lengua Castellana 1ºBA	1BA Bachillerato Hum. y c. sociales	131	Morillo López, Yolanda	V	7
+Matemáticas 1º BA	1BB Bachillerato CIENCIAS NATURALES	112B	Viruel Romero, Rosa	X	6
+Matemáticas 1º BA	1BB Bachillerato CIENCIAS NATURALES	112B	Viruel Romero, Rosa	L	3
+Matemáticas 1º BA	1BB Bachillerato CIENCIAS NATURALES	112B	Viruel Romero, Rosa	V	5
+Matemáticas 1º BA	1BB Bachillerato CIENCIAS NATURALES	112B	Viruel Romero, Rosa	M	7
+PATRIMONIO CULTURAL ANDALUZ	1BB Bachillerato CIENCIAS NATURALES	131	Torres Gago, José María	V	1
+PATRIMONIO CULTURAL ANDALUZ	1BA Bachillerato Hum. y c. sociales	131	Torres Gago, José María	V	1
+ANATOMIA APLICADA	1BB Bachillerato CIENCIAS NATURALES	124	Pezzotti, María Rosa	V	1
+ANATOMIA APLICADA	1BA Bachillerato Hum. y c. sociales	124	Pezzotti, María Rosa	V	1
+PATRIMONIO CULTURAL ANDALUZ	1BB Bachillerato CIENCIAS NATURALES	131	Torres Gago, José María	X	3
+PATRIMONIO CULTURAL ANDALUZ	1BA Bachillerato Hum. y c. sociales	131	Torres Gago, José María	X	3
+ANATOMIA APLICADA	1BB Bachillerato CIENCIAS NATURALES	124	Pezzotti, María Rosa	X	3
+ANATOMIA APLICADA	1BA Bachillerato Hum. y c. sociales	124	Pezzotti, María Rosa	X	3
+ESTADISTICA 1	1BB Bachillerato CIENCIAS NATURALES	131	Benítez Zamora, Belén	J	5
+ESTADISTICA 1	1BA Bachillerato Hum. y c. sociales	131	Benítez Zamora, Belén	J	5
+Francés 1º BA	1BB Bachillerato CIENCIAS NATURALES	122	Rodríguez Pueyo, Lucía	J	5
+Francés 1º BA	1BA Bachillerato Hum. y c. sociales	122	Rodríguez Pueyo, Lucía	J	5
+ESTADISTICA 1	1BB Bachillerato CIENCIAS NATURALES	131	Benítez Zamora, Belén	L	6
+ESTADISTICA 1	1BA Bachillerato Hum. y c. sociales	131	Benítez Zamora, Belén	L	6
+Francés 1º BA	1BB Bachillerato CIENCIAS NATURALES	122	Rodríguez Pueyo, Lucía	L	6
+Francés 1º BA	1BA Bachillerato Hum. y c. sociales	122	Rodríguez Pueyo, Lucía	L	6
+ECONOMIA	1BA Bachillerato Hum. y c. sociales	126	Caballero de León Morales, María	J	3
+ECONOMIA	1BA Bachillerato Hum. y c. sociales	136	Caballero de León Morales, María	M	5
+ECONOMIA	1BA Bachillerato Hum. y c. sociales	126	Caballero de León Morales, María	X	6
+ECONOMIA	1BA Bachillerato Hum. y c. sociales	136	Caballero de León Morales, María	L	1
+Historia	1BA Bachillerato Hum. y c. sociales	131	Gavira Maestre, Clara	M	7
+Historia	1BA Bachillerato Hum. y c. sociales	131	Gavira Maestre, Clara	L	3
+Historia	1BA Bachillerato Hum. y c. sociales	131	Gavira Maestre, Clara	X	2
+Historia	1BA Bachillerato Hum. y c. sociales	131	Gavira Maestre, Clara	V	5
+MATEMATICAS CIENCIAS SOCIALES	1BA Bachillerato Hum. y c. sociales	131	Viruel Romero, Rosa	L	2
+MATEMATICAS CIENCIAS SOCIALES	1BA Bachillerato Hum. y c. sociales	131	Viruel Romero, Rosa	V	2
+MATEMATICAS CIENCIAS SOCIALES	1BA Bachillerato Hum. y c. sociales	131	Viruel Romero, Rosa	J	7
+MATEMATICAS CIENCIAS SOCIALES	1BA Bachillerato Hum. y c. sociales	131	Viruel Romero, Rosa	X	7
+ACTIVIDAD FISICA SALUD Y SOCIEDAD	2º Bach. Ciencias Nat.	GIM	Fernandez Calderón, Carlos	V	1
+ACTIVIDAD FISICA SALUD Y SOCIEDAD	2ºA BACH. CIENCIAS SOCIALES	GIM	Fernandez Calderón, Carlos	V	1
+FRANCES	2º Bach. Ciencias Nat.	137	Rodríguez Pueyo, Lucía	V	1
+FRANCES	2ºA BACH. CIENCIAS SOCIALES	137	Rodríguez Pueyo, Lucía	V	1
+ACTIVIDAD FISICA SALUD Y SOCIEDAD	2º Bach. Ciencias Nat.	GIM	Fernandez Calderón, Carlos	J	3
+ACTIVIDAD FISICA SALUD Y SOCIEDAD	2ºA BACH. CIENCIAS SOCIALES	GIM	Fernandez Calderón, Carlos	J	3
+FRANCES	2º Bach. Ciencias Nat.	137	Rodríguez Pueyo, Lucía	J	3
+FRANCES	2ºA BACH. CIENCIAS SOCIALES	137	Rodríguez Pueyo, Lucía	J	3
+Biología	2º Bach. Ciencias Nat.	124	Castaño Sánchez, María de los Ángel	L	3
+Biología	2º Bach. Ciencias Nat.	124	Castaño Sánchez, María de los Ángel	M	3
+Biología	2º Bach. Ciencias Nat.	124	Castaño Sánchez, María de los Ángel	X	2
+Biología	2º Bach. Ciencias Nat.	124	Castaño Sánchez, María de los Ángel	J	7
+Matemáticas 2º	2º Bach. Ciencias Nat.	112B	Ramos Gallego, Ana	X	7
+Matemáticas 2º	2º Bach. Ciencias Nat.	112B	Ramos Gallego, Ana	M	5
+Matemáticas 2º	2º Bach. Ciencias Nat.	112B	Ramos Gallego, Ana	J	2
+Matemáticas 2º	2º Bach. Ciencias Nat.	112B	Ramos Gallego, Ana	L	6
+Química	2º Bach. Ciencias Nat.	113	Prado Lobato, Miriam	L	1
+Química	2º Bach. Ciencias Nat.	113	Prado Lobato, Miriam	X	5
+Química	2º Bach. Ciencias Nat.	113	Prado Lobato, Miriam	V	2
+Química	2º Bach. Ciencias Nat.	113	Prado Lobato, Miriam	M	7
+EMPRESA Y DISEÑO MODELOS DE NEGOCIO	2ºA BACH. CIENCIAS SOCIALES	126	Caballero de León Morales, María	V	2
+EMPRESA Y DISEÑO MODELOS DE NEGOCIO	2ºA BACH. CIENCIAS SOCIALES	126	Caballero de León Morales, María	L	6
+EMPRESA Y DISEÑO MODELOS DE NEGOCIO	2ºA BACH. CIENCIAS SOCIALES	126	Caballero de León Morales, María	M	3
+EMPRESA Y DISEÑO MODELOS DE NEGOCIO	2ºA BACH. CIENCIAS SOCIALES	136	Caballero de León Morales, María	X	7
+EDUCACION EN VALORES	2ºA BACH. CIENCIAS SOCIALES	126	Fernandez Calderón, Carlos	V	3
+EDUCACION EN VALORES	2º Bach. Ciencias Nat.	126	Fernandez Calderón, Carlos	V	3
+Religión	2ºA BACH. CIENCIAS SOCIALES	112B	Moro Álvarez, Maribel	V	3
+Religión	2º Bach. Ciencias Nat.	112B	Moro Álvarez, Maribel	V	3
+Religión	2ºA BACH. CIENCIAS SOCIALES	137	Fuentes Monge, José	V	3
+Religión	2º Bach. Ciencias Nat.	137	Fuentes Monge, José	V	3
+Historia de la Filosofía	2ºA BACH. CIENCIAS SOCIALES	137	Crespo Arnold, Marcos	X	6
+Historia de la Filosofía	2º Bach. Ciencias Nat.	137	Crespo Arnold, Marcos	X	6
+Historia de la Filosofía	2ºA BACH. CIENCIAS SOCIALES	137	Crespo Arnold, Marcos	M	6
+Historia de la Filosofía	2º Bach. Ciencias Nat.	137	Crespo Arnold, Marcos	M	6
+Historia de la Filosofía	2ºA BACH. CIENCIAS SOCIALES	137	Crespo Arnold, Marcos	V	7
+Historia de la Filosofía	2º Bach. Ciencias Nat.	137	Crespo Arnold, Marcos	V	7
+GEOGRAFÍA	2ºA BACH. CIENCIAS SOCIALES	137	Gavira Maestre, Clara	J	2
+GEOGRAFÍA	2ºA BACH. CIENCIAS SOCIALES	137	Gavira Maestre, Clara	X	5
+GEOGRAFÍA	2ºA BACH. CIENCIAS SOCIALES	137	Gavira Maestre, Clara	L	1
+GEOGRAFÍA	2ºA BACH. CIENCIAS SOCIALES	137	Gavira Maestre, Clara	M	5
+Historia de España	2ºA BACH. CIENCIAS SOCIALES	137	López García, José Luis	X	1
+Historia de España	2º Bach. Ciencias Nat.	137	López García, José Luis	X	1
+Historia de España	2ºA BACH. CIENCIAS SOCIALES	137	López García, José Luis	M	1
+Historia de España	2º Bach. Ciencias Nat.	137	López García, José Luis	M	1
+Historia de España	2ºA BACH. CIENCIAS SOCIALES	137	López García, José Luis	V	5
+Historia de España	2º Bach. Ciencias Nat.	137	López García, José Luis	V	5
+Historia de España	2ºA BACH. CIENCIAS SOCIALES	137	López García, José Luis	J	1
+Historia de España	2º Bach. Ciencias Nat.	137	López García, José Luis	J	1
+Inglés 1ª Lengua	2ºA BACH. CIENCIAS SOCIALES	137	Reina Giráldez, Olga	V	6
+Inglés 1ª Lengua	2º Bach. Ciencias Nat.	137	Reina Giráldez, Olga	V	6
+Inglés 1ª Lengua	2ºA BACH. CIENCIAS SOCIALES	137	Reina Giráldez, Olga	J	6
+Inglés 1ª Lengua	2º Bach. Ciencias Nat.	137	Reina Giráldez, Olga	J	6
+Inglés 1ª Lengua	2ºA BACH. CIENCIAS SOCIALES	137	Reina Giráldez, Olga	L	5
+Inglés 1ª Lengua	2º Bach. Ciencias Nat.	137	Reina Giráldez, Olga	L	5
+Lengua	2ºA BACH. CIENCIAS SOCIALES	137	Ignacio Martagón, Montserrat	M	2
+Lengua	2º Bach. Ciencias Nat.	137	Ignacio Martagón, Montserrat	M	2
+Lengua	2ºA BACH. CIENCIAS SOCIALES	137	Ignacio Martagón, Montserrat	J	5
+Lengua	2º Bach. Ciencias Nat.	137	Ignacio Martagón, Montserrat	J	5
+Lengua	2ºA BACH. CIENCIAS SOCIALES	137	Ignacio Martagón, Montserrat	L	7
+Lengua	2º Bach. Ciencias Nat.	137	Ignacio Martagón, Montserrat	L	7
+Matemáticas Aplic.Ciencias Sociales	2ºA BACH. CIENCIAS SOCIALES	137	Ramos Gallego, Ana	X	2
+Matemáticas Aplic.Ciencias Sociales	2ºA BACH. CIENCIAS SOCIALES	137	Ramos Gallego, Ana	M	7
+Matemáticas Aplic.Ciencias Sociales	2ºA BACH. CIENCIAS SOCIALES	137	Ramos Gallego, Ana	J	7
+Matemáticas Aplic.Ciencias Sociales	2ºA BACH. CIENCIAS SOCIALES	137	Ramos Gallego, Ana	L	3
+ESTADISTICA 2	2ºA BACH. CIENCIAS SOCIALES	112B	Ramos Gallego, Ana	X	3
+ESTADISTICA 2	2º Bach. Ciencias Nat.	112B	Ramos Gallego, Ana	X	3
+PSICOLOGÍA	2ºA BACH. CIENCIAS SOCIALES	137	Crespo Arnold, Marcos	X	3
+PSICOLOGÍA	2º Bach. Ciencias Nat.	137	Crespo Arnold, Marcos	X	3
+ESTADISTICA 2	2ºA BACH. CIENCIAS SOCIALES	112B	Ramos Gallego, Ana	L	2
+ESTADISTICA 2	2º Bach. Ciencias Nat.	112B	Ramos Gallego, Ana	L	2
+PSICOLOGÍA	2ºA BACH. CIENCIAS SOCIALES	137	Crespo Arnold, Marcos	L	2
+PSICOLOGÍA	2º Bach. Ciencias Nat.	137	Crespo Arnold, Marcos	L	2
+ATENCIÓN Y APOYO PSICOSOCIAL	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Prados Moreno, Charo	V	1
+ATENCIÓN Y APOYO PSICOSOCIAL	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Prados Moreno, Charo	V	2
+ATENCIÓN Y APOYO PSICOSOCIAL	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Prados Moreno, Charo	X	3
+ATENCIÓN Y APOYO PSICOSOCIAL	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Prados Moreno, Charo	X	5
+ATENCIÓN Y APOYO PSICOSOCIAL	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Prados Moreno, Charo	M	1
+ATENCIÓN Y APOYO PSICOSOCIAL	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Prados Moreno, Charo	M	2
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	J	6
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN		Rodríguez Muñoz, Rocío	J	6
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	J	5
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN		Rodríguez Muñoz, Rocío	J	5
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	M	5
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN		Rodríguez Muñoz, Rocío	M	5
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	M	3
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN		Rodríguez Muñoz, Rocío	M	3
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	L	2
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN		Rodríguez Muñoz, Rocío	L	2
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	L	1
+ATENCION SANITARIA	1º ATENCIÓN PERS SITUACION DEPENDEN		Rodríguez Muñoz, Rocío	L	1
+CARAC. Y NECESIDADES DE LAS PERS.	1º ATENCIÓN PERS SITUACION DEPENDEN	132	León Bernia, Ana de	L	7
+CARAC. Y NECESIDADES DE LAS PERS.	1º ATENCIÓN PERS SITUACION DEPENDEN	132	León Bernia, Ana de	L	6
+CARAC. Y NECESIDADES DE LAS PERS.	1º ATENCIÓN PERS SITUACION DEPENDEN	132	León Bernia, Ana de	X	6
+CARAC. Y NECESIDADES DE LAS PERS.	1º ATENCIÓN PERS SITUACION DEPENDEN	132	León Bernia, Ana de	X	7
+DIGITALIZACION APLICADA A SISTEMAS	1º ATENCIÓN PERS SITUACION DEPENDEN	136	Coto Martínez, Araceli	V	5
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ATENCIÓN PERS SITUACION DEPENDEN	136	Coto Martínez, Araceli	M	6
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ATENCIÓN PERS SITUACION DEPENDEN	136	Coto Martínez, Araceli	M	7
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ATENCIÓN PERS SITUACION DEPENDEN	136	Coto Martínez, Araceli	J	7
+PRIMEROS AUXILIOS	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	V	6
+PRIMEROS AUXILIOS	1º ATENCIÓN PERS SITUACION DEPENDEN		Rodríguez Muñoz, Rocío	V	6
+PRIMEROS AUXILIOS	1º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	V	7
+PRIMEROS AUXILIOS	1º ATENCIÓN PERS SITUACION DEPENDEN		Rodríguez Muñoz, Rocío	V	7
+SOSTENIBILIDAD APLICADA AL SIST.	1º ATENCIÓN PERS SITUACION DEPENDEN	136	Coto Martínez, Araceli	V	3
+DIGITALIZACION APLICADA SECTORES PR	1º CARROCERIA	221	Ribes Gutiérrez, Victoria	X	1
+ELEMENTO FIJOS	1º CARROCERIA	138	García Tejero, Javier	J	5
+ELEMENTO FIJOS	1º CARROCERIA	138	García Tejero, Javier	J	6
+ELEMENTO FIJOS	1º CARROCERIA	138	García Tejero, Javier	X	2
+ELEMENTO FIJOS	1º CARROCERIA	138	García Tejero, Javier	X	3
+ELEMENTO FIJOS	1º CARROCERIA	138	García Tejero, Javier	M	2
+ELEMENTO FIJOS	1º CARROCERIA	138	García Tejero, Javier	M	1
+ELEMENTOS AMOVIBLES	1º CARROCERIA	138	López Peñaloza, Ignacio	L	2
+ELEMENTOS AMOVIBLES	1º CARROCERIA	138	López Peñaloza, Ignacio	L	3
+ELEMENTOS AMOVIBLES	1º CARROCERIA	138	López Peñaloza, Ignacio	L	1
+ELEMENTOS AMOVIBLES	1º CARROCERIA	138	López Peñaloza, Ignacio	M	6
+ELEMENTOS AMOVIBLES	1º CARROCERIA	138	López Peñaloza, Ignacio	M	7
+ELEMENTOS METALICOS Y SINTETICOS	1º CARROCERIA	138	Cantillana Cortés, Pedro	V	3
+ELEMENTOS METALICOS Y SINTETICOS	1º CARROCERIA	138	Cantillana Cortés, Pedro	V	1
+ELEMENTOS METALICOS Y SINTETICOS	1º CARROCERIA	138	Cantillana Cortés, Pedro	V	2
+ELEMENTOS METALICOS Y SINTETICOS	1º CARROCERIA	138	Cantillana Cortés, Pedro	J	2
+ELEMENTOS METALICOS Y SINTETICOS	1º CARROCERIA	138	Cantillana Cortés, Pedro	J	3
+ELEMENTOS METALICOS Y SINTETICOS	1º CARROCERIA	138	Cantillana Cortés, Pedro	J	1
+ITINERARIO PERSONAL EMPLEABILIDAD	1º CARROCERIA	221	Ribes Gutiérrez, Victoria	M	5
+ITINERARIO PERSONAL EMPLEABILIDAD	1º CARROCERIA	221	Ribes Gutiérrez, Victoria	M	3
+ITINERARIO PERSONAL EMPLEABILIDAD	1º CARROCERIA	221	Ribes Gutiérrez, Victoria	J	7
+MECANIZADO BASICO	1º CARROCERIA	138	Díaz Reyes, Francisco José	X	5
+MECANIZADO BASICO	1º CARROCERIA	138	Díaz Reyes, Francisco José	X	6
+MECANIZADO BASICO	1º CARROCERIA	138	Díaz Reyes, Francisco José	X	7
+PREPARACION DE SUPERFICIES	1º CARROCERIA	138	Guerrero Mayo, Juanma	V	5
+PREPARACION DE SUPERFICIES	1º CARROCERIA	138	Guerrero Mayo, Juanma	V	6
+PREPARACION DE SUPERFICIES	1º CARROCERIA	138	Guerrero Mayo, Juanma	V	7
+PREPARACION DE SUPERFICIES	1º CARROCERIA	138	Guerrero Mayo, Juanma	L	6
+PREPARACION DE SUPERFICIES	1º CARROCERIA	138	Guerrero Mayo, Juanma	L	7
+SOSTENIBILIDAD APLICADA SISTEMA PRO	1º CARROCERIA	221	Ribes Gutiérrez, Victoria	L	5
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	J	7
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	J	5
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	J	6
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	M	1
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	M	2
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	M	3
+DIGITALIZACION APLICADA SECTORES PR	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Baquero Guzmán, Inmaculada	X	1
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Baquero Guzmán, Inmaculada	L	7
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Baquero Guzmán, Inmaculada	L	6
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Baquero Guzmán, Inmaculada	V	3
+MECANIZADO BASICO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	García Tejero, Javier	V	2
+MECANIZADO BASICO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	García Tejero, Javier	V	1
+MECANIZADO BASICO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	García Tejero, Javier	L	1
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Cantillana Cortés, Pedro	L	3
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Cantillana Cortés, Pedro	L	5
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Cantillana Cortés, Pedro	L	2
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Cantillana Cortés, Pedro	M	7
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Cantillana Cortés, Pedro	M	6
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Gómez Gallardo, Manuel	X	5
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Gómez Gallardo, Manuel	X	2
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Gómez Gallardo, Manuel	X	3
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Gómez Gallardo, Manuel	V	7
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Gómez Gallardo, Manuel	V	5
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Gómez Gallardo, Manuel	V	6
+SOSTENIBILIDAD APLICADA SISTEMA PRO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Baquero Guzmán, Inmaculada	M	5
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	J	2
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	J	3
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	J	1
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	X	6
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Guerrero Mayo, Juanma	X	7
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	X	9
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	X	10
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	X	12
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	X	13
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	J	8
+CIRCUITOS SUSPENSIÓN Y DIRECCIÓN	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	X	14
+DIGITALIZACION APLICADA SECTORES PR	1º ELECTROMECÁNICA DE VEHÍCULOS	136	Galavis García, Antonio	V	10
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ELECTROMECÁNICA DE VEHÍCULOS	136	Gutiérrez De la Rosa, Tito	L	13
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ELECTROMECÁNICA DE VEHÍCULOS	136	Gutiérrez De la Rosa, Tito	L	14
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ELECTROMECÁNICA DE VEHÍCULOS	136	Gutiérrez De la Rosa, Tito	J	12
+MECANIZADO BASICO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	L	9
+MECANIZADO BASICO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	L	8
+MECANIZADO BASICO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	X	8
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	López Peñaloza, Ignacio	V	12
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	López Peñaloza, Ignacio	V	13
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	López Peñaloza, Ignacio	V	14
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	López Peñaloza, Ignacio	J	13
+MOTORES	1º ELECTROMECÁNICA DE VEHÍCULOS	130	López Peñaloza, Ignacio	J	14
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	M	8
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	M	9
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	V	8
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	V	9
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	L	10
+SISTEMAS DE CARGA Y ARRANQUE	1º ELECTROMECÁNICA DE VEHÍCULOS	130	Galavis García, Antonio	L	12
+SOSTENIBILIDAD APLICADA SISTEMA PRO	1º ELECTROMECÁNICA DE VEHÍCULOS	136	Galavis García, Antonio	M	10
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	M	12
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	M	13
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	M	14
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	J	9
+SISTEMAS DE TRANSMISION Y FRENADO	1º ELECTROMECÁNICA DE VEHÍCULOS	130	González Martínez, José Manuel	J	10
+COMUNICACIÓN EMPRESARIAL Y ATENC.C.	1º GESTIÓN ADMINISTRATIVA	112	Ramírez Serrano, Ana	L	1
+COMUNICACIÓN EMPRESARIAL Y ATENC.C.	1º GESTIÓN ADMINISTRATIVA	112	Ramírez Serrano, Ana	L	2
+COMUNICACIÓN EMPRESARIAL Y ATENC.C.	1º GESTIÓN ADMINISTRATIVA	112	Ramírez Serrano, Ana	M	1
+COMUNICACIÓN EMPRESARIAL Y ATENC.C.	1º GESTIÓN ADMINISTRATIVA	112	Ramírez Serrano, Ana	M	2
+DIGITALIZACION APLICADA SECTORES PR	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	V	1
+EMPRESA T ADMINISTRACION	1º GESTIÓN ADMINISTRATIVA	112	Gutiérrez Melgar, Débora	V	6
+EMPRESA T ADMINISTRACION	1º GESTIÓN ADMINISTRATIVA	112	Gutiérrez Melgar, Débora	J	6
+EMPRESA T ADMINISTRACION	1º GESTIÓN ADMINISTRATIVA	112	Gutiérrez Melgar, Débora	L	6
+INGLES	1º GESTIÓN ADMINISTRATIVA	112	Santos Ríos, Carmen	M	5
+INGLES	1º GESTIÓN ADMINISTRATIVA	112	Santos Ríos, Carmen	M	3
+INGLES	1º GESTIÓN ADMINISTRATIVA	112	Santos Ríos, Carmen	L	5
+INGLES	1º GESTIÓN ADMINISTRATIVA	112	Santos Ríos, Carmen	L	3
+INGLES	1º GESTIÓN ADMINISTRATIVA	112	Santos Ríos, Carmen	V	2
+ITINERARIO PERSONAL EMPLEABILIDAD	1º GESTIÓN ADMINISTRATIVA	112	Baquero Guzmán, Inmaculada	X	6
+ITINERARIO PERSONAL EMPLEABILIDAD	1º GESTIÓN ADMINISTRATIVA	112	Baquero Guzmán, Inmaculada	X	7
+ITINERARIO PERSONAL EMPLEABILIDAD	1º GESTIÓN ADMINISTRATIVA	112	Baquero Guzmán, Inmaculada	J	5
+OPERACIONES ADMINIS.COMPRAV.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	X	3
+OPERACIONES ADMINIS.COMPRAV.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	X	5
+OPERACIONES ADMINIS.COMPRAV.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	L	7
+SOSTENIBILIDAD APLICADA SISTEMA PRO	1º GESTIÓN ADMINISTRATIVA	112	Gutiérrez Melgar, Débora	J	7
+TECNICA CONTABLE	1º GESTIÓN ADMINISTRATIVA	112	Gutiérrez Melgar, Débora	M	7
+TECNICA CONTABLE	1º GESTIÓN ADMINISTRATIVA	112	Gutiérrez Melgar, Débora	M	6
+TECNICA CONTABLE	1º GESTIÓN ADMINISTRATIVA	112	Gutiérrez Melgar, Débora	V	7
+TRATAMIENTO INFORM. DE LA INFORM.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	J	2
+TRATAMIENTO INFORM. DE LA INFORM.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	J	3
+TRATAMIENTO INFORM. DE LA INFORM.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	J	1
+TRATAMIENTO INFORM. DE LA INFORM.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	X	2
+TRATAMIENTO INFORM. DE LA INFORM.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	X	1
+TRATAMIENTO INFORM. DE LA INFORM.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	V	5
+TRATAMIENTO INFORM. DE LA INFORM.	1º GESTIÓN ADMINISTRATIVA	112	Fernandez García, María Francisca	V	3
+AUTOMATISMO INDUSTRIALES	1º INST ELECTRICAS Y AUTOMATICA	T6	Campos Palma, Javier	J	5
+AUTOMATISMO INDUSTRIALES	1º INST ELECTRICAS Y AUTOMATICA	T6	Campos Palma, Javier	J	6
+AUTOMATISMO INDUSTRIALES	1º INST ELECTRICAS Y AUTOMATICA	T6	Campos Palma, Javier	J	7
+AUTOMATISMO INDUSTRIALES	1º INST ELECTRICAS Y AUTOMATICA	T6	Campos Palma, Javier	V	6
+AUTOMATISMO INDUSTRIALES	1º INST ELECTRICAS Y AUTOMATICA	T6	Campos Palma, Javier	V	7
+AUTOMATISMO INDUSTRIALES	1º INST ELECTRICAS Y AUTOMATICA	T6	Campos Palma, Javier	V	5
+AUTOMATISMO INDUSTRIALES	1º INST ELECTRICAS Y AUTOMATICA	AT6-0	Campos Palma, Javier	X	3
+AUTOMATISMO INDUSTRIALES	1º INST ELECTRICAS Y AUTOMATICA	AT6-0	Campos Palma, Javier	X	5
+DIGITALIZACION APLICADA SECTORES PR	1º INST ELECTRICAS Y AUTOMATICA	221	Caballero de León Morales, María	L	3
+ELECTROTECNIA	1º INST ELECTRICAS Y AUTOMATICA	AT6-1	Montiel Montesinos, Juanfran	M	3
+ELECTROTECNIA	1º INST ELECTRICAS Y AUTOMATICA	AT6-1	Montiel Montesinos, Juanfran	M	5
+ELECTROTECNIA	1º INST ELECTRICAS Y AUTOMATICA	AT6-1	Montiel Montesinos, Juanfran	L	1
+ELECTROTECNIA	1º INST ELECTRICAS Y AUTOMATICA	AT6-1	Montiel Montesinos, Juanfran	L	2
+ELECTROTECNIA	1º INST ELECTRICAS Y AUTOMATICA	AT6-1	Montiel Montesinos, Juanfran	X	6
+ELECTROTECNIA	1º INST ELECTRICAS Y AUTOMATICA	AT6-1	Montiel Montesinos, Juanfran	X	7
+ELECTRONICA	1º INST ELECTRICAS Y AUTOMATICA	T4-4	Montiel Montesinos, Juanfran	M	1
+ELECTRONICA	1º INST ELECTRICAS Y AUTOMATICA	T4-4	Montiel Montesinos, Juanfran	M	2
+ELECTRONICA	1º INST ELECTRICAS Y AUTOMATICA	T4-4	Montiel Montesinos, Juanfran	J	1
+INSTALACIONES ELÉCTRICAS DE INTERIO	1º INST ELECTRICAS Y AUTOMATICA	T5	Rengel López, Julio	L	5
+INSTALACIONES ELÉCTRICAS DE INTERIO	1º INST ELECTRICAS Y AUTOMATICA	T5	Rengel López, Julio	L	6
+INSTALACIONES ELÉCTRICAS DE INTERIO	1º INST ELECTRICAS Y AUTOMATICA	T5	Rengel López, Julio	L	7
+INSTALACIONES ELÉCTRICAS DE INTERIO	1º INST ELECTRICAS Y AUTOMATICA	T5	Rengel López, Julio	V	1
+INSTALACIONES ELÉCTRICAS DE INTERIO	1º INST ELECTRICAS Y AUTOMATICA	T5	Rengel López, Julio	V	2
+INSTALACIONES ELÉCTRICAS DE INTERIO	1º INST ELECTRICAS Y AUTOMATICA	T5	Rengel López, Julio	V	3
+INSTALACIONES ELÉCTRICAS DE INTERIO	1º INST ELECTRICAS Y AUTOMATICA	T5	Rengel López, Julio	X	1
+INSTALACIONES ELÉCTRICAS DE INTERIO	1º INST ELECTRICAS Y AUTOMATICA	T5	Rengel López, Julio	X	2
+ITINERARIO PERSONAL EMPLEABILIDAD	1º INST ELECTRICAS Y AUTOMATICA	221	Baquero Guzmán, Inmaculada	J	2
+ITINERARIO PERSONAL EMPLEABILIDAD	1º INST ELECTRICAS Y AUTOMATICA	221	Baquero Guzmán, Inmaculada	J	3
+ITINERARIO PERSONAL EMPLEABILIDAD	1º INST ELECTRICAS Y AUTOMATICA	221	Baquero Guzmán, Inmaculada	M	6
+SOSTENIBILIDAD APLICADA SISTEMA PRO	1º INST ELECTRICAS Y AUTOMATICA	221	Baquero Guzmán, Inmaculada	M	7
+DIGITALIZACION APLICADA SECTORES PR	1º INSTALACIONES DE TELECOMUNICACIO	221	Caballero de León Morales, María	M	2
+ELECTRONICA APLICADA	1º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	L	7
+ELECTRONICA APLICADA	1º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	L	6
+ELECTRONICA APLICADA	1º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	X	3
+ELECTRONICA APLICADA	1º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	X	5
+ELECTRONICA APLICADA	1º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	J	2
+ELECTRONICA APLICADA	1º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	J	3
+EQUIPOS MICROINFORMATICOS	1º INSTALACIONES DE TELECOMUNICACIO	T4-3	Rico Ginel, Sergio Luis	J	7
+EQUIPOS MICROINFORMATICOS	1º INSTALACIONES DE TELECOMUNICACIO	T4-3	Rico Ginel, Sergio Luis	J	6
+EQUIPOS MICROINFORMATICOS	1º INSTALACIONES DE TELECOMUNICACIO	T4-3	Rico Ginel, Sergio Luis	M	3
+EQUIPOS MICROINFORMATICOS	1º INSTALACIONES DE TELECOMUNICACIO	T4-3	Rico Ginel, Sergio Luis	M	5
+INSTALACIONES COMUNES TELECOMUNICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Campos Palma, Javier	X	7
+INSTALACIONES COMUNES TELECOMUNICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Campos Palma, Javier	X	6
+INSTALACIONES COMUNES TELECOMUNICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Campos Palma, Javier	L	1
+INSTALACIONES COMUNES TELECOMUNICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Campos Palma, Javier	L	2
+INSTALACIONES ELECTRICAS BASICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Montiel Montesinos, Juanfran	M	6
+INSTALACIONES ELECTRICAS BASICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Montiel Montesinos, Juanfran	M	7
+INSTALACIONES ELECTRICAS BASICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Montiel Montesinos, Juanfran	V	5
+INSTALACIONES ELECTRICAS BASICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Montiel Montesinos, Juanfran	V	3
+INSTALACIONES ELECTRICAS BASICA	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Montiel Montesinos, Juanfran	J	5
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º INSTALACIONES DE TELECOMUNICACIO	221	Coto Martínez, Araceli	V	1
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º INSTALACIONES DE TELECOMUNICACIO	221	Coto Martínez, Araceli	V	2
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º INSTALACIONES DE TELECOMUNICACIO	221	Coto Martínez, Araceli	M	1
+INFRAESTRUCTURAS DE REDES DE DATOS	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Ortega Rodríguez, David	V	6
+INFRAESTRUCTURAS DE REDES DE DATOS	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Ortega Rodríguez, David	V	7
+INFRAESTRUCTURAS DE REDES DE DATOS	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Ortega Rodríguez, David	L	3
+INFRAESTRUCTURAS DE REDES DE DATOS	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Ortega Rodríguez, David	L	5
+INFRAESTRUCTURAS DE REDES DE DATOS	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Ortega Rodríguez, David	X	1
+INFRAESTRUCTURAS DE REDES DE DATOS	1º INSTALACIONES DE TELECOMUNICACIO	T3-1	Ortega Rodríguez, David	X	2
+SOSTENIBILIDAD APLICADA SISTEMA PRO	1º INSTALACIONES DE TELECOMUNICACIO	221	Coto Martínez, Araceli	J	1
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES		Macho Alcázar, Lorena	V	5
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES	116	Villa Doblas, María	V	5
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES		Macho Alcázar, Lorena	V	6
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES	116	Villa Doblas, María	V	6
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES		Macho Alcázar, Lorena	V	3
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES	116	Villa Doblas, María	V	3
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES	116	Villa Doblas, María	M	2
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES	116	Villa Doblas, María	M	3
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES	116	Villa Doblas, María	J	2
+APLICACIONES OFIMATICAS	1º SISTEMAS MICROINFORM Y REDES	116	Villa Doblas, María	J	1
+DIGITALIZACION APLICADA SECTORES PR	1º SISTEMAS MICROINFORM Y REDES	116	Caballero de León Morales, María	J	7
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS MICROINFORM Y REDES	116	Ribes Gutiérrez, Victoria	X	3
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS MICROINFORM Y REDES	116	Ribes Gutiérrez, Victoria	X	5
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS MICROINFORM Y REDES	116	Ribes Gutiérrez, Victoria	M	1
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES	116	Bueno Guisado, Antonio	M	6
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES	116	Bueno Guisado, Antonio	M	7
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES	116	Bueno Guisado, Antonio	M	5
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES		Villa Doblas, María	L	7
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES	116	Bueno Guisado, Antonio	L	7
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES		Villa Doblas, María	L	5
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES	116	Bueno Guisado, Antonio	L	5
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES		Villa Doblas, María	L	6
+MONTAJE Y MANTENIMIENTO EQUIPOS	1º SISTEMAS MICROINFORM Y REDES	116	Bueno Guisado, Antonio	L	6
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES		Morilla Romero de la Osa, Rafael	L	2
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES	116	Herrera Martín, Javier	L	2
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES		Morilla Romero de la Osa, Rafael	L	3
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES	116	Herrera Martín, Javier	L	3
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES		Morilla Romero de la Osa, Rafael	L	1
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES	116	Herrera Martín, Javier	L	1
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES	116	Herrera Martín, Javier	X	6
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES	116	Herrera Martín, Javier	X	7
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES	116	Herrera Martín, Javier	V	1
+REDES LOCALES	1º SISTEMAS MICROINFORM Y REDES	116	Herrera Martín, Javier	V	2
+SISTEMAS OPERATIVO MONOPUESTO	1º SISTEMAS MICROINFORM Y REDES	116	Macho Alcázar, Lorena	J	5
+SISTEMAS OPERATIVO MONOPUESTO	1º SISTEMAS MICROINFORM Y REDES	116	Macho Alcázar, Lorena	J	6
+SISTEMAS OPERATIVO MONOPUESTO	1º SISTEMAS MICROINFORM Y REDES	116	Macho Alcázar, Lorena	J	3
+SISTEMAS OPERATIVO MONOPUESTO	1º SISTEMAS MICROINFORM Y REDES	116	Macho Alcázar, Lorena	X	2
+SISTEMAS OPERATIVO MONOPUESTO	1º SISTEMAS MICROINFORM Y REDES	116	Macho Alcázar, Lorena	X	1
+SOSTENIBILIDAD APLICADA SISTEMA PRO	1º SISTEMAS MICROINFORM Y REDES	116	Ribes Gutiérrez, Victoria	V	7
+APOYO A LA COMUNICACION	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Prados Moreno, Charo	X	6
+APOYO A LA COMUNICACION	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Prados Moreno, Charo	X	7
+APOYO A LA COMUNICACION	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Prados Moreno, Charo	V	3
+ATENCION HIGIENICA	2º ATENCIÓN PERS SITUACION DEPENDEN	132	Rodríguez Muñoz, Rocío	X	1
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	X	1
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	134	García Bonilla, María José	X	1
+ATENCION HIGIENICA	2º ATENCIÓN PERS SITUACION DEPENDEN	132	Rodríguez Muñoz, Rocío	X	2
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	X	2
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	134	García Bonilla, María José	X	2
+ATENCION HIGIENICA	2º ATENCIÓN PERS SITUACION DEPENDEN	132	Rodríguez Muñoz, Rocío	L	5
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	L	5
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	134	García Bonilla, María José	L	5
+ATENCION HIGIENICA	2º ATENCIÓN PERS SITUACION DEPENDEN	132	Rodríguez Muñoz, Rocío	L	3
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	L	3
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	134	García Bonilla, María José	L	3
+DESTREZAS SOCIALES	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Real Jiménez, Marta	M	5
+DESTREZAS SOCIALES	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Real Jiménez, Marta	M	6
+DESTREZAS SOCIALES	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Real Jiménez, Marta	X	5
+DESTREZAS SOCIALES	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Real Jiménez, Marta	X	3
+DESTREZAS SOCIALES	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Real Jiménez, Marta	V	5
+DESTREZAS SOCIALES	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Real Jiménez, Marta	V	6
+ORG ATENCION PERS SIT DEPENDENCIA	2º ATENCIÓN PERS SITUACION DEPENDEN	133	León Bernia, Ana de	J	7
+ORG ATENCION PERS SIT DEPENDENCIA	2º ATENCIÓN PERS SITUACION DEPENDEN	133	León Bernia, Ana de	J	6
+ORG ATENCION PERS SIT DEPENDENCIA	2º ATENCIÓN PERS SITUACION DEPENDEN	133	León Bernia, Ana de	M	3
+ORG ATENCION PERS SIT DEPENDENCIA	2º ATENCIÓN PERS SITUACION DEPENDEN	133	León Bernia, Ana de	M	2
+PROYECTO INTERMODULAR	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	V	2
+PROYECTO INTERMODULAR	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	V	1
+IPE2	2º ATENCIÓN PERS SITUACION DEPENDEN	136	González Arranz, Patricia	L	6
+IPE2	2º ATENCIÓN PERS SITUACION DEPENDEN	136	González Arranz, Patricia	L	7
+IPE2	2º ATENCIÓN PERS SITUACION DEPENDEN	136	González Arranz, Patricia	M	1
+INGLES	2º ATENCIÓN PERS SITUACION DEPENDEN	122	Durán Campos, María José	J	1
+INGLES	2º ATENCIÓN PERS SITUACION DEPENDEN	122	Durán Campos, María José	V	7
+OPTATIVA	2º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	J	2
+OPTATIVA	2º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	J	3
+OPTATIVA	2º ATENCIÓN PERS SITUACION DEPENDEN	132	Benítez Ramos, Eduardo	M	7
+TELEASISTENCIA	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Prados Moreno, Charo	L	1
+TELEASISTENCIA	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Prados Moreno, Charo	L	2
+TELEASISTENCIA	2º ATENCIÓN PERS SITUACION DEPENDEN	133	Prados Moreno, Charo	J	5
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	L	1
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	L	2
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	L	3
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	V	1
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	V	2
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	V	3
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	J	1
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	J	2
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	J	3
+ELEMENTOS ESTRUCTURALES DEL VEHICUL	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	M	2
+PROYECTO INTERMODULAR	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	X	3
+OPTATIVA	2º CARROCERIA	ATA-0	López Peñaloza, Ignacio	X	7
+OPTATIVA	2º CARROCERIA	ATA-0	López Peñaloza, Ignacio	X	6
+OPTATIVA	2º CARROCERIA	ATA-0	López Peñaloza, Ignacio	M	3
+INGLES PROFESIONAL	2º CARROCERIA	ATA-0	Ciero Polvillo, Conchi	M	6
+INGLES PROFESIONAL	2º CARROCERIA	ATA-0	Ciero Polvillo, Conchi	X	5
+PROYECTO INTERMODULAR	2º CARROCERIA	ATA-0	Díaz Reyes, Manuel Ángel	M	1
+ITINERARIO PERSONAL PARA LA EMPL 2	2º CARROCERIA	126	Coto Martínez, Araceli	X	1
+ITINERARIO PERSONAL PARA LA EMPL 2	2º CARROCERIA	126	Coto Martínez, Araceli	X	2
+ITINERARIO PERSONAL PARA LA EMPL 2	2º CARROCERIA	126	Coto Martínez, Araceli	M	5
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	V	5
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	V	6
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	V	7
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	L	5
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	L	6
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	L	7
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	J	5
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	J	6
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	J	7
+EMBELLECIMIENTO DE SUPERFICIES	2º CARROCERIA	ATA-0	Díaz Reyes, Francisco José	M	7
+CIRCUITOS ELECTRICOS AUXILIARES VEH	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	V	1
+CIRCUITOS ELECTRICOS AUXILIARES VEH	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	V	2
+CIRCUITOS ELECTRICOS AUXILIARES VEH	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	V	3
+CIRCUITOS ELECTRICOS AUXILIARES VEH	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	M	2
+CIRCUITOS ELECTRICOS AUXILIARES VEH	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	M	1
+CIRCUITOS ELECTRICOS AUXILIARES VEH	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	X	6
+CIRCUITOS ELECTRICOS AUXILIARES VEH	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	X	7
+OPTATIVA	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	J	2
+OPTATIVA	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	J	3
+OPTATIVA	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	J	1
+IPE	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Guillén López, María Jesús	M	3
+IPE	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Guillén López, María Jesús	M	5
+IPE	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Guillén López, María Jesús	V	5
+INGLES PROFESIONAL	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Ciero Polvillo, Conchi	L	2
+INGLES PROFESIONAL	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Ciero Polvillo, Conchi	L	1
+PROYECTO INTERMODULAR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Gómez Gallardo, Manuel	L	3
+PROYECTO INTERMODULAR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Cantillana Cortés, Pedro	X	5
+SISTEMA AUXILIARES DEL MOTOR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	López Alcántara, Luis	L	7
+SISTEMA AUXILIARES DEL MOTOR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	López Alcántara, Luis	L	5
+SISTEMA AUXILIARES DEL MOTOR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	López Alcántara, Luis	L	6
+SISTEMA AUXILIARES DEL MOTOR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	López Alcántara, Luis	X	1
+SISTEMA AUXILIARES DEL MOTOR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	López Alcántara, Luis	X	2
+SISTEMA AUXILIARES DEL MOTOR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	López Alcántara, Luis	X	3
+SISTEMA AUXILIARES DEL MOTOR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	López Alcántara, Luis	M	6
+SISTEMA AUXILIARES DEL MOTOR	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	López Alcántara, Luis	M	7
+SISTEMA SEGURIDAD CONFORTABILIDAD	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Cantillana Cortés, Pedro	V	7
+SISTEMA SEGURIDAD CONFORTABILIDAD	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Cantillana Cortés, Pedro	V	6
+SISTEMA SEGURIDAD CONFORTABILIDAD	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Cantillana Cortés, Pedro	J	5
+SISTEMA SEGURIDAD CONFORTABILIDAD	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Cantillana Cortés, Pedro	J	6
+SISTEMA SEGURIDAD CONFORTABILIDAD	2º ELECTROMECÁNICA DE VEHÍCULOS	ATA-1	Cantillana Cortés, Pedro	J	7
+EMPRESA EN EL AULA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	L	2
+EMPRESA EN EL AULA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	L	3
+EMPRESA EN EL AULA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	M	1
+EMPRESA EN EL AULA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	M	2
+EMPRESA EN EL AULA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	V	2
+EMPRESA EN EL AULA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	V	1
+IPE2	2º GESTIÓN ADMINISTRATIVA	125	Coto Martínez, Araceli	J	3
+IPE2	2º GESTIÓN ADMINISTRATIVA	125	Coto Martínez, Araceli	J	5
+IPE2	2º GESTIÓN ADMINISTRATIVA	125	Coto Martínez, Araceli	L	7
+OPTATIVA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	V	5
+OPTATIVA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	V	3
+OPTATIVA	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	L	1
+PROYECTO INTERMODULAR	2º GESTIÓN ADMINISTRATIVA	125	Gutiérrez Melgar, Débora	X	7
+PROYECTO INTERMODULAR	2º GESTIÓN ADMINISTRATIVA	125	Gutiérrez Melgar, Débora	X	6
+OPERACIONES AUX. GEST. TESORERIA	2º GESTIÓN ADMINISTRATIVA	125	Gutiérrez Melgar, Débora	J	1
+OPERACIONES AUX. GEST. TESORERIA	2º GESTIÓN ADMINISTRATIVA	125	Gutiérrez Melgar, Débora	J	2
+OPERACIONES AUX. GEST. TESORERIA	2º GESTIÓN ADMINISTRATIVA	125	Gutiérrez Melgar, Débora	M	3
+OPERACIONES AUX. GEST. TESORERIA	2º GESTIÓN ADMINISTRATIVA	125	Gutiérrez Melgar, Débora	M	5
+OPERACIONES AUX. GEST. TESORERIA	2º GESTIÓN ADMINISTRATIVA	125	Gutiérrez Melgar, Débora	X	5
+OPERACIONES AUX. GEST. TESORERIA	2º GESTIÓN ADMINISTRATIVA	125	Gutiérrez Melgar, Débora	X	3
+OPER. ADMIN. RESURSOS HUMANOS	2º GESTIÓN ADMINISTRATIVA	125	Fernandez García, María Francisca	L	6
+OPER. ADMIN. RESURSOS HUMANOS	2º GESTIÓN ADMINISTRATIVA	125	Fernandez García, María Francisca	L	5
+OPER. ADMIN. RESURSOS HUMANOS	2º GESTIÓN ADMINISTRATIVA	125	Fernandez García, María Francisca	M	7
+OPER. ADMIN. RESURSOS HUMANOS	2º GESTIÓN ADMINISTRATIVA	125	Fernandez García, María Francisca	M	6
+OPER. ADMIN. RESURSOS HUMANOS	2º GESTIÓN ADMINISTRATIVA	125	Fernandez García, María Francisca	J	6
+TRATAMIENTO DOCUMENTACION CONTABLE	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	V	6
+TRATAMIENTO DOCUMENTACION CONTABLE	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	V	7
+TRATAMIENTO DOCUMENTACION CONTABLE	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	X	2
+TRATAMIENTO DOCUMENTACION CONTABLE	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	X	1
+TRATAMIENTO DOCUMENTACION CONTABLE	2º GESTIÓN ADMINISTRATIVA	125	Rodríguez Domínguez, Esperanza	J	7
+INGLES PROFESIONAL	2º INST ELECTRICAS Y AUTOMATICA	122	Villegas Muñoz, Rosalía	L	1
+INGLES PROFESIONAL	2º INST ELECTRICAS Y AUTOMATICA	122	Villegas Muñoz, Rosalía	J	3
+IPE 2	2º INST ELECTRICAS Y AUTOMATICA	221	González Arranz, Patricia	J	6
+IPE 2	2º INST ELECTRICAS Y AUTOMATICA	221	González Arranz, Patricia	J	5
+IPE 2	2º INST ELECTRICAS Y AUTOMATICA	221	González Arranz, Patricia	L	2
+PROYECTO INTERMODULAR	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Parias Ángel, Marta	M	7
+PROYECTO INTERMODULAR	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Parias Ángel, Marta	M	6
+OPTATIVA	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	V	5
+OPTATIVA	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	V	3
+OPTATIVA	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	X	7
+INSTALACIONES DE DISTRIBUCIÓN	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Parias Ángel, Marta	L	3
+INSTALACIONES DE DISTRIBUCIÓN	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Parias Ángel, Marta	L	5
+INSTALACIONES DE DISTRIBUCIÓN	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Parias Ángel, Marta	V	6
+INSTALACIONES DE DISTRIBUCIÓN	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Parias Ángel, Marta	V	7
+INSTALACIONES DE DISTRIBUCIÓN	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Parias Ángel, Marta	J	7
+INSTALACIONES DOMÓTICAS	2º INST ELECTRICAS Y AUTOMATICA	T3-2	Peso González, Manuel	V	1
+INSTALACIONES DOMÓTICAS	2º INST ELECTRICAS Y AUTOMATICA	T3-2	Peso González, Manuel	V	2
+INSTALACIONES DOMÓTICAS	2º INST ELECTRICAS Y AUTOMATICA	T3-2	Peso González, Manuel	X	1
+INSTALACIONES DOMÓTICAS	2º INST ELECTRICAS Y AUTOMATICA	T3-2	Peso González, Manuel	X	2
+INSTALACIONES SOLARES FOTOVOLT	2º INST ELECTRICAS Y AUTOMATICA	T6	Parias Ángel, Marta	L	6
+INSTALACIONES SOLARES FOTOVOLT	2º INST ELECTRICAS Y AUTOMATICA	T6	Parias Ángel, Marta	L	7
+INF.COMUNES DE TELECOM. EN VIVIEND.	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	J	2
+INF.COMUNES DE TELECOM. EN VIVIEND.	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	J	1
+INF.COMUNES DE TELECOM. EN VIVIEND.	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	M	2
+INF.COMUNES DE TELECOM. EN VIVIEND.	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	M	1
+MAQUINAS ELECTRICAS	2º INST ELECTRICAS Y AUTOMATICA	T6	Suárez Fernandez-Miranda, Susana	X	3
+MAQUINAS ELECTRICAS	2º INST ELECTRICAS Y AUTOMATICA	T6	Suárez Fernandez-Miranda, Susana	X	5
+MAQUINAS ELECTRICAS	2º INST ELECTRICAS Y AUTOMATICA	T6	Suárez Fernandez-Miranda, Susana	X	6
+MAQUINAS ELECTRICAS	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	M	3
+MAQUINAS ELECTRICAS	2º INST ELECTRICAS Y AUTOMATICA	AT6-0	Suárez Fernandez-Miranda, Susana	M	5
+CIRCUITOS CERRADOS DE TELEVISION	2º INSTALACIONES DE TELECOMUNICACIO	T4-3	Ortega Rodríguez, David	L	1
+CIRCUITOS CERRADOS DE TELEVISION	2º INSTALACIONES DE TELECOMUNICACIO	T4-3	Ortega Rodríguez, David	L	2
+CIRCUITOS CERRADOS DE TELEVISION	2º INSTALACIONES DE TELECOMUNICACIO	T4-3	Ortega Rodríguez, David	V	1
+CIRCUITOS CERRADOS DE TELEVISION	2º INSTALACIONES DE TELECOMUNICACIO	T4-3	Ortega Rodríguez, David	V	2
+CIRCUITOS CERRADOS DE TELEVISION	2º INSTALACIONES DE TELECOMUNICACIO	T4-3	Ortega Rodríguez, David	M	2
+INGLES PROFESIONAL	2º INSTALACIONES DE TELECOMUNICACIO	122	Villegas Muñoz, Rosalía	X	2
+INGLES PROFESIONAL	2º INSTALACIONES DE TELECOMUNICACIO	122	Villegas Muñoz, Rosalía	V	3
+IPE 2	2º INSTALACIONES DE TELECOMUNICACIO	221	Baquero Guzmán, Inmaculada	X	3
+IPE 2	2º INSTALACIONES DE TELECOMUNICACIO	221	Baquero Guzmán, Inmaculada	X	5
+IPE 2	2º INSTALACIONES DE TELECOMUNICACIO	221	Baquero Guzmán, Inmaculada	V	5
+PROYECTO INTERMODULAR	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	J	3
+PROYECTO INTERMODULAR	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	J	5
+OPTATIVA	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	J	1
+OPTATIVA	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	J	2
+OPTATIVA	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	M	1
+INSTALACIONES DOMOTICAS	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	L	6
+INSTALACIONES DOMOTICAS	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	L	7
+INSTALACIONES DOMOTICAS	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	X	6
+INSTALACIONES DOMOTICAS	2º INSTALACIONES DE TELECOMUNICACIO	T3-2	Peso González, Manuel	X	7
+INSTALACIONES DE MEGAFONIA Y SONORI	2º INSTALACIONES DE TELECOMUNICACIO	AT4	González Lora, Juan Carlos	J	6
+INSTALACIONES DE MEGAFONIA Y SONORI	2º INSTALACIONES DE TELECOMUNICACIO	AT4	González Lora, Juan Carlos	J	7
+INSTALACIONES DE MEGAFONIA Y SONORI	2º INSTALACIONES DE TELECOMUNICACIO	AT4	González Lora, Juan Carlos	M	7
+INSTALACIONES DE MEGAFONIA Y SONORI	2º INSTALACIONES DE TELECOMUNICACIO	AT4	González Lora, Juan Carlos	M	6
+INSTALACIONES DE MEGAFONIA Y SONORI	2º INSTALACIONES DE TELECOMUNICACIO	AT4	González Lora, Juan Carlos	L	5
+INSTALACIONES DE MEGAFONIA Y SONORI	2º INSTALACIONES DE TELECOMUNICACIO	AT4	González Lora, Juan Carlos	L	3
+INSTALACIONES DE RADIOCOMUNICACIONE	2º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	V	7
+INSTALACIONES DE RADIOCOMUNICACIONE	2º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	V	6
+INSTALACIONES DE RADIOCOMUNICACIONE	2º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	M	5
+INSTALACIONES DE RADIOCOMUNICACIONE	2º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	M	3
+INSTALACIONES DE RADIOCOMUNICACIONE	2º INSTALACIONES DE TELECOMUNICACIO	T4-4	Medina Guerrero, Alfonso	X	1
+APLICACIONES DE WEB	2º SISTEMAS MICROINFORM Y REDES	121	Herrera Martín, Javier	M	6
+APLICACIONES DE WEB	2º SISTEMAS MICROINFORM Y REDES	121	Herrera Martín, Javier	M	7
+APLICACIONES DE WEB	2º SISTEMAS MICROINFORM Y REDES	121	Herrera Martín, Javier	J	1
+APLICACIONES DE WEB	2º SISTEMAS MICROINFORM Y REDES	121	Herrera Martín, Javier	J	2
+IPE2	2º SISTEMAS MICROINFORM Y REDES	121	Gómez Mayo, Juan Antonio	J	6
+IPE2	2º SISTEMAS MICROINFORM Y REDES	121	Gómez Mayo, Juan Antonio	J	7
+IPE2	2º SISTEMAS MICROINFORM Y REDES	121	Gómez Mayo, Juan Antonio	X	1
+INGLES PROFESIONAL	2º SISTEMAS MICROINFORM Y REDES	121	Reina Giráldez, Olga	L	3
+INGLES PROFESIONAL	2º SISTEMAS MICROINFORM Y REDES	121	Reina Giráldez, Olga	X	2
+OPTATIVA	2º SISTEMAS MICROINFORM Y REDES	121	Moreno Vicente, Francisco	V	7
+OPTATIVA	2º SISTEMAS MICROINFORM Y REDES	121	Moreno Vicente, Francisco	V	6
+OPTATIVA	2º SISTEMAS MICROINFORM Y REDES	121	Moreno Vicente, Francisco	X	3
+PROYECTO INTERMODULAR	2º SISTEMAS MICROINFORM Y REDES	121	Macho Alcázar, Lorena	M	3
+PROYECTO INTERMODULAR	2º SISTEMAS MICROINFORM Y REDES	121	Macho Alcázar, Lorena	M	5
+SEGURIDAD INFORMATICA	2º SISTEMAS MICROINFORM Y REDES	121	Marchena Gómez, Almudena	V	5
+SEGURIDAD INFORMATICA	2º SISTEMAS MICROINFORM Y REDES	121	Marchena Gómez, Almudena	V	3
+SEGURIDAD INFORMATICA	2º SISTEMAS MICROINFORM Y REDES	121	Marchena Gómez, Almudena	J	3
+SEGURIDAD INFORMATICA	2º SISTEMAS MICROINFORM Y REDES	121	Marchena Gómez, Almudena	J	5
+SISTEMAS OPERATIVOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Macho Alcázar, Lorena	L	1
+SISTEMAS OPERATIVOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Macho Alcázar, Lorena	L	2
+SISTEMAS OPERATIVOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Macho Alcázar, Lorena	V	2
+SISTEMAS OPERATIVOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Macho Alcázar, Lorena	V	1
+SISTEMAS OPERATIVOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Macho Alcázar, Lorena	M	1
+SISTEMAS OPERATIVOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Macho Alcázar, Lorena	M	2
+SERVICIOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Morilla Romero de la Osa, Rafael	L	5
+SERVICIOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Morilla Romero de la Osa, Rafael	L	6
+SERVICIOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Morilla Romero de la Osa, Rafael	L	7
+SERVICIOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Morilla Romero de la Osa, Rafael	X	5
+SERVICIOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Morilla Romero de la Osa, Rafael	X	6
+SERVICIOS EN RED	2º SISTEMAS MICROINFORM Y REDES	121	Morilla Romero de la Osa, Rafael	X	7
+ANIMACION Y GESTION CULTURAL	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Iglesias López, Rocío	X	2
+ANIMACION Y GESTION CULTURAL	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Iglesias López, Rocío	X	1
+ANIMACION Y GESTION CULTURAL	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Iglesias López, Rocío	L	1
+ANIMACION Y GESTION CULTURAL	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Iglesias López, Rocío	L	2
+ANIMACION Y GESTION CULTURAL	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Iglesias López, Rocío	J	1
+ANIMACION TURISTICA	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	León Bernia, Ana de	X	3
+ANIMACION TURISTICA	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	León Bernia, Ana de	X	5
+ANIMACION TURISTICA	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	León Bernia, Ana de	M	6
+ANIMACION TURISTICA	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	León Bernia, Ana de	M	7
+CONTEXTO DE LA ANIMACION SOCIOCULT	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	León Bernia, Ana de	V	6
+CONTEXTO DE LA ANIMACION SOCIOCULT	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	León Bernia, Ana de	V	7
+CONTEXTO DE LA ANIMACION SOCIOCULT	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	León Bernia, Ana de	J	3
+CONTEXTO DE LA ANIMACION SOCIOCULT	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	León Bernia, Ana de	J	2
+DESARROLLO COMUNITARIO	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Real Jiménez, Marta	X	6
+DESARROLLO COMUNITARIO	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Real Jiménez, Marta	X	7
+DESARROLLO COMUNITARIO	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Real Jiménez, Marta	J	7
+INGLES	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	López Rodríguez, Amparo	M	3
+INGLES	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	López Rodríguez, Amparo	M	5
+INGLES	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	López Rodríguez, Amparo	J	6
+INGLES	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	López Rodríguez, Amparo	L	5
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Guillén López, María Jesús	V	2
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Guillén López, María Jesús	V	1
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Guillén López, María Jesús	L	6
+METODOLOGIA DE LA INTERVENCION SOCI	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Real Jiménez, Marta	M	1
+METODOLOGIA DE LA INTERVENCION SOCI	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Real Jiménez, Marta	M	2
+METODOLOGIA DE LA INTERVENCION SOCI	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Real Jiménez, Marta	L	7
+PRIMEROS AUXILIOS	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Benítez Ramos, Eduardo	V	3
+PRIMEROS AUXILIOS	1º ANIMACIÓN SOCIOCULTURAL T TURIST		Rodríguez Muñoz, Rocío	V	3
+PRIMEROS AUXILIOS	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Benítez Ramos, Eduardo	V	5
+PRIMEROS AUXILIOS	1º ANIMACIÓN SOCIOCULTURAL T TURIST		Rodríguez Muñoz, Rocío	V	5
+DIGITALIZACION	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Caballero de León Morales, María	J	5
+SOSTENIBILIDAD APLICADA AL SIST.	1º ANIMACIÓN SOCIOCULTURAL T TURIST	224	Guillén López, María Jesús	L	3
+DIGITALIZACION APLICADA A SISTEMAS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ribes Gutiérrez, Victoria	J	3
+FUNDAMENTOS DE HARDWARE	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Vilches Navarrete, José Manuel	J	1
+FUNDAMENTOS DE HARDWARE	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Vilches Navarrete, José Manuel	J	2
+FUNDAMENTOS DE HARDWARE	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Vilches Navarrete, José Manuel	M	5
+GESTIÓN DE BASES DE DATOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ortega Florido, Juan Antonio	L	3
+GESTIÓN DE BASES DE DATOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ortega Florido, Juan Antonio	L	1
+GESTIÓN DE BASES DE DATOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ortega Florido, Juan Antonio	L	2
+GESTIÓN DE BASES DE DATOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ortega Florido, Juan Antonio	M	2
+GESTIÓN DE BASES DE DATOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ortega Florido, Juan Antonio	M	3
+GESTIÓN DE BASES DE DATOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ortega Florido, Juan Antonio	M	1
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ribes Gutiérrez, Victoria	V	6
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ribes Gutiérrez, Victoria	V	5
+ITINERARIO PERSONAL EMPLEABILIDAD	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ribes Gutiérrez, Victoria	J	5
+IMPLANTACIÓN DE SISTEMAS OPERATIVOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Villa Doblas, María	J	7
+IMPLANTACIÓN DE SISTEMAS OPERATIVOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Villa Doblas, María	J	6
+IMPLANTACIÓN DE SISTEMAS OPERATIVOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Villa Doblas, María	V	1
+IMPLANTACIÓN DE SISTEMAS OPERATIVOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Villa Doblas, María	V	2
+IMPLANTACIÓN DE SISTEMAS OPERATIVOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Villa Doblas, María	X	6
+IMPLANTACIÓN DE SISTEMAS OPERATIVOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Villa Doblas, María	X	7
+IMPLANTACIÓN DE SISTEMAS OPERATIVOS	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Villa Doblas, María	X	5
+LENGUAJE DE MARCA Y SISTEMAS DE INF	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Marchena Gómez, Almudena	M	6
+LENGUAJE DE MARCA Y SISTEMAS DE INF	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Marchena Gómez, Almudena	M	7
+LENGUAJE DE MARCA Y SISTEMAS DE INF	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Marchena Gómez, Almudena	V	7
+PLANIFICACIÓN Y ADMINISTR. DE REDES	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Herrera Martín, Javier	L	7
+PLANIFICACIÓN Y ADMINISTR. DE REDES	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Herrera Martín, Javier	L	5
+PLANIFICACIÓN Y ADMINISTR. DE REDES	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Herrera Martín, Javier	L	6
+PLANIFICACIÓN Y ADMINISTR. DE REDES	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Herrera Martín, Javier	X	1
+PLANIFICACIÓN Y ADMINISTR. DE REDES	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Herrera Martín, Javier	X	2
+PLANIFICACIÓN Y ADMINISTR. DE REDES	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Herrera Martín, Javier	X	3
+SOSTENIBILIDAD APLICADA AL SIST.	1º ADMINISTRACIÓN DE SIST. INF.RED.	127	Ribes Gutiérrez, Victoria	V	3
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º AUTOMOCIÓN	136	Gutiérrez De la Rosa, Tito	M	14
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º AUTOMOCIÓN	136	Gutiérrez De la Rosa, Tito	M	13
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º AUTOMOCIÓN	136	Gutiérrez De la Rosa, Tito	V	12
+SOSTENIBILIDAD	1º AUTOMOCIÓN	138	Galavis García, Antonio	J	10
+DIGITALIZACION	1º AUTOMOCIÓN	138	Galavis García, Antonio	X	14
+ELEMENTOS AMOVIBLES Y FIJOS NO ESTR	1º AUTOMOCIÓN	138	González Martínez, José Manuel	L	12
+ELEMENTOS AMOVIBLES Y FIJOS NO ESTR	1º AUTOMOCIÓN	138	González Martínez, José Manuel	L	13
+ELEMENTOS AMOVIBLES Y FIJOS NO ESTR	1º AUTOMOCIÓN	138	González Martínez, José Manuel	L	14
+ELEMENTOS AMOVIBLES Y FIJOS NO ESTR	1º AUTOMOCIÓN	138	González Martínez, José Manuel	V	9
+ELEMENTOS AMOVIBLES Y FIJOS NO ESTR	1º AUTOMOCIÓN	138	González Martínez, José Manuel	V	10
+ELEMENTOS AMOVIBLES Y FIJOS NO ESTR	1º AUTOMOCIÓN	138	González Martínez, José Manuel	V	8
+MOTORES TERMICOS Y SISTEMAS AUX	1º AUTOMOCIÓN	138	Díaz Reyes, Manuel Ángel	J	13
+MOTORES TERMICOS Y SISTEMAS AUX	1º AUTOMOCIÓN	138	Díaz Reyes, Manuel Ángel	J	14
+MOTORES TERMICOS Y SISTEMAS AUX	1º AUTOMOCIÓN	138	Díaz Reyes, Manuel Ángel	J	12
+MOTORES TERMICOS Y SISTEMAS AUX	1º AUTOMOCIÓN	138	Díaz Reyes, Manuel Ángel	X	9
+MOTORES TERMICOS Y SISTEMAS AUX	1º AUTOMOCIÓN	138	Díaz Reyes, Manuel Ángel	X	10
+MOTORES TERMICOS Y SISTEMAS AUX	1º AUTOMOCIÓN	138	Díaz Reyes, Manuel Ángel	X	8
+SISTEMAS DE TRANSMISION FUERZA Y TR	1º AUTOMOCIÓN	138	Cruz Toribio, Jesús	L	8
+SISTEMAS DE TRANSMISION FUERZA Y TR	1º AUTOMOCIÓN	138	Cruz Toribio, Jesús	L	9
+SISTEMAS DE TRANSMISION FUERZA Y TR	1º AUTOMOCIÓN	138	Cruz Toribio, Jesús	L	10
+SISTEMAS DE TRANSMISION FUERZA Y TR	1º AUTOMOCIÓN	138	Cruz Toribio, Jesús	M	8
+SISTEMAS DE TRANSMISION FUERZA Y TR	1º AUTOMOCIÓN	138	Cruz Toribio, Jesús	M	9
+SISTEMAS DE TRANSMISION FUERZA Y TR	1º AUTOMOCIÓN	138	Cruz Toribio, Jesús	M	10
+SISTEMAS DE TRANSMISION FUERZA Y TR	1º AUTOMOCIÓN	138	Cruz Toribio, Jesús	M	12
+SISTEMAS ELECTRICOS DE SEGURIDAD-CO	1º AUTOMOCIÓN	138	Galavis García, Antonio	V	13
+SISTEMAS ELECTRICOS DE SEGURIDAD-CO	1º AUTOMOCIÓN	138	Galavis García, Antonio	V	14
+SISTEMAS ELECTRICOS DE SEGURIDAD-CO	1º AUTOMOCIÓN	138	Galavis García, Antonio	X	12
+SISTEMAS ELECTRICOS DE SEGURIDAD-CO	1º AUTOMOCIÓN	138	Galavis García, Antonio	X	13
+SISTEMAS ELECTRICOS DE SEGURIDAD-CO	1º AUTOMOCIÓN	138	Galavis García, Antonio	J	8
+SISTEMAS ELECTRICOS DE SEGURIDAD-CO	1º AUTOMOCIÓN	138	Galavis García, Antonio	J	9
+BASES DE DATOS	1º DESARROLLO APLICACIONES MULTIPLA	120	Olmedo Rivera, José Antonio	V	8
+BASES DE DATOS	1º DESARROLLO APLICACIONES MULTIPLA	120	Olmedo Rivera, José Antonio	V	9
+BASES DE DATOS	1º DESARROLLO APLICACIONES MULTIPLA	120	Olmedo Rivera, José Antonio	X	12
+BASES DE DATOS	1º DESARROLLO APLICACIONES MULTIPLA	120	Olmedo Rivera, José Antonio	X	10
+BASES DE DATOS	1º DESARROLLO APLICACIONES MULTIPLA	120	Olmedo Rivera, José Antonio	M	13
+BASES DE DATOS	1º DESARROLLO APLICACIONES MULTIPLA	120	Olmedo Rivera, José Antonio	M	14
+DIGITALIZACION APLICADA A SISTEMAS	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	L	14
+ENTORNOS DE DESARROLLO	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	J	12
+ENTORNOS DE DESARROLLO	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	J	13
+ENTORNOS DE DESARROLLO	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	J	14
+ITINERARIO PERSONAL EMPLEABILIDAD	1º DESARROLLO APLICACIONES MULTIPLA	120	Gutiérrez De la Rosa, Tito	M	9
+ITINERARIO PERSONAL EMPLEABILIDAD	1º DESARROLLO APLICACIONES MULTIPLA	120	Gutiérrez De la Rosa, Tito	M	8
+ITINERARIO PERSONAL EMPLEABILIDAD	1º DESARROLLO APLICACIONES MULTIPLA	120	Gutiérrez De la Rosa, Tito	V	10
+LENGUAJE DE MARCAS Y SIST. GESTION	1º DESARROLLO APLICACIONES MULTIPLA	120	Marchena Gómez, Almudena	L	10
+LENGUAJE DE MARCAS Y SIST. GESTION	1º DESARROLLO APLICACIONES MULTIPLA	120	Marchena Gómez, Almudena	L	8
+LENGUAJE DE MARCAS Y SIST. GESTION	1º DESARROLLO APLICACIONES MULTIPLA	120	Marchena Gómez, Almudena	L	9
+PROGRAMACION	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	L	13
+PROGRAMACION	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	L	12
+PROGRAMACION	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	X	9
+PROGRAMACION	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	X	8
+PROGRAMACION	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	J	8
+PROGRAMACION	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	J	9
+PROGRAMACION	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	M	12
+PROGRAMACION	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	M	10
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES MULTIPLA	120	González Sayago, José Antonio	V	14
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES MULTIPLA	120	González Sayago, José Antonio	V	12
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES MULTIPLA	120	González Sayago, José Antonio	V	13
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES MULTIPLA	120	González Sayago, José Antonio	X	14
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES MULTIPLA	120	González Sayago, José Antonio	X	13
+SOSTENIBILIDAD APLICADA AL SIST.	1º DESARROLLO APLICACIONES MULTIPLA	120	Jiménez Moreno, Míryam	J	10
+BASES DE DATOS	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	J	2
+BASES DE DATOS	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	J	3
+BASES DE DATOS	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	J	1
+BASES DE DATOS	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	X	3
+BASES DE DATOS	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	X	5
+BASES DE DATOS	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	X	2
+DIGITALIZACION APLICADA A SISTEMAS	1º DESARROLLO APLICACIONES WEB	120	Caballero de León Morales, María	L	5
+ENTORNOS DE DESARROLLO	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	L	6
+ENTORNOS DE DESARROLLO	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	L	7
+ENTORNOS DE DESARROLLO	1º DESARROLLO APLICACIONES WEB	120	Ortega Florido, Juan Antonio	X	1
+ITINERARIO PERSONAL EMPLEABILIDAD	1º DESARROLLO APLICACIONES WEB	120	Gómez Mayo, Juan Antonio	M	3
+ITINERARIO PERSONAL EMPLEABILIDAD	1º DESARROLLO APLICACIONES WEB	120	Gómez Mayo, Juan Antonio	M	5
+ITINERARIO PERSONAL EMPLEABILIDAD	1º DESARROLLO APLICACIONES WEB	120	Gómez Mayo, Juan Antonio	J	5
+LENGUAJES DE MARCAS Y SISTEMAS	1º DESARROLLO APLICACIONES WEB	120	Marchena Gómez, Almudena	V	2
+LENGUAJES DE MARCAS Y SISTEMAS	1º DESARROLLO APLICACIONES WEB	120	Marchena Gómez, Almudena	V	1
+LENGUAJES DE MARCAS Y SISTEMAS	1º DESARROLLO APLICACIONES WEB	120	Marchena Gómez, Almudena	J	7
+PROGRAMACIÓN	1º DESARROLLO APLICACIONES WEB	120	Moreno Vicente, Francisco	V	5
+PROGRAMACIÓN	1º DESARROLLO APLICACIONES WEB	120	Moreno Vicente, Francisco	V	3
+PROGRAMACIÓN	1º DESARROLLO APLICACIONES WEB	120	Moreno Vicente, Francisco	X	7
+PROGRAMACIÓN	1º DESARROLLO APLICACIONES WEB	120	Moreno Vicente, Francisco	X	6
+PROGRAMACIÓN	1º DESARROLLO APLICACIONES WEB	120	Moreno Vicente, Francisco	L	2
+PROGRAMACIÓN	1º DESARROLLO APLICACIONES WEB	120	Moreno Vicente, Francisco	L	1
+PROGRAMACIÓN	1º DESARROLLO APLICACIONES WEB	120	Moreno Vicente, Francisco	M	1
+PROGRAMACIÓN	1º DESARROLLO APLICACIONES WEB	120	Moreno Vicente, Francisco	M	2
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES WEB	120	Vilches Navarrete, José Manuel	M	6
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES WEB	120	Vilches Navarrete, José Manuel	M	7
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES WEB	120	Vilches Navarrete, José Manuel	V	6
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES WEB	120	Vilches Navarrete, José Manuel	V	7
+SISTEMAS INFORMATICOS	1º DESARROLLO APLICACIONES WEB	120	Vilches Navarrete, José Manuel	L	3
+SOSTENIBILIDAD APLICADA AL SIST.	1º DESARROLLO APLICACIONES WEB	120	Ribes Gutiérrez, Victoria	J	6
+CONTEXTO DE LA INTERVENCION SOCIAL	1º INTEGRACIÓN SOCIAL	134	Cabello García, Teresa	L	10
+CONTEXTO DE LA INTERVENCION SOCIAL	1º INTEGRACIÓN SOCIAL	134	Cabello García, Teresa	L	9
+CONTEXTO DE LA INTERVENCION SOCIAL	1º INTEGRACIÓN SOCIAL	134	Cabello García, Teresa	J	14
+CONTEXTO DE LA INTERVENCION SOCIAL	1º INTEGRACIÓN SOCIAL	134	Cabello García, Teresa	J	13
+DIGITALIZACION APLICADA A SISTEMAS	1º INTEGRACIÓN SOCIAL	134	García Bonilla, María José	V	12
+ITINERARIO PERSONAL EMPLEABILIDAD	1º INTEGRACIÓN SOCIAL	136	Gutiérrez De la Rosa, Tito	J	9
+ITINERARIO PERSONAL EMPLEABILIDAD	1º INTEGRACIÓN SOCIAL	136	Gutiérrez De la Rosa, Tito	J	8
+ITINERARIO PERSONAL EMPLEABILIDAD	1º INTEGRACIÓN SOCIAL	136	Gutiérrez De la Rosa, Tito	X	10
+INSERCIÓN SOCIOLABORAL	1º INTEGRACIÓN SOCIAL	134	Romero López, Evaristo	M	13
+INSERCIÓN SOCIOLABORAL	1º INTEGRACIÓN SOCIAL	134	Romero López, Evaristo	M	14
+INSERCIÓN SOCIOLABORAL	1º INTEGRACIÓN SOCIAL	134	Romero López, Evaristo	J	12
+INSERCIÓN SOCIOLABORAL	1º INTEGRACIÓN SOCIAL	134	Romero López, Evaristo	J	10
+INSERCIÓN SOCIOLABORAL	1º INTEGRACIÓN SOCIAL	134	Romero López, Evaristo	V	14
+INSERCIÓN SOCIOLABORAL	1º INTEGRACIÓN SOCIAL	134	Romero López, Evaristo	V	13
+METODOLOGIA DE LA INTERVENCION SOCI	1º INTEGRACIÓN SOCIAL	134	Cabello García, Teresa	M	10
+METODOLOGIA DE LA INTERVENCION SOCI	1º INTEGRACIÓN SOCIAL	134	Cabello García, Teresa	M	12
+METODOLOGIA DE LA INTERVENCION SOCI	1º INTEGRACIÓN SOCIAL	134	Cabello García, Teresa	L	8
+PRIMEROS AUXILIOS	1º INTEGRACIÓN SOCIAL	134	Benítez Ramos, Eduardo	X	8
+PRIMEROS AUXILIOS	1º INTEGRACIÓN SOCIAL	134	Benítez Ramos, Eduardo	X	9
+PROMOCIÓN DE LA AUTONOMIA PERSONAL	1º INTEGRACIÓN SOCIAL	134	García Sarmiento, María	X	12
+PROMOCIÓN DE LA AUTONOMIA PERSONAL	1º INTEGRACIÓN SOCIAL	134	García Sarmiento, María	X	13
+PROMOCIÓN DE LA AUTONOMIA PERSONAL	1º INTEGRACIÓN SOCIAL	134	García Sarmiento, María	X	14
+PROMOCIÓN DE LA AUTONOMIA PERSONAL	1º INTEGRACIÓN SOCIAL	134	García Sarmiento, María	L	13
+PROMOCIÓN DE LA AUTONOMIA PERSONAL	1º INTEGRACIÓN SOCIAL	134	García Sarmiento, María	L	14
+PROMOCIÓN DE LA AUTONOMIA PERSONAL	1º INTEGRACIÓN SOCIAL	134	García Sarmiento, María	L	12
+SISTEMAS AUMENTATIVOS Y ALTER COMUN	1º INTEGRACIÓN SOCIAL	134	García Bonilla, María José	V	9
+SISTEMAS AUMENTATIVOS Y ALTER COMUN	1º INTEGRACIÓN SOCIAL	134	García Bonilla, María José	V	8
+SISTEMAS AUMENTATIVOS Y ALTER COMUN	1º INTEGRACIÓN SOCIAL	134	García Bonilla, María José	M	8
+SISTEMAS AUMENTATIVOS Y ALTER COMUN	1º INTEGRACIÓN SOCIAL	134	García Bonilla, María José	M	9
+SOSTENIBILIDAD APLICADA AL SIST.	1º INTEGRACIÓN SOCIAL	134	Cabello García, Teresa	V	10
+CONTEXTO DE LA MEDIACION COMUNIC PE	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	J	6
+CONTEXTO DE LA MEDIACION COMUNIC PE	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	J	7
+CONTEXTO DE LA MEDIACION COMUNIC PE	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	J	5
+CONTEXTO DE LA MEDIACION COMUNIC PE	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	X	5
+CONTEXTO DE LA MEDIACION COMUNIC PE	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	X	3
+DIGITALIZACION APLICADA SECTORES PR	1º MEDIACION COMUNICATIVA	136	González Arranz, Patricia	V	2
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º MEDIACION COMUNICATIVA	136	González Arranz, Patricia	L	5
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º MEDIACION COMUNICATIVA	136	González Arranz, Patricia	L	3
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º MEDIACION COMUNICATIVA	136	González Arranz, Patricia	X	2
+LENGUA DE SIGNOS ESPAÑOLA	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	J	1
+LENGUA DE SIGNOS ESPAÑOLA	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	J	2
+LENGUA DE SIGNOS ESPAÑOLA	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	J	3
+LENGUA DE SIGNOS ESPAÑOLA	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	M	6
+LENGUA DE SIGNOS ESPAÑOLA	1º MEDIACION COMUNICATIVA	134	Díaz Torres, Gema	M	7
+METODOLOGIA DE LA INTEGRACION SOCIA	1º MEDIACION COMUNICATIVA	134	Iglesias López, Rocío	M	3
+METODOLOGIA DE LA INTEGRACION SOCIA	1º MEDIACION COMUNICATIVA	134	Iglesias López, Rocío	V	1
+PRIMEROS AUXILIOS	1º MEDIACION COMUNICATIVA	134	Benítez Ramos, Eduardo	L	7
+PRIMEROS AUXILIOS	1º MEDIACION COMUNICATIVA		Rodríguez Muñoz, Rocío	L	7
+PRIMEROS AUXILIOS	1º MEDIACION COMUNICATIVA	134	Benítez Ramos, Eduardo	L	6
+PRIMEROS AUXILIOS	1º MEDIACION COMUNICATIVA		Rodríguez Muñoz, Rocío	L	6
+SIST AUMENTATIVOS Y ALTERN COMUNIC	1º MEDIACION COMUNICATIVA	134	García Bonilla, María José	L	2
+SIST AUMENTATIVOS Y ALTERN COMUNIC	1º MEDIACION COMUNICATIVA	134	García Bonilla, María José	L	1
+SIST AUMENTATIVOS Y ALTERN COMUNIC	1º MEDIACION COMUNICATIVA	134	García Bonilla, María José	X	6
+SIST AUMENTATIVOS Y ALTERN COMUNIC	1º MEDIACION COMUNICATIVA	134	García Bonilla, María José	X	7
+SOSTENIBILIDAD APLICADA SISTEMA PRO	1º MEDIACION COMUNICATIVA	136	González Arranz, Patricia	X	1
+SENSIBILIZACION SOCIAL Y PARTICIPAT	1º MEDIACION COMUNICATIVA	134	García Sarmiento, María	V	3
+SENSIBILIZACION SOCIAL Y PARTICIPAT	1º MEDIACION COMUNICATIVA	134	García Sarmiento, María	V	5
+SENSIBILIZACION SOCIAL Y PARTICIPAT	1º MEDIACION COMUNICATIVA	134	García Sarmiento, María	M	5
+TEC INTERVENCION COMUNICATIVA	1º MEDIACION COMUNICATIVA	134	Fernandez Moreno, Raquel	V	7
+TEC INTERVENCION COMUNICATIVA	1º MEDIACION COMUNICATIVA	134	Fernandez Moreno, Raquel	V	6
+TEC INTERVENCION COMUNICATIVA	1º MEDIACION COMUNICATIVA	134	Fernandez Moreno, Raquel	M	1
+TEC INTERVENCION COMUNICATIVA	1º MEDIACION COMUNICATIVA	134	Fernandez Moreno, Raquel	M	2
+DIGITALIZACION APLICADA A SISTEMAS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	221	Caballero de León Morales, María	L	7
+DOCUMENTACION TECNICA EN INSTALACIO	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Parias Ángel, Marta	V	5
+DOCUMENTACION TECNICA EN INSTALACIO	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Parias Ángel, Marta	V	3
+DOCUMENTACION TECNICA EN INSTALACIO	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Parias Ángel, Marta	M	5
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS ELECTROTECN. Y AUTOMATI	221	González Arranz, Patricia	V	6
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS ELECTROTECN. Y AUTOMATI	221	González Arranz, Patricia	V	7
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS ELECTROTECN. Y AUTOMATI	221	González Arranz, Patricia	X	6
+PROCESOS INSTALACIONES DE INFRAESTR	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT6-0	Suárez Fernandez-Miranda, Susana	V	2
+PROCESOS INSTALACIONES DE INFRAESTR	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT6-0	Suárez Fernandez-Miranda, Susana	V	1
+PROCESOS INSTALACIONES DE INFRAESTR	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT6-0	Suárez Fernandez-Miranda, Susana	X	1
+PROCESOS INSTALACIONES DE INFRAESTR	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT6-0	Suárez Fernandez-Miranda, Susana	X	2
+SISTEMAS Y CIRCUITOS ELECTRICOS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT3-0	Montiel Montesinos, Juanfran	J	6
+SISTEMAS Y CIRCUITOS ELECTRICOS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT3-0	Montiel Montesinos, Juanfran	J	7
+SISTEMAS Y CIRCUITOS ELECTRICOS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT3-0	Montiel Montesinos, Juanfran	X	5
+SISTEMAS Y CIRCUITOS ELECTRICOS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT3-0	Montiel Montesinos, Juanfran	X	3
+SOSTENIBILIDAD APLICADA AL SIST.	1º SISTEMAS ELECTROTECN. Y AUTOMATI	221	González Arranz, Patricia	X	7
+TECNICAS Y PROCESOS INST. DOMOTICAS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Rengel López, Julio	L	1
+TECNICAS Y PROCESOS INST. DOMOTICAS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Rengel López, Julio	L	2
+TECNICAS Y PROCESOS INST. DOMOTICAS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Rengel López, Julio	L	3
+TECNICAS Y PROCESOS INST. DOMOTICAS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Rengel López, Julio	M	6
+TECNICAS Y PROCESOS INST. DOMOTICAS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Rengel López, Julio	M	7
+TECNICAS Y PROCESOS INST. DOMOTICAS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Rengel López, Julio	J	3
+TECNICAS Y PROCESOS INST. DOMOTICAS	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Rengel López, Julio	J	5
+TPIEL	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Campos Palma, Javier	M	1
+TPIEL	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Campos Palma, Javier	M	2
+TPIEL	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Campos Palma, Javier	M	3
+TPIEL	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT6-1	Campos Palma, Javier	L	5
+TPIEL	1º SISTEMAS ELECTROTECN. Y AUTOMATI	AT6-1	Campos Palma, Javier	L	6
+TPIEL	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Campos Palma, Javier	J	1
+TPIEL	1º SISTEMAS ELECTROTECN. Y AUTOMATI	T5	Campos Palma, Javier	J	2
+CONFIGURACION DE INFRAES. SIS. TEL.	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Ortega Rodríguez, David	J	2
+CONFIGURACION DE INFRAES. SIS. TEL.	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Ortega Rodríguez, David	J	1
+CONFIGURACION DE INFRAES. SIS. TEL.	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Ortega Rodríguez, David	M	5
+CONFIGURACION DE INFRAES. SIS. TEL.	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Ortega Rodríguez, David	M	3
+DIGITALIZACION APLICADA A SISTEMAS	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Caballero de León Morales, María	M	7
+ELEMENTOS DE SIS. DE TELECOMUNICA.	1º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Medina Guerrero, Alfonso	V	3
+ELEMENTOS DE SIS. DE TELECOMUNICA.	1º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Medina Guerrero, Alfonso	V	5
+ELEMENTOS DE SIS. DE TELECOMUNICA.	1º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Medina Guerrero, Alfonso	L	1
+ELEMENTOS DE SIS. DE TELECOMUNICA.	1º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Medina Guerrero, Alfonso	L	2
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Gómez Mayo, Juan Antonio	X	6
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Gómez Mayo, Juan Antonio	X	7
+ITINERARIO PERSONAL EMPLEABILIDAD	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Gómez Mayo, Juan Antonio	V	7
+SIS. INTEGRADOS Y HOGAR DIGITAL	1º SISTEMAS TELECOMUNICACIONES INFO	T3-2	Peso González, Manuel	J	6
+SIS. INTEGRADOS Y HOGAR DIGITAL	1º SISTEMAS TELECOMUNICACIONES INFO	T3-2	Peso González, Manuel	J	7
+SIS. INTEGRADOS Y HOGAR DIGITAL	1º SISTEMAS TELECOMUNICACIONES INFO	T3-2	Peso González, Manuel	L	5
+SIS. INTEGRADOS Y HOGAR DIGITAL	1º SISTEMAS TELECOMUNICACIONES INFO	T3-2	Peso González, Manuel	L	3
+SIS. INFORMATICOS Y REDES LOCALES	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	X	2
+SIS. INFORMATICOS Y REDES LOCALES	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	X	1
+SIS. INFORMATICOS Y REDES LOCALES	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	J	5
+SIS. INFORMATICOS Y REDES LOCALES	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	J	3
+SIS. INFORMATICOS Y REDES LOCALES	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	V	6
+SOSTENIBILIDAD APLICADA AL SIST.	1º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Gómez Mayo, Juan Antonio	M	6
+SISTEMAS DE TELEFONIA FIJA Y MOVIL	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Lomas Ruiz, Amador	X	5
+SISTEMAS DE TELEFONIA FIJA Y MOVIL	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Lomas Ruiz, Amador	X	3
+SISTEMAS DE TELEFONIA FIJA Y MOVIL	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Lomas Ruiz, Amador	V	1
+SISTEMAS DE TELEFONIA FIJA Y MOVIL	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Lomas Ruiz, Amador	V	2
+TEC. Y PROCESOS EN INFRA. DE TELECO	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Lomas Ruiz, Amador	M	1
+TEC. Y PROCESOS EN INFRA. DE TELECO	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Lomas Ruiz, Amador	M	2
+TEC. Y PROCESOS EN INFRA. DE TELECO	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Lomas Ruiz, Amador	L	6
+TEC. Y PROCESOS EN INFRA. DE TELECO	1º SISTEMAS TELECOMUNICACIONES INFO	T3-1	Lomas Ruiz, Amador	L	7
+DINAMIZACIÓN GRUPAL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Cano Ceballos, Desiré	L	1
+DINAMIZACIÓN GRUPAL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Cano Ceballos, Desiré	L	2
+DINAMIZACIÓN GRUPAL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Cano Ceballos, Desiré	X	1
+DINAMIZACIÓN GRUPAL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Cano Ceballos, Desiré	X	2
+DINAMIZACIÓN GRUPAL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Cano Ceballos, Desiré	V	1
+DINAMIZACIÓN GRUPAL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Cano Ceballos, Desiré	V	2
+IPE 2	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Guillén López, María Jesús	X	3
+IPE 2	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Guillén López, María Jesús	X	5
+IPE 2	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Guillén López, María Jesús	J	7
+OPTATIVA	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Real Jiménez, Marta	L	5
+OPTATIVA	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Real Jiménez, Marta	L	3
+OPTATIVA	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Real Jiménez, Marta	V	7
+INFORMACIÓN JUVENIL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Figueroa Abrio, Mercedes	V	3
+INFORMACIÓN JUVENIL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Figueroa Abrio, Mercedes	V	5
+INFORMACIÓN JUVENIL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Figueroa Abrio, Mercedes	V	6
+INFORMACIÓN JUVENIL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Figueroa Abrio, Mercedes	M	1
+INFORMACIÓN JUVENIL	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Figueroa Abrio, Mercedes	M	2
+PROYECTO INTERMODULAR	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Real Jiménez, Marta	J	5
+PROYECTO INTERMODULAR	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Real Jiménez, Marta	J	3
+INTERVENCIÓN SOCIOEDUCATIVA CON JO.	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Iglesias López, Rocío	X	6
+INTERVENCIÓN SOCIOEDUCATIVA CON JO.	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Iglesias López, Rocío	X	7
+INTERVENCIÓN SOCIOEDUCATIVA CON JO.	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Iglesias López, Rocío	M	6
+INTERVENCIÓN SOCIOEDUCATIVA CON JO.	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Iglesias López, Rocío	M	7
+INTERVENCIÓN SOCIOEDUCATIVA CON JO.	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Iglesias López, Rocío	J	6
+ACTIVIDADES DE OCIO Y TIEMPO LIBRE	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Prados Moreno, Charo	L	6
+ACTIVIDADES DE OCIO Y TIEMPO LIBRE	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Prados Moreno, Charo	L	7
+ACTIVIDADES DE OCIO Y TIEMPO LIBRE	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Prados Moreno, Charo	J	2
+ACTIVIDADES DE OCIO Y TIEMPO LIBRE	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Prados Moreno, Charo	J	1
+ACTIVIDADES DE OCIO Y TIEMPO LIBRE	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Prados Moreno, Charo	M	3
+ACTIVIDADES DE OCIO Y TIEMPO LIBRE	2º ANIMACIÓN SOCIOCULTURAL TUR.	223	Prados Moreno, Charo	M	5
+ADMINISTRACIÓN GEST. BASES DATOS	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Blázquez Pérez, Antonio	V	1
+ADMINISTRACIÓN GEST. BASES DATOS	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Blázquez Pérez, Antonio	V	2
+ADMINISTRACIÓN GEST. BASES DATOS	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Blázquez Pérez, Antonio	X	1
+INGLES PROFESIONAL	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Alkhoury Navarro, Sahar	L	1
+INGLES PROFESIONAL	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Alkhoury Navarro, Sahar	J	2
+OPTATIVA	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Moreno Vicente, Francisco	L	5
+OPTATIVA	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Moreno Vicente, Francisco	L	3
+OPTATIVA	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Moreno Vicente, Francisco	J	1
+ADMINISTRACIÓN DE SISTEMAS OPERATIV	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Vilches Navarrete, José Manuel	X	5
+ADMINISTRACIÓN DE SISTEMAS OPERATIV	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Vilches Navarrete, José Manuel	X	6
+ADMINISTRACIÓN DE SISTEMAS OPERATIV	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Vilches Navarrete, José Manuel	X	7
+ADMINISTRACIÓN DE SISTEMAS OPERATIV	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Vilches Navarrete, José Manuel	V	3
+ADMINISTRACIÓN DE SISTEMAS OPERATIV	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Vilches Navarrete, José Manuel	V	5
+PROYECTO INTERMODULAR	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Morilla Romero de la Osa, Rafael	V	7
+PROYECTO INTERMODULAR	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Morilla Romero de la Osa, Rafael	V	6
+IMPLANTACIÓN DE APLICACIONES WEB	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Montero Navarro, Joaquínma	J	6
+IMPLANTACIÓN DE APLICACIONES WEB	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Montero Navarro, Joaquínma	J	7
+IMPLANTACIÓN DE APLICACIONES WEB	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Montero Navarro, Joaquínma	L	7
+IMPLANTACIÓN DE APLICACIONES WEB	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Montero Navarro, Joaquínma	L	6
+SEGURIDAD Y ALTA DISPONIBILIDAD	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Marchena Gómez, Almudena	M	3
+SEGURIDAD Y ALTA DISPONIBILIDAD	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Marchena Gómez, Almudena	M	1
+SEGURIDAD Y ALTA DISPONIBILIDAD	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Marchena Gómez, Almudena	M	2
+IPE 2	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Gómez Mayo, Juan Antonio	X	2
+IPE 2	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Gómez Mayo, Juan Antonio	X	3
+IPE 2	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Gómez Mayo, Juan Antonio	L	2
+SERVICIOS DE RED E INTERNET	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Morilla Romero de la Osa, Rafael	M	5
+SERVICIOS DE RED E INTERNET	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Morilla Romero de la Osa, Rafael	M	6
+SERVICIOS DE RED E INTERNET	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Morilla Romero de la Osa, Rafael	M	7
+SERVICIOS DE RED E INTERNET	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Morilla Romero de la Osa, Rafael	J	5
+SERVICIOS DE RED E INTERNET	2º ADMINISTRACIÓN DE SIST. INFORMAT	128	Morilla Romero de la Osa, Rafael	J	3
+ACCESO A DATOS	2º DESARROLLO APLICACIONES MULTIPLA	127	Olmedo Rivera, José Antonio	X	13
+ACCESO A DATOS	2º DESARROLLO APLICACIONES MULTIPLA	127	Olmedo Rivera, José Antonio	X	14
+ACCESO A DATOS	2º DESARROLLO APLICACIONES MULTIPLA	127	Olmedo Rivera, José Antonio	L	10
+ACCESO A DATOS	2º DESARROLLO APLICACIONES MULTIPLA	127	Olmedo Rivera, José Antonio	L	12
+DESARROLLO INTERFACES	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	M	13
+DESARROLLO INTERFACES	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	M	14
+DESARROLLO INTERFACES	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	J	10
+DESARROLLO INTERFACES	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	J	12
+DESARROLLO INTERFACES	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	L	14
+DESARROLLO INTERFACES	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	L	13
+PROYECTO INTERMODULAR	2º DESARROLLO APLICACIONES MULTIPLA	127	Olmedo Rivera, José Antonio	M	10
+PROYECTO INTERMODULAR	2º DESARROLLO APLICACIONES MULTIPLA	127	Olmedo Rivera, José Antonio	M	9
+IPE 2	2º DESARROLLO APLICACIONES MULTIPLA	127	Gutiérrez De la Rosa, Tito	J	13
+IPE 2	2º DESARROLLO APLICACIONES MULTIPLA	127	Gutiérrez De la Rosa, Tito	J	14
+IPE 2	2º DESARROLLO APLICACIONES MULTIPLA	127	Gutiérrez De la Rosa, Tito	M	12
+OPTATIVA	2º DESARROLLO APLICACIONES MULTIPLA	127	Jiménez Moreno, Míryam	L	8
+OPTATIVA	2º DESARROLLO APLICACIONES MULTIPLA	127	Jiménez Moreno, Míryam	L	9
+OPTATIVA	2º DESARROLLO APLICACIONES MULTIPLA	127	Jiménez Moreno, Míryam	V	8
+INGLES	2º DESARROLLO APLICACIONES MULTIPLA	127	Reina Giráldez, Olga	M	8
+INGLES	2º DESARROLLO APLICACIONES MULTIPLA	127	Reina Giráldez, Olga	X	8
+PROGRAMACION MULTIMEDIA Y DISPOSITI	2º DESARROLLO APLICACIONES MULTIPLA	127	Marchena Gómez, Almudena	X	9
+PROGRAMACION MULTIMEDIA Y DISPOSITI	2º DESARROLLO APLICACIONES MULTIPLA	127	Marchena Gómez, Almudena	X	10
+PROGRAMACION MULTIMEDIA Y DISPOSITI	2º DESARROLLO APLICACIONES MULTIPLA	127	Marchena Gómez, Almudena	X	12
+PROGRAMACION DE SERVICIOS Y PROCESO	2º DESARROLLO APLICACIONES MULTIPLA	127	Ortega Florido, Juan Antonio	V	12
+PROGRAMACION DE SERVICIOS Y PROCESO	2º DESARROLLO APLICACIONES MULTIPLA	127	Ortega Florido, Juan Antonio	V	13
+PROGRAMACION DE SERVICIOS Y PROCESO	2º DESARROLLO APLICACIONES MULTIPLA	127	Ortega Florido, Juan Antonio	V	14
+SISTEMAS DE GESTIÓN EMPRESARIAL	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	V	10
+SISTEMAS DE GESTIÓN EMPRESARIAL	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	V	9
+SISTEMAS DE GESTIÓN EMPRESARIAL	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	J	9
+SISTEMAS DE GESTIÓN EMPRESARIAL	2º DESARROLLO APLICACIONES MULTIPLA	127	González Sayago, José Antonio	J	8
+DESPLIEGUE DE APLICACIONES WEB	2º DESARROLLO APLICACIONES WEB	129	Montero Navarro, Joaquínma	J	5
+DESPLIEGUE DE APLICACIONES WEB	2º DESARROLLO APLICACIONES WEB	129	Montero Navarro, Joaquínma	J	3
+DISEÑO INTERFACES WEB	2º DESARROLLO APLICACIONES WEB	129	García Villarán, Carlos	M	5
+DISEÑO INTERFACES WEB	2º DESARROLLO APLICACIONES WEB	129	García Villarán, Carlos	M	6
+DISEÑO INTERFACES WEB	2º DESARROLLO APLICACIONES WEB	129	García Villarán, Carlos	V	1
+DISEÑO INTERFACES WEB	2º DESARROLLO APLICACIONES WEB	129	García Villarán, Carlos	V	2
+DISEÑO INTERFACES WEB	2º DESARROLLO APLICACIONES WEB	129	García Villarán, Carlos	X	6
+DESARROLLO WEB ENTORNO CLIENTE	2º DESARROLLO APLICACIONES WEB	129	Bueno Guisado, Antonio	L	1
+DESARROLLO WEB ENTORNO CLIENTE	2º DESARROLLO APLICACIONES WEB	129	Bueno Guisado, Antonio	L	2
+DESARROLLO WEB ENTORNO CLIENTE	2º DESARROLLO APLICACIONES WEB	129	Bueno Guisado, Antonio	L	3
+DESARROLLO WEB ENTORNO CLIENTE	2º DESARROLLO APLICACIONES WEB	129	Bueno Guisado, Antonio	X	2
+DESARROLLO WEB ENTORNO CLIENTE	2º DESARROLLO APLICACIONES WEB	129	Bueno Guisado, Antonio	X	3
+DESARROLLO WEB ENTORNO CLIENTE	2º DESARROLLO APLICACIONES WEB	129	Bueno Guisado, Antonio	X	5
+DESARROLLO WEB ENTORNO SERVIDOR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	M	1
+DESARROLLO WEB ENTORNO SERVIDOR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	M	2
+DESARROLLO WEB ENTORNO SERVIDOR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	M	3
+DESARROLLO WEB ENTORNO SERVIDOR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	L	6
+DESARROLLO WEB ENTORNO SERVIDOR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	L	7
+DESARROLLO WEB ENTORNO SERVIDOR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	V	3
+DESARROLLO WEB ENTORNO SERVIDOR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	V	5
+OPTATIVA	2º DESARROLLO APLICACIONES WEB	129	Montero Navarro, Joaquínma	V	7
+OPTATIVA	2º DESARROLLO APLICACIONES WEB	129	Montero Navarro, Joaquínma	V	6
+OPTATIVA	2º DESARROLLO APLICACIONES WEB	129	Montero Navarro, Joaquínma	X	7
+INGLES PROFESIONAL	2º DESARROLLO APLICACIONES WEB	129	Alkhoury Navarro, Sahar	X	1
+INGLES PROFESIONAL	2º DESARROLLO APLICACIONES WEB	129	Alkhoury Navarro, Sahar	L	5
+IPE 2	2º DESARROLLO APLICACIONES WEB	129	Gómez Mayo, Juan Antonio	J	2
+IPE 2	2º DESARROLLO APLICACIONES WEB	129	Gómez Mayo, Juan Antonio	J	1
+IPE 2	2º DESARROLLO APLICACIONES WEB	129	Gómez Mayo, Juan Antonio	M	7
+PROYECTO INTERMODULAR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	J	7
+PROYECTO INTERMODULAR	2º DESARROLLO APLICACIONES WEB	129	Barón Abad, Jorge	J	6
+APOYO INTERVENCION EDUCATIVA	2º INTEGRACIÓN SOCIAL	135	García Sarmiento, María	J	10
+APOYO INTERVENCION EDUCATIVA	2º INTEGRACIÓN SOCIAL	135	García Sarmiento, María	J	8
+APOYO INTERVENCION EDUCATIVA	2º INTEGRACIÓN SOCIAL	135	García Sarmiento, María	J	9
+APOYO INTERVENCION EDUCATIVA	2º INTEGRACIÓN SOCIAL	135	García Sarmiento, María	L	8
+APOYO INTERVENCION EDUCATIVA	2º INTEGRACIÓN SOCIAL	135	García Sarmiento, María	L	9
+ATENCION UNIDADES CONVIVENCIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	V	10
+ATENCION UNIDADES CONVIVENCIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	V	12
+ATENCION UNIDADES CONVIVENCIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	L	13
+ATENCION UNIDADES CONVIVENCIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	L	14
+ATENCION UNIDADES CONVIVENCIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	M	10
+ATENCION UNIDADES CONVIVENCIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	M	12
+HABILIDADES SOCIALES	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	V	9
+HABILIDADES SOCIALES	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	V	8
+HABILIDADES SOCIALES	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	M	13
+HABILIDADES SOCIALES	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	M	14
+IPE2	2º INTEGRACIÓN SOCIAL	136	Gutiérrez De la Rosa, Tito	V	13
+IPE2	2º INTEGRACIÓN SOCIAL	136	Gutiérrez De la Rosa, Tito	V	14
+IPE2	2º INTEGRACIÓN SOCIAL	136	Gutiérrez De la Rosa, Tito	L	10
+OPTATIVA	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	X	8
+OPTATIVA	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	X	9
+OPTATIVA	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	L	12
+INGLES	2º INTEGRACIÓN SOCIAL	135	Reina Giráldez, Olga	X	10
+INGLES	2º INTEGRACIÓN SOCIAL	135	Reina Giráldez, Olga	M	9
+PROYECTO INTERMODULAR	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	M	8
+PROYECTO INTERMODULAR	2º INTEGRACIÓN SOCIAL	135	Cabello García, Teresa	J	12
+MEDIACION COMUNITARIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	X	14
+MEDIACION COMUNITARIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	X	12
+MEDIACION COMUNITARIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	X	13
+MEDIACION COMUNITARIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	J	13
+MEDIACION COMUNITARIA	2º INTEGRACIÓN SOCIAL	135	Romero López, Evaristo	J	14
+ÁMBITOS DE APLICACIÓN DE LA L.SIGN	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	L	3
+ÁMBITOS DE APLICACIÓN DE LA L.SIGN	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	L	5
+ÁMBITOS DE APLICACIÓN DE LA L.SIGN	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	V	3
+ÁMBITOS DE APLICACIÓN DE LA L.SIGN	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	V	5
+ÁMBITOS DE APLICACIÓN DE LA L.SIGN	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	J	5
+ÁMBITOS DE APLICACIÓN DE LA L.SIGN	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	J	6
+IPE	2º MEDIACIÓN COMUNICATIVA	136	González Arranz, Patricia	J	3
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	J	3
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	135	García Bonilla, María José	J	3
+IPE	2º MEDIACIÓN COMUNICATIVA	136	González Arranz, Patricia	J	1
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	J	1
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	135	García Bonilla, María José	J	1
+IPE	2º MEDIACIÓN COMUNICATIVA	136	González Arranz, Patricia	J	2
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	133	Figueroa Abrio, Mercedes	J	2
+APOYO DOMICILIARIO	1º ATENCIÓN PERS SITUACION DEPENDEN	135	García Bonilla, María José	J	2
+HABILIDADES SOCIALES	2º MEDIACIÓN COMUNICATIVA	135	Iglesias López, Rocío	X	3
+HABILIDADES SOCIALES	2º MEDIACIÓN COMUNICATIVA	135	Iglesias López, Rocío	X	5
+HABILIDADES SOCIALES	2º MEDIACIÓN COMUNICATIVA	135	Iglesias López, Rocío	M	1
+HABILIDADES SOCIALES	2º MEDIACIÓN COMUNICATIVA	135	Iglesias López, Rocío	M	2
+PROYECTO INTERMODULAR	2º MEDIACIÓN COMUNICATIVA	135	García Sarmiento, María	V	7
+PROYECTO INTERMODULAR	2º MEDIACIÓN COMUNICATIVA	135	García Sarmiento, María	V	6
+INGLES PROFESIONAL	2º MEDIACIÓN COMUNICATIVA	135	Durán Campos, María José	J	7
+INGLES PROFESIONAL	2º MEDIACIÓN COMUNICATIVA	135	Durán Campos, María José	M	3
+LIBRE CONFIGURACION	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	M	7
+LIBRE CONFIGURACION	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	M	6
+LIBRE CONFIGURACION	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	M	5
+INTERVENCIÓN CON PERSONAS CON DIF.	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	X	7
+INTERVENCIÓN CON PERSONAS CON DIF.	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	X	6
+INTERVENCIÓN CON PERSONAS CON DIF.	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	L	7
+INTERVENCIÓN CON PERSONAS CON DIF.	2º MEDIACIÓN COMUNICATIVA	135	Fernandez Moreno, Raquel	L	6
+INTERVENCIÓN SOCIOEDU. PERS. SORD	2º MEDIACIÓN COMUNICATIVA	135	Díaz Torres, Gema	X	2
+INTERVENCIÓN SOCIOEDU. PERS. SORD	2º MEDIACIÓN COMUNICATIVA	135	Díaz Torres, Gema	X	1
+INTERVENCIÓN SOCIOEDU. PERS. SORD	2º MEDIACIÓN COMUNICATIVA	135	Díaz Torres, Gema	V	1
+INTERVENCIÓN SOCIOEDU. PERS. SORD	2º MEDIACIÓN COMUNICATIVA	135	Díaz Torres, Gema	V	2
+INTERVENCIÓN SOCIOEDU. PERS. SORD	2º MEDIACIÓN COMUNICATIVA	135	Díaz Torres, Gema	L	1
+INTERVENCIÓN SOCIOEDU. PERS. SORD	2º MEDIACIÓN COMUNICATIVA	135	Díaz Torres, Gema	L	2
+GESTION DE MONTAJE Y MANTENIMIENTO	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Parias Ángel, Marta	X	1
+GESTION DE MONTAJE Y MANTENIMIENTO	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Parias Ángel, Marta	X	2
+GESTION DE MONTAJE Y MANTENIMIENTO	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Parias Ángel, Marta	L	1
+CONFIGURACION INST. DOMOTICAS Y AUT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	T3-2	Rico Ginel, Sergio Luis	X	5
+CONFIGURACION INST. DOMOTICAS Y AUT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	T3-2	Rico Ginel, Sergio Luis	X	3
+CONFIGURACION INST. DOMOTICAS Y AUT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	T3-2	Rico Ginel, Sergio Luis	V	3
+CONFIGURACION INST. DOMOTICAS Y AUT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	T3-2	Rico Ginel, Sergio Luis	V	5
+CONFIGURACION INST. DOMOTICAS Y AUT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	T3-2	Rico Ginel, Sergio Luis	M	6
+CONFIGURACION INST. DOMOTICAS Y AUT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	T3-2	Rico Ginel, Sergio Luis	M	7
+CONFIGURACION INST. ELECTRICAS	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	L	6
+CONFIGURACION INST. ELECTRICAS	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	L	7
+CONFIGURACION INST. ELECTRICAS	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	J	3
+CONFIGURACION INST. ELECTRICAS	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	J	5
+CONFIGURACION INST. ELECTRICAS	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	M	2
+CONFIGURACION INST. ELECTRICAS	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	M	3
+DESARROLLO REDES ELECTRICAS Y CT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	X	6
+DESARROLLO REDES ELECTRICAS Y CT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	X	7
+DESARROLLO REDES ELECTRICAS Y CT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	V	1
+DESARROLLO REDES ELECTRICAS Y CT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	V	2
+DESARROLLO REDES ELECTRICAS Y CT	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	L	5
+OPTATIVA	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Rico Ginel, Sergio Luis	V	7
+OPTATIVA	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Rico Ginel, Sergio Luis	V	6
+OPTATIVA	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Rico Ginel, Sergio Luis	L	3
+PROYECTO INTERMODULAR	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	J	1
+PROYECTO INTERMODULAR	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	León Funes, Carlos	J	2
+INGLES PROFESIONAL	2º SISTEMAS ELECTROTECN. Y AUTOMATI	122	Villegas Muñoz, Rosalía	L	2
+INGLES PROFESIONAL	2º SISTEMAS ELECTROTECN. Y AUTOMATI	122	Villegas Muñoz, Rosalía	M	5
+IPE 2	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Baquero Guzmán, Inmaculada	J	6
+IPE 2	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Baquero Guzmán, Inmaculada	J	7
+IPE 2	2º SISTEMAS ELECTROTECN. Y AUTOMATI	AT5-0	Baquero Guzmán, Inmaculada	M	1
+IPE 2	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	Guillén López, María Jesús	J	5
+IPE 2	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	Guillén López, María Jesús	J	3
+IPE 2	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	Guillén López, María Jesús	V	6
+INGLES PROFESIONAL	2º SISTEMAS TELECOMUNICACIONES INFO	122	Villegas Muñoz, Rosalía	M	2
+INGLES PROFESIONAL	2º SISTEMAS TELECOMUNICACIONES INFO	122	Villegas Muñoz, Rosalía	J	7
+OPTATIVA	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	L	7
+OPTATIVA	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	L	6
+OPTATIVA	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	X	5
+PROYECTO INTERMODULAR	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Ortega Rodríguez, David	M	1
+PROYECTO INTERMODULAR	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Ortega Rodríguez, David	X	3
+GEST PROYECTOS INST TELECOM	2º SISTEMAS TELECOMUNICACIONES INFO	T3-2	Suárez Fernandez-Miranda, Susana	L	2
+GEST PROYECTOS INST TELECOM	2º SISTEMAS TELECOMUNICACIONES INFO	T3-2	Suárez Fernandez-Miranda, Susana	L	1
+GEST PROYECTOS INST TELECOM	2º SISTEMAS TELECOMUNICACIONES INFO	T3-2	Suárez Fernandez-Miranda, Susana	V	7
+REDES TELEMATICAS	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	L	3
+REDES TELEMATICAS	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	L	5
+REDES TELEMATICAS	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	V	5
+REDES TELEMATICAS	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	V	3
+REDES TELEMATICAS	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	J	2
+REDES TELEMATICAS	2º SISTEMAS TELECOMUNICACIONES INFO	T4-3	Estepa Pérez, Rafael	J	1
+SIST PROD AV	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	González Lora, Juan Carlos	V	1
+SIST PROD AV	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	González Lora, Juan Carlos	V	2
+SIST PROD AV	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	González Lora, Juan Carlos	M	5
+SIST PROD AV	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	González Lora, Juan Carlos	M	3
+SIST PROD AV	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	González Lora, Juan Carlos	X	1
+SIST PROD AV	2º SISTEMAS TELECOMUNICACIONES INFO	AT4	González Lora, Juan Carlos	X	2
+SISTEMAS DE RADIOCOMUNICACIONES	2º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Estepa Pérez, Rafael	M	6
+SISTEMAS DE RADIOCOMUNICACIONES	2º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Estepa Pérez, Rafael	M	7
+SISTEMAS DE RADIOCOMUNICACIONES	2º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Estepa Pérez, Rafael	X	6
+SISTEMAS DE RADIOCOMUNICACIONES	2º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Estepa Pérez, Rafael	X	7
+SISTEMAS DE RADIOCOMUNICACIONES	2º SISTEMAS TELECOMUNICACIONES INFO	T4-4	Estepa Pérez, Rafael	J	6
+SISTEMAS BIG DATA	IABD	128	García Villarán, Carlos	L	14
+SISTEMAS BIG DATA	IABD	128	Barón Abad, Jorge	X	9
+SISTEMAS BIG DATA	IABD	128	Barón Abad, Jorge	X	10
+BIG DATA APLICADO	IABD	128	García Villarán, Carlos	L	9
+BIG DATA APLICADO	IABD	128	García Villarán, Carlos	L	10
+BIG DATA APLICADO	IABD	128	García Villarán, Carlos	L	12
+BIG DATA APLICADO	IABD	128	García Villarán, Carlos	L	13
+SISTEMAS DE APRENDIZAJE AUTOMATICO	IABD	128	Montero Navarro, Joaquínma	M	9
+SISTEMAS DE APRENDIZAJE AUTOMATICO	IABD	128	Montero Navarro, Joaquínma	M	10
+SISTEMAS DE APRENDIZAJE AUTOMATICO	IABD	128	Montero Navarro, Joaquínma	M	12
+PROGRAMACION INTELIGENCIA ARTIFICIA	IABD	128	Montero Navarro, Joaquínma	M	13
+PROGRAMACION INTELIGENCIA ARTIFICIA	IABD	128	Montero Navarro, Joaquínma	M	14
+PROGRAMACION INTELIGENCIA ARTIFICIA	IABD	128	Olmedo Rivera, José Antonio	J	9
+PROGRAMACION INTELIGENCIA ARTIFICIA	IABD	128	Olmedo Rivera, José Antonio	J	10
+PROGRAMACION INTELIGENCIA ARTIFICIA	IABD	128	Olmedo Rivera, José Antonio	J	12
+PROGRAMACION INTELIGENCIA ARTIFICIA	IABD	128	Olmedo Rivera, José Antonio	J	13
+PROGRAMACION INTELIGENCIA ARTIFICIA	IABD	128	Olmedo Rivera, José Antonio	J	14
+MODELOS INTELIGENCIA ARTIFICIAL	IABD	128	Barón Abad, Jorge	X	12
+MODELOS INTELIGENCIA ARTIFICIAL	IABD	128	Barón Abad, Jorge	X	13
+MODELOS INTELIGENCIA ARTIFICIAL	IABD	128	Barón Abad, Jorge	X	14
+PCT	1º FB MANTENIMIENTO DE VEHICULOS		Cubero Madroñal, Emilia	J	5
+AMB SOCIO LINGUISTICO	1º FB MANTENIMIENTO DE VEHICULOS	139	Ciero Polvillo, Conchi	J	5
+PCT	1º FB MANTENIMIENTO DE VEHICULOS		Cubero Madroñal, Emilia	J	6
+AMB SOCIO LINGUISTICO	1º FB MANTENIMIENTO DE VEHICULOS	139	Ciero Polvillo, Conchi	J	6
+PCT	1º FB MANTENIMIENTO DE VEHICULOS		Amores Oviedo, Asunción	L	3
+AC	1º FB MANTENIMIENTO DE VEHICULOS	139	Pezzotti, María Rosa	L	3
+PCT	1º FB MANTENIMIENTO DE VEHICULOS		Amores Oviedo, Asunción	J	7
+AC	1º FB MANTENIMIENTO DE VEHICULOS	139	Pezzotti, María Rosa	J	7
+APOYO	1º FB MANTENIMIENTO DE VEHICULOS		Pacheco Cano, Encarnación	L	5
+APOYO	1º FB MANTENIMIENTO DE VEHICULOS		García Piña, Ismael	L	5
+AMB SOCIO LINGUISTICO	1º FB MANTENIMIENTO DE VEHICULOS	139	Ciero Polvillo, Conchi	L	5
+APOYO	1º FB MANTENIMIENTO DE VEHICULOS		García Piña, Ismael	L	6
+AMB SOCIO LINGUISTICO	1º FB MANTENIMIENTO DE VEHICULOS	139	Ciero Polvillo, Conchi	L	6
+APOYO	1º FB MANTENIMIENTO DE VEHICULOS		García Piña, Ismael	M	5
+AMB SOCIO LINGUISTICO	1º FB MANTENIMIENTO DE VEHICULOS	139	Ciero Polvillo, Conchi	M	5
+APOYO	1º FB MANTENIMIENTO DE VEHICULOS		García Piña, Ismael	M	3
+AMB SOCIO LINGUISTICO	1º FB MANTENIMIENTO DE VEHICULOS	139	Ciero Polvillo, Conchi	M	3
+APOYO	1º FB MANTENIMIENTO DE VEHICULOS		Ortega Romero, Carmen	X	6
+AC	1º FB MANTENIMIENTO DE VEHICULOS	139	Pezzotti, María Rosa	X	6
+APOYO	1º FB MANTENIMIENTO DE VEHICULOS		Ortega Romero, Carmen	X	5
+AC	1º FB MANTENIMIENTO DE VEHICULOS	139	Pezzotti, María Rosa	X	5
+AMOVIBLE	1º FB MANTENIMIENTO DE VEHICULOS	139	García Tejero, Javier	V	3
+AMOVIBLE	1º FB MANTENIMIENTO DE VEHICULOS	139	García Tejero, Javier	V	5
+AMOVIBLE	1º FB MANTENIMIENTO DE VEHICULOS	139	García Tejero, Javier	V	6
+AMOVIBLE	1º FB MANTENIMIENTO DE VEHICULOS	139	García Tejero, Javier	V	7
+AMOVIBLE	1º FB MANTENIMIENTO DE VEHICULOS	139	García Tejero, Javier	M	6
+AMOVIBLE	1º FB MANTENIMIENTO DE VEHICULOS	139	García Tejero, Javier	M	7
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º FB MANTENIMIENTO DE VEHICULOS	126	Ribes Gutiérrez, Victoria	L	2
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º FB MANTENIMIENTO DE VEHICULOS	126	Ribes Gutiérrez, Victoria	L	1
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º FB MANTENIMIENTO DE VEHICULOS	126	Ribes Gutiérrez, Victoria	X	7
+MECANIZADO Y SOLDADURA	1º FB MANTENIMIENTO DE VEHICULOS	139	López Peñaloza, Ignacio	X	3
+MECANIZADO Y SOLDADURA	1º FB MANTENIMIENTO DE VEHICULOS	139	López Peñaloza, Ignacio	X	2
+MECANIZADO Y SOLDADURA	1º FB MANTENIMIENTO DE VEHICULOS	139	López Peñaloza, Ignacio	M	2
+MECANIZADO Y SOLDADURA	1º FB MANTENIMIENTO DE VEHICULOS	139	López Peñaloza, Ignacio	M	1
+MECANIZADO Y SOLDADURA	1º FB MANTENIMIENTO DE VEHICULOS	139	López Peñaloza, Ignacio	L	7
+PREPARACION DE SUPERFICIE	1º FB MANTENIMIENTO DE VEHICULOS	139	Langa González, Julián	J	1
+PREPARACION DE SUPERFICIE	1º FB MANTENIMIENTO DE VEHICULOS	139	Langa González, Julián	J	2
+PREPARACION DE SUPERFICIE	1º FB MANTENIMIENTO DE VEHICULOS	139	Langa González, Julián	J	3
+PREPARACION DE SUPERFICIE	1º FB MANTENIMIENTO DE VEHICULOS	139	Langa González, Julián	V	1
+PREPARACION DE SUPERFICIE	1º FB MANTENIMIENTO DE VEHICULOS	139	Langa González, Julián	V	2
+TUT	1º FB MANTENIMIENTO DE VEHICULOS	139	García Tejero, Javier	X	1
+PCT	1º FB ELECTRICIDAD ELECTRÓNICA		Cubero Madroñal, Emilia	X	6
+AMB SOCIO LINGUISTICO	1º FB ELECTRICIDAD ELECTRÓNICA	125B	López García, José Luis	X	6
+PCT	1º FB ELECTRICIDAD ELECTRÓNICA		Cubero Madroñal, Emilia	X	7
+AMB SOCIO LINGUISTICO	1º FB ELECTRICIDAD ELECTRÓNICA	125B	López García, José Luis	X	7
+PCT	1º FB ELECTRICIDAD ELECTRÓNICA		Amores Oviedo, Asunción	M	6
+AC	1º FB ELECTRICIDAD ELECTRÓNICA	125B	Pezzotti, María Rosa	M	6
+PCT	1º FB ELECTRICIDAD ELECTRÓNICA		Amores Oviedo, Asunción	M	7
+AC	1º FB ELECTRICIDAD ELECTRÓNICA	125B	Pezzotti, María Rosa	M	7
+APOYO	1º FB ELECTRICIDAD ELECTRÓNICA		Pacheco Cano, Encarnación	M	3
+APOYO	1º FB ELECTRICIDAD ELECTRÓNICA		 Sin profesor	M	3
+AMB SOCIO LINGUISTICO	1º FB ELECTRICIDAD ELECTRÓNICA	125B	López García, José Luis	M	3
+APOYO	1º FB ELECTRICIDAD ELECTRÓNICA		Reina Giráldez, Olga	L	1
+AMB SOCIO LINGUISTICO	1º FB ELECTRICIDAD ELECTRÓNICA	125B	López García, José Luis	L	1
+APOYO	1º FB ELECTRICIDAD ELECTRÓNICA		Reina Giráldez, Olga	L	2
+AMB SOCIO LINGUISTICO	1º FB ELECTRICIDAD ELECTRÓNICA	125B	López García, José Luis	L	2
+APOYO	1º FB ELECTRICIDAD ELECTRÓNICA		Ponce Garzón, Rafael	M	5
+AMB SOCIO LINGUISTICO	1º FB ELECTRICIDAD ELECTRÓNICA	125B	López García, José Luis	M	5
+APOYO	1º FB ELECTRICIDAD ELECTRÓNICA		Ortega Romero, Carmen	L	6
+AC	1º FB ELECTRICIDAD ELECTRÓNICA	125B	Pezzotti, María Rosa	L	6
+APOYO	1º FB ELECTRICIDAD ELECTRÓNICA		Ortega Romero, Carmen	L	5
+AC	1º FB ELECTRICIDAD ELECTRÓNICA	125B	Pezzotti, María Rosa	L	5
+EQUIPO ELECTRICO Y ELECTRONICO	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Casado Jiménez, Rocío	J	1
+EQUIPO ELECTRICO Y ELECTRONICO	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Casado Jiménez, Rocío	J	2
+EQUIPO ELECTRICO Y ELECTRONICO	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Casado Jiménez, Rocío	J	3
+EQUIPO ELECTRICO Y ELECTRONICO	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Casado Jiménez, Rocío	V	1
+EQUIPO ELECTRICO Y ELECTRONICO	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Casado Jiménez, Rocío	V	2
+EQUIPO ELECTRICO Y ELECTRONICO	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Casado Jiménez, Rocío	V	3
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	X	3
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	X	5
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	X	1
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	X	2
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	J	5
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	J	6
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	J	7
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	V	5
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	V	6
+INSTALACIONES EECTRICAS Y DOMOTICA	1º FB ELECTRICIDAD ELECTRÓNICA	AT6-1	Polania García, Paloma	V	7
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º FB ELECTRICIDAD ELECTRÓNICA	126	Guillén López, María Jesús	M	1
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º FB ELECTRICIDAD ELECTRÓNICA	126	Guillén López, María Jesús	M	2
+ITINERARIO PERSONAL PARA LA EMPLEAB	1º FB ELECTRICIDAD ELECTRÓNICA	126	Guillén López, María Jesús	L	7
+TUT	1º FB ELECTRICIDAD ELECTRÓNICA	125B	Polania García, Paloma	L	3
+APOYO PT	2º FP MANTENIMIENTO VEHÍCULOS		Martín Bizcocho, Rocío	M	6
+APOYO PT	2º FB ELECTRICIDAD ELECTRÓNICA dual		Martín Bizcocho, Rocío	M	6
+APOYO PT	2º No Dual CFGBa		Martín Bizcocho, Rocío	M	6
+APOYO PT	2º No Dual CFGBe		Martín Bizcocho, Rocío	M	6
+APOYO	2º FP MANTENIMIENTO VEHÍCULOS		Laguna Luque, María Luisa	M	6
+APOYO	2º FB ELECTRICIDAD ELECTRÓNICA dual		Laguna Luque, María Luisa	M	6
+APOYO	2º No Dual CFGBa		Laguna Luque, María Luisa	M	6
+APOYO	2º No Dual CFGBe		Laguna Luque, María Luisa	M	6
+AMBITO CIENTIFICO	2º FP MANTENIMIENTO VEHÍCULOS	204	Reina García, Inés	M	6
+AMBITO CIENTIFICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	Reina García, Inés	M	6
+AMBITO CIENTIFICO	2º No Dual CFGBa	204	Reina García, Inés	M	6
+AMBITO CIENTIFICO	2º No Dual CFGBe	204	Reina García, Inés	M	6
+APOYO PT	2º FP MANTENIMIENTO VEHÍCULOS		Martín Bizcocho, Rocío	M	3
+APOYO PT	2º FB ELECTRICIDAD ELECTRÓNICA dual		Martín Bizcocho, Rocío	M	3
+APOYO PT	2º No Dual CFGBa		Martín Bizcocho, Rocío	M	3
+APOYO PT	2º No Dual CFGBe		Martín Bizcocho, Rocío	M	3
+PCT	2º FP MANTENIMIENTO VEHÍCULOS		Cubero Madroñal, Emilia	M	3
+PCT	2º FB ELECTRICIDAD ELECTRÓNICA dual		Cubero Madroñal, Emilia	M	3
+PCT	2º No Dual CFGBa		Cubero Madroñal, Emilia	M	3
+PCT	2º No Dual CFGBe		Cubero Madroñal, Emilia	M	3
+AMBITO SOCIOLINGUISTICO	2º FP MANTENIMIENTO VEHÍCULOS	204	García Fernandez, María Jesús	M	3
+AMBITO SOCIOLINGUISTICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	García Fernandez, María Jesús	M	3
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBa	204	García Fernandez, María Jesús	M	3
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBe	204	García Fernandez, María Jesús	M	3
+APOYO PT	2º FP MANTENIMIENTO VEHÍCULOS		Martín Bizcocho, Rocío	X	5
+APOYO PT	2º FB ELECTRICIDAD ELECTRÓNICA dual		Martín Bizcocho, Rocío	X	5
+APOYO PT	2º No Dual CFGBa		Martín Bizcocho, Rocío	X	5
+APOYO PT	2º No Dual CFGBe		Martín Bizcocho, Rocío	X	5
+APOYO ASL	2º FP MANTENIMIENTO VEHÍCULOS		García Piña, Ismael	X	5
+APOYO ASL	2º FB ELECTRICIDAD ELECTRÓNICA dual		García Piña, Ismael	X	5
+APOYO ASL	2º No Dual CFGBa		García Piña, Ismael	X	5
+APOYO ASL	2º No Dual CFGBe		García Piña, Ismael	X	5
+AMBITO SOCIOLINGUISTICO	2º FP MANTENIMIENTO VEHÍCULOS	204	García Fernandez, María Jesús	X	5
+AMBITO SOCIOLINGUISTICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	García Fernandez, María Jesús	X	5
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBa	204	García Fernandez, María Jesús	X	5
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBe	204	García Fernandez, María Jesús	X	5
+PCT	2º FP MANTENIMIENTO VEHÍCULOS		Cubero Madroñal, Emilia	M	5
+PCT	2º FB ELECTRICIDAD ELECTRÓNICA dual		Cubero Madroñal, Emilia	M	5
+PCT	2º No Dual CFGBa		Cubero Madroñal, Emilia	M	5
+PCT	2º No Dual CFGBe		Cubero Madroñal, Emilia	M	5
+AMBITO SOCIOLINGUISTICO	2º FP MANTENIMIENTO VEHÍCULOS	204	García Fernandez, María Jesús	M	5
+AMBITO SOCIOLINGUISTICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	García Fernandez, María Jesús	M	5
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBa	204	García Fernandez, María Jesús	M	5
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBe	204	García Fernandez, María Jesús	M	5
+PCT	2º FP MANTENIMIENTO VEHÍCULOS		Peña Varela, Cristina	X	3
+PCT	2º FB ELECTRICIDAD ELECTRÓNICA dual		Peña Varela, Cristina	X	3
+PCT	2º No Dual CFGBa		Peña Varela, Cristina	X	3
+PCT	2º No Dual CFGBe		Peña Varela, Cristina	X	3
+AMBITO CIENTIFICO	2º FP MANTENIMIENTO VEHÍCULOS	204	Reina García, Inés	X	3
+AMBITO CIENTIFICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	Reina García, Inés	X	3
+AMBITO CIENTIFICO	2º No Dual CFGBa	204	Reina García, Inés	X	3
+AMBITO CIENTIFICO	2º No Dual CFGBe	204	Reina García, Inés	X	3
+PCT	2º FP MANTENIMIENTO VEHÍCULOS		Peña Varela, Cristina	L	5
+PCT	2º FB ELECTRICIDAD ELECTRÓNICA dual		Peña Varela, Cristina	L	5
+PCT	2º No Dual CFGBa		Peña Varela, Cristina	L	5
+PCT	2º No Dual CFGBe		Peña Varela, Cristina	L	5
+AMBITO CIENTIFICO	2º FP MANTENIMIENTO VEHÍCULOS	204	Reina García, Inés	L	5
+AMBITO CIENTIFICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	Reina García, Inés	L	5
+AMBITO CIENTIFICO	2º No Dual CFGBa	204	Reina García, Inés	L	5
+AMBITO CIENTIFICO	2º No Dual CFGBe	204	Reina García, Inés	L	5
+APOYO	2º FP MANTENIMIENTO VEHÍCULOS		Laguna Luque, María Luisa	M	7
+APOYO	2º FB ELECTRICIDAD ELECTRÓNICA dual		Laguna Luque, María Luisa	M	7
+APOYO	2º No Dual CFGBa		Laguna Luque, María Luisa	M	7
+APOYO	2º No Dual CFGBe		Laguna Luque, María Luisa	M	7
+AMBITO CIENTIFICO	2º FP MANTENIMIENTO VEHÍCULOS	204	Reina García, Inés	M	7
+AMBITO CIENTIFICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	Reina García, Inés	M	7
+AMBITO CIENTIFICO	2º No Dual CFGBa	204	Reina García, Inés	M	7
+AMBITO CIENTIFICO	2º No Dual CFGBe	204	Reina García, Inés	M	7
+APOYO ASL	2º FP MANTENIMIENTO VEHÍCULOS		García Piña, Ismael	X	6
+APOYO ASL	2º FB ELECTRICIDAD ELECTRÓNICA dual		García Piña, Ismael	X	6
+APOYO ASL	2º No Dual CFGBa		García Piña, Ismael	X	6
+APOYO ASL	2º No Dual CFGBe		García Piña, Ismael	X	6
+AMBITO SOCIOLINGUISTICO	2º FP MANTENIMIENTO VEHÍCULOS	204	García Fernandez, María Jesús	X	6
+AMBITO SOCIOLINGUISTICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	García Fernandez, María Jesús	X	6
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBa	204	García Fernandez, María Jesús	X	6
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBe	204	García Fernandez, María Jesús	X	6
+APOYO ASL	2º FP MANTENIMIENTO VEHÍCULOS		García Piña, Ismael	L	3
+APOYO ASL	2º FB ELECTRICIDAD ELECTRÓNICA dual		García Piña, Ismael	L	3
+APOYO ASL	2º No Dual CFGBa		García Piña, Ismael	L	3
+APOYO ASL	2º No Dual CFGBe		García Piña, Ismael	L	3
+AMBITO SOCIOLINGUISTICO	2º FP MANTENIMIENTO VEHÍCULOS	204	García Fernandez, María Jesús	L	3
+AMBITO SOCIOLINGUISTICO	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	García Fernandez, María Jesús	L	3
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBa	204	García Fernandez, María Jesús	L	3
+AMBITO SOCIOLINGUISTICO	2º No Dual CFGBe	204	García Fernandez, María Jesús	L	3
+PROYECTO INTERMODULAR	2º FP MANTENIMIENTO VEHÍCULOS	204	Langa González, Julián	L	1
+PROYECTO INTERMODULAR	2º No Dual CFGBa	204	Langa González, Julián	L	1
+PROYECTO INTERMODULAR	2º FP MANTENIMIENTO VEHÍCULOS	204	Langa González, Julián	L	2
+PROYECTO INTERMODULAR	2º No Dual CFGBa	204	Langa González, Julián	L	2
+ELECTRICIDAD DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	López Alcántara, Luis	V	5
+ELECTRICIDAD DEL VEHICULO	2º Dual CFGBa	204	López Alcántara, Luis	V	5
+ELECTRICIDAD DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	López Alcántara, Luis	V	6
+ELECTRICIDAD DEL VEHICULO	2º Dual CFGBa	204	López Alcántara, Luis	V	6
+ELECTRICIDAD DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	López Alcántara, Luis	V	7
+ELECTRICIDAD DEL VEHICULO	2º Dual CFGBa	204	López Alcántara, Luis	V	7
+ELECTRICIDAD DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	López Alcántara, Luis	J	1
+ELECTRICIDAD DEL VEHICULO	2º Dual CFGBa	204	López Alcántara, Luis	J	1
+ELECTRICIDAD DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	López Alcántara, Luis	J	2
+ELECTRICIDAD DEL VEHICULO	2º Dual CFGBa	204	López Alcántara, Luis	J	2
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	J	5
+MECANICA DEL VEHICULO	2º Dual CFGBa	204	Cruz Toribio, Jesús	J	5
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	J	6
+MECANICA DEL VEHICULO	2º Dual CFGBa	204	Cruz Toribio, Jesús	J	6
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	J	7
+MECANICA DEL VEHICULO	2º Dual CFGBa	204	Cruz Toribio, Jesús	J	7
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	J	3
+MECANICA DEL VEHICULO	2º Dual CFGBa	204	Cruz Toribio, Jesús	J	3
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	V	1
+MECANICA DEL VEHICULO	2º Dual CFGBa	204	Cruz Toribio, Jesús	V	1
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	V	2
+MECANICA DEL VEHICULO	2º Dual CFGBa	204	Cruz Toribio, Jesús	V	2
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	V	3
+MECANICA DEL VEHICULO	2º Dual CFGBa	204	Cruz Toribio, Jesús	V	3
+PROYECTO INTERMODULAR	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Rico Ginel, Sergio Luis	L	1
+PROYECTO INTERMODULAR	2º No Dual CFGBe	AT3-1	Rico Ginel, Sergio Luis	L	1
+PROYECTO INTERMODULAR	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Rico Ginel, Sergio Luis	L	2
+PROYECTO INTERMODULAR	2º No Dual CFGBe	AT3-1	Rico Ginel, Sergio Luis	L	2
+INSTALACIONES Y MANTENIMIENTO REDES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Lomas Ruiz, Amador	J	3
+INSTALACIONES Y MANTENIMIENTO REDES	2º Dual CFGBe	AT3-1	Lomas Ruiz, Amador	J	3
+INSTALACIONES Y MANTENIMIENTO REDES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Lomas Ruiz, Amador	J	5
+INSTALACIONES Y MANTENIMIENTO REDES	2º Dual CFGBe	AT3-1	Lomas Ruiz, Amador	J	5
+INSTALACIONES Y MANTENIMIENTO REDES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Lomas Ruiz, Amador	J	6
+INSTALACIONES Y MANTENIMIENTO REDES	2º Dual CFGBe	AT3-1	Lomas Ruiz, Amador	J	6
+INSTALACIONES Y MANTENIMIENTO REDES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Lomas Ruiz, Amador	J	7
+INSTALACIONES Y MANTENIMIENTO REDES	2º Dual CFGBe	AT3-1	Lomas Ruiz, Amador	J	7
+INSTALACIONES Y MANTENIMIENTO REDES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Lomas Ruiz, Amador	V	3
+INSTALACIONES Y MANTENIMIENTO REDES	2º Dual CFGBe	AT3-1	Lomas Ruiz, Amador	V	3
+INSTALACIONES Y MANTENIMIENTO REDES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Lomas Ruiz, Amador	V	5
+INSTALACIONES Y MANTENIMIENTO REDES	2º Dual CFGBe	AT3-1	Lomas Ruiz, Amador	V	5
+INSTALACIONES Y MANTENIMIENTO REDES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Lomas Ruiz, Amador	V	6
+INSTALACIONES Y MANTENIMIENTO REDES	2º Dual CFGBe	AT3-1	Lomas Ruiz, Amador	V	6
+INSTALACIONES Y MANTENIMIENTO REDES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Lomas Ruiz, Amador	V	7
+INSTALACIONES Y MANTENIMIENTO REDES	2º Dual CFGBe	AT3-1	Lomas Ruiz, Amador	V	7
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Polania García, Paloma	M	2
+INSTALACIONES DE COMUICACIONES	2º No Dual CFGBe	AT3-1	Polania García, Paloma	M	2
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Polania García, Paloma	M	1
+INSTALACIONES DE COMUICACIONES	2º No Dual CFGBe	AT3-1	Polania García, Paloma	M	1
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Polania García, Paloma	J	1
+INSTALACIONES DE COMUICACIONES	2º Dual CFGBe	AT3-1	Polania García, Paloma	J	1
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Polania García, Paloma	J	2
+INSTALACIONES DE COMUICACIONES	2º Dual CFGBe	AT3-1	Polania García, Paloma	J	2
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Polania García, Paloma	V	1
+INSTALACIONES DE COMUICACIONES	2º Dual CFGBe	AT3-1	Polania García, Paloma	V	1
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Polania García, Paloma	V	2
+INSTALACIONES DE COMUICACIONES	2º Dual CFGBe	AT3-1	Polania García, Paloma	V	2
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Rico Ginel, Sergio Luis	L	7
+INSTALACIONES DE COMUICACIONES	2º No Dual CFGBe	AT3-1	Rico Ginel, Sergio Luis	L	7
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Rico Ginel, Sergio Luis	L	6
+INSTALACIONES DE COMUICACIONES	2º No Dual CFGBe	AT3-1	Rico Ginel, Sergio Luis	L	6
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Rico Ginel, Sergio Luis	X	1
+INSTALACIONES DE COMUICACIONES	2º No Dual CFGBe	AT3-1	Rico Ginel, Sergio Luis	X	1
+INSTALACIONES DE COMUICACIONES	2º FB ELECTRICIDAD ELECTRÓNICA dual	AT3-1	Rico Ginel, Sergio Luis	X	2
+INSTALACIONES DE COMUICACIONES	2º No Dual CFGBe	AT3-1	Rico Ginel, Sergio Luis	X	2
+TUTURÍA	2º FB ELECTRICIDAD ELECTRÓNICA dual	204	García Fernandez, María Jesús	X	7
+TUTURÍA	2º FP MANTENIMIENTO VEHÍCULOS	204	García Fernandez, María Jesús	X	7
+TUTURÍA	2º No Dual CFGBa	204	García Fernandez, María Jesús	X	7
+TUTURÍA	2º No Dual CFGBe	204	García Fernandez, María Jesús	X	7
+ELECTRICIDAD DEL VEHICULO	2º No Dual CFGBa	204	López Alcántara, Luis	M	1
+ELECTRICIDAD DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	López Alcántara, Luis	M	1
+ELECTRICIDAD DEL VEHICULO	2º No Dual CFGBa	204	López Alcántara, Luis	M	2
+ELECTRICIDAD DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	López Alcántara, Luis	M	2
+MECANICA DEL VEHICULO	2º No Dual CFGBa	204	Cruz Toribio, Jesús	L	7
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	L	7
+MECANICA DEL VEHICULO	2º No Dual CFGBa	204	Cruz Toribio, Jesús	L	6
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	L	6
+MECANICA DEL VEHICULO	2º No Dual CFGBa	204	Cruz Toribio, Jesús	X	2
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	X	2
+MECANICA DEL VEHICULO	2º No Dual CFGBa	204	Cruz Toribio, Jesús	X	1
+MECANICA DEL VEHICULO	2º FP MANTENIMIENTO VEHÍCULOS	204	Cruz Toribio, Jesús	X	1
+AAR	1FBO	225	Cotta Marvizón, Mercedes	J	6
+AAR	1FBO	225	Cotta Marvizón, Mercedes	J	5
+AAR	1FBO	225	Brincau Chamorro, Jessica	L	5
+AAR	1FBO	225	Brincau Chamorro, Jessica	L	6
+AAR	1FBO	225	Brincau Chamorro, Jessica	X	6
+AAR	1FBO	225	Brincau Chamorro, Jessica	X	7
+AAR	1FBO	225	Brincau Chamorro, Jessica	J	7
+AAR	1FBO	225	Brincau Chamorro, Jessica	X	5
+ACT	1FBO	225	Cotta Marvizón, Mercedes	V	5
+ACT	1FBO	225	Cotta Marvizón, Mercedes	J	2
+ACT	1FBO	225	Brincau Chamorro, Jessica	X	2
+ACT	1FBO	225	Brincau Chamorro, Jessica	X	3
+ACT	1FBO	225	Brincau Chamorro, Jessica	M	6
+ACT	1FBO	225	Brincau Chamorro, Jessica	M	7
+ACT	1FBO	225	Brincau Chamorro, Jessica	V	6
+ACT	1FBO	225	Brincau Chamorro, Jessica	V	7
+ASL	1FBO	225	Cotta Marvizón, Mercedes	M	2
+ASL	1FBO	225	Cotta Marvizón, Mercedes	J	3
+ASL	1FBO	225	Brincau Chamorro, Jessica	V	2
+ASL	1FBO	225	Brincau Chamorro, Jessica	V	3
+ASL	1FBO	225	Brincau Chamorro, Jessica	L	2
+ASL	1FBO	225	Brincau Chamorro, Jessica	L	3
+ASL	1FBO	225	Brincau Chamorro, Jessica	M	3
+ASL	1FBO	225	Brincau Chamorro, Jessica	M	5
+Tutoría	1FBO	225	Brincau Chamorro, Jessica	L	7
+AMBITO SOCIOLINGUISTICO	2º EDUCACIÓN SECUNDARIA ADULTOS	126	Ponce Garzón, Rafael	L	9
+AMBITO SOCIOLINGUISTICO	2º EDUCACIÓN SECUNDARIA ADULTOS	126	Ponce Garzón, Rafael	L	10
+AMBITO CIENTIFICO TECNOLOGICO	2º EDUCACIÓN SECUNDARIA ADULTOS	126	Ortega Romero, Carmen	M	9
+AMBITO CIENTIFICO TECNOLOGICO	2º EDUCACIÓN SECUNDARIA ADULTOS	126	Ortega Romero, Carmen	M	10
+AMBITO CIENTIFICO TECNOLOGICO	2º EDUCACIÓN SECUNDARIA ADULTOS	126	Ortega Romero, Carmen	M	12
+AMBITO COMUNICACION	2º EDUCACIÓN SECUNDARIA ADULTOS	126	Yáñez Fernandez, Rosa	X	9
+AMBITO COMUNICACION	2º EDUCACIÓN SECUNDARIA ADULTOS	126	Yáñez Fernandez, Rosa	X	10
+AMBITO COMUNICACION	2º EDUCACIÓN SECUNDARIA ADULTOS	126	Yáñez Fernandez, Rosa	X	12
+Guardia Biblioteca Recreo	BIBLIOTECA RECREO		Ribes Gutiérrez, Victoria	V	4
+Guardia Biblioteca Recreo	BIBLIOTECA RECREO		Ramos Calderón, Antonio	L	4
+Guardia Biblioteca Recreo	BIBLIOTECA RECREO		Ramos Calderón, Antonio	X	4
+Guardia Biblioteca Recreo	BIBLIOTECA RECREO		Cubero Madroñal, Emilia	J	4
+Guardia Biblioteca Recreo	BIBLIOTECA RECREO		Cubero Madroñal, Emilia	M	4
+Atención Aula Convivencia	CONVIVENCIA		Gavira Maestre, Clara	L	2
+Atención Aula Convivencia	CONVIVENCIA		Vilches Navarrete, José Manuel	X	3
+Atención Aula Convivencia	CONVIVENCIA		Vilches Navarrete, José Manuel	J	3
+Atención Aula Convivencia	CONVIVENCIA		Vilches Navarrete, José Manuel	L	5
+Atención Aula Convivencia	CONVIVENCIA		Reina Giráldez, Olga	V	3
+Atención Aula Convivencia	CONVIVENCIA		López García, José Luis	J	2
+Atención Aula Convivencia	CONVIVENCIA		López Alcántara, Luis	M	3
+Atención Aula Convivencia	CONVIVENCIA		González Macías, Rocío	X	5
+Atención Aula Convivencia	CONVIVENCIA		Pérez Del Río, Mercedes	X	2
+Atención Aula Convivencia	CONVIVENCIA		Pérez Del Río, Mercedes	V	5
+Atención Aula Convivencia	CONVIVENCIA		Pérez Del Río, Mercedes	J	5
+Atención Aula Convivencia	CONVIVENCIA		Moro Álvarez, Maribel	M	5
+Atención Aula Convivencia	CONVIVENCIA		López García, José Luis	V	2
+Atención Aula Convivencia	CONVIVENCIA		Benítez Ramos, Eduardo	L	3
+Atención Aula Convivencia	CONVIVENCIA		Benítez Ramos, Eduardo	M	2
+Guardia Alegria	GUARDIA A		Caballero de León Morales, María	L	2
+Guardia Alegria	GUARDIA A		Fernandez García, María Francisca	J	5
+Guardia Alegria	GUARDIA A		Laguna Luque, María Luisa	V	5
+Guardia Alegria	GUARDIA A		García Piña, Ismael	M	1
+Guardia Alegria	GUARDIA A		Capote Gordillo, Alicia	M	7
+Guardia Alegria	GUARDIA A		Pérez Ramírez, Ana Cristina	J	3
+Guardia Alegria	GUARDIA A		Pérez Ramírez, Ana Cristina	V	3
+Guardia Alegria	GUARDIA A		Iglésis Gallardo, Margari	V	7
+Guardia Alegria	GUARDIA A		Iglésis Gallardo, Margari	L	6
+Guardia Alegria	GUARDIA A		Pezzotti, María Rosa	V	6
+Guardia Alegria	GUARDIA A		Ortega Romero, Carmen	L	3
+Guardia Alegria	GUARDIA A		Ortega Romero, Carmen	V	3
+Guardia Alegria	GUARDIA A		Reina García, Inés	X	2
+Guardia Alegria	GUARDIA A		Reina García, Inés	M	2
+Guardia Alegria	GUARDIA A		Fernandez Calderón, Carlos	L	6
+Guardia Alegria	GUARDIA A		Montiel Montesinos, Juanfran	J	3
+Guardia Alegria	GUARDIA A		Macho Alcázar, Lorena	X	3
+Guardia Alegria	GUARDIA A		Rengel López, Julio	J	6
+Guardia Alegria	GUARDIA A		Rengel López, Julio	J	2
+Guardia Alegria	GUARDIA A		Rico Ginel, Sergio Luis	X	7
+Guardia Alegria	GUARDIA A		Suárez Fernandez-Miranda, Susana	M	7
+Guardia Alegria	GUARDIA A		Suárez Fernandez-Miranda, Susana	V	6
+Guardia Alegria	GUARDIA A		Estepa Pérez, Rafael	V	7
+Guardia Alegria	GUARDIA A		Medina Guerrero, Alfonso	L	3
+Guardia Alegria	GUARDIA A		Ortega Rodríguez, David	V	5
+Guardia Alegria	GUARDIA A		Peso González, Manuel	L	1
+Guardia Alegria	GUARDIA A		Peso González, Manuel	X	3
+Guardia Alegria	GUARDIA A		Crespo Arnold, Marcos	L	5
+Guardia Alegria	GUARDIA A		Prado Lobato, Miriam	M	6
+Guardia Alegria	GUARDIA A		Prado Lobato, Miriam	X	6
+Guardia Alegria	GUARDIA A		Ruiz Castro, Ana María	X	6
+Guardia Alegria	GUARDIA A		Baquero Guzmán, Inmaculada	M	2
+Guardia Alegria	GUARDIA A		Baquero Guzmán, Inmaculada	X	2
+Guardia Alegria	GUARDIA A		Gutiérrez De la Rosa, Tito	M	7
+Guardia Alegria	GUARDIA A		Ribes Gutiérrez, Victoria	M	2
+Guardia Alegria	GUARDIA A		Ribes Gutiérrez, Victoria	X	6
+Guardia Alegria	GUARDIA A		Rodríguez Pueyo, Lucía	L	5
+Guardia Alegria	GUARDIA A		Rodríguez Pueyo, Lucía	M	1
+Guardia Alegria	GUARDIA A		Ponce Garzón, Rafael	J	2
+Guardia Alegria	GUARDIA A		Ponce Garzón, Rafael	J	1
+Guardia Alegria	GUARDIA A		Bueno Guisado, Antonio	V	1
+Guardia Alegria	GUARDIA A		Bueno Guisado, Antonio	J	7
+Guardia Alegria	GUARDIA A		Jiménez Moreno, Míryam	L	7
+Guardia Alegria	GUARDIA A		Macho Alcázar, Lorena	J	7
+Guardia Alegria	GUARDIA A		Marchena Gómez, Almudena	J	6
+Guardia Alegria	GUARDIA A		Marchena Gómez, Almudena	M	5
+Guardia Alegria	GUARDIA A		Moreno Vicente, Francisco	V	2
+Guardia Alegria	GUARDIA A		Moreno Vicente, Francisco	X	5
+Guardia Alegria	GUARDIA A		Morilla Romero de la Osa, Rafael	J	6
+Guardia Alegria	GUARDIA A		Olmedo Rivera, José Antonio	L	7
+Guardia Alegria	GUARDIA A		Ortega Florido, Juan Antonio	M	5
+Guardia Alegria	GUARDIA A		Ortega Florido, Juan Antonio	L	5
+Guardia Alegria	GUARDIA A		González Sayago, José Antonio	V	7
+Guardia Alegria	GUARDIA A		Villa Doblas, María	J	5
+Guardia Alegria	GUARDIA A		Santos Ríos, Carmen	V	3
+Guardia Alegria	GUARDIA A		Santos Ríos, Carmen	V	1
+Guardia Alegria	GUARDIA A		Villegas Muñoz, Rosalía	X	1
+Guardia Alegria	GUARDIA A		Villegas Muñoz, Rosalía	L	3
+Guardia Alegria	GUARDIA A		Cubero Madroñal, Emilia	L	2
+Guardia Alegria	GUARDIA A		Amores Oviedo, Asunción	M	5
+Guardia Alegria	GUARDIA A		Amores Oviedo, Asunción	L	2
+Guardia Alegria	GUARDIA A		Peña Varela, Cristina	V	1
+Guardia Alegria	GUARDIA A		Peña Varela, Cristina	M	1
+Guardia Alegria	GUARDIA A		Ramos Gallego, Ana	X	5
+Guardia Alegria	GUARDIA A		Ramos Gallego, Ana	J	5
+Guardia Alegria	GUARDIA A		Sánchez Romero, Carmen	X	7
+Guardia Alegria	GUARDIA A		Martín Bizcocho, Rocío	V	6
+Guardia Alegria	GUARDIA A		Pacheco Cano, Encarnación	L	7
+Guardia Alegria	GUARDIA A		Fernandez Moreno, Raquel	J	7
+Guardia Alegria	GUARDIA A		Fernandez Moreno, Raquel	V	2
+Guardia Alegria	GUARDIA A		García Bonilla, María José	X	5
+Guardia Alegria	GUARDIA A		Iglesias López, Rocío	J	2
+Guardia Alegria	GUARDIA A		León Bernia, Ana de	J	1
+Guardia Alegria	GUARDIA A		García Sarmiento, María	M	6
+Guardia Alegria	GUARDIA A		García Sarmiento, María	V	2
+Guardia Alegria	GUARDIA A		Prados Moreno, Charo	X	2
+Guardia Alegria	GUARDIA A		Márquez Villar, Francisco Javier	V	5
+Guardia Alegria	GUARDIA A		Cantillana Cortés, Pedro	L	1
+Guardia Alegria	GUARDIA A		Cruz Toribio, Jesús	J	1
+Guardia Alegria	GUARDIA A		Díaz Reyes, Francisco José	J	3
+Guardia Alegria	GUARDIA A		Díaz Reyes, Manuel Ángel	M	3
+Guardia Alegria	GUARDIA A		García Tejero, Javier	M	3
+Guardia Alegria	GUARDIA A		Gómez Gallardo, Manuel	L	1
+Guardia Alegria	GUARDIA A		Gómez Gallardo, Manuel	X	1
+Guardia Alegria	GUARDIA A		González Martínez, José Manuel	X	7
+Guardia Alegria	GUARDIA A		Guerrero Mayo, Juanma	M	6
+Guardia Alegria	GUARDIA A		López Peñaloza, Ignacio	L	6
+Guardia Alegria	GUARDIA A		López Peñaloza, Ignacio	X	1
+Guardia Buleria	GUARDIA A		Laguna Luque, María Luisa	M	3
+Guardia Buleria	GUARDIA A		Rengel López, Julio	X	3
+Guardia Buleria	GUARDIA B		Ciero Polvillo, Conchi	J	2
+Guardia Buleria	GUARDIA B		Fernandez García, María Francisca	V	2
+Guardia Buleria	GUARDIA B		Gutiérrez Melgar, Débora	J	3
+Guardia Buleria	GUARDIA B		Laguna Luque, María Luisa	J	3
+Guardia Buleria	GUARDIA B		García Piña, Ismael	M	2
+Guardia Buleria	GUARDIA B		García Piña, Ismael	L	1
+Guardia Buleria	GUARDIA B		Capote Gordillo, Alicia	M	3
+Guardia Buleria	GUARDIA B		Capote Gordillo, Alicia	V	2
+Guardia Buleria	GUARDIA B		Pérez Ramírez, Ana Cristina	M	2
+Guardia Buleria	GUARDIA B		Pezzotti, María Rosa	X	1
+Guardia Buleria	GUARDIA B		Pezzotti, María Rosa	V	5
+Guardia Buleria	GUARDIA B		Ortega Romero, Carmen	X	3
+Guardia Buleria	GUARDIA B		Reina García, Inés	X	6
+Guardia Buleria	GUARDIA B		Reina García, Inés	X	7
+Guardia Buleria	GUARDIA B		Durán Correa, Fernando	V	1
+Guardia Buleria	GUARDIA B		Fernandez Calderón, Carlos	L	1
+Guardia Buleria	GUARDIA B		Campos Palma, Javier	J	3
+Guardia Buleria	GUARDIA B		León Funes, Carlos	J	7
+Guardia Buleria	GUARDIA B		Montiel Montesinos, Juanfran	X	1
+Guardia Buleria	GUARDIA B		Montiel Montesinos, Juanfran	J	2
+Guardia Buleria	GUARDIA B		Polania García, Paloma	L	2
+Guardia Buleria	GUARDIA B		Rengel López, Julio	J	1
+Guardia Buleria	GUARDIA B		Rico Ginel, Sergio Luis	X	6
+Guardia Buleria	GUARDIA B		Estepa Pérez, Rafael	J	7
+Guardia Buleria	GUARDIA B		Lomas Ruiz, Amador	L	5
+Guardia Buleria	GUARDIA B		Lomas Ruiz, Amador	X	2
+Guardia Buleria	GUARDIA B		Lomas Ruiz, Amador	J	1
+Guardia Buleria	GUARDIA B		Medina Guerrero, Alfonso	X	2
+Guardia Buleria	GUARDIA B		Medina Guerrero, Alfonso	J	1
+Guardia Buleria	GUARDIA B		Ortega Rodríguez, David	V	3
+Guardia Buleria	GUARDIA B		Peso González, Manuel	L	2
+Guardia Buleria	GUARDIA B		Crespo Arnold, Marcos	M	5
+Guardia Buleria	GUARDIA B		Prado Lobato, Miriam	L	3
+Guardia Buleria	GUARDIA B		Prado Lobato, Miriam	L	7
+Guardia Buleria	GUARDIA B		Ruiz Castro, Ana María	L	6
+Guardia Buleria	GUARDIA B		Ruiz Castro, Ana María	L	7
+Guardia Buleria	GUARDIA B		Baquero Guzmán, Inmaculada	V	7
+Guardia Buleria	GUARDIA B		Baquero Guzmán, Inmaculada	V	6
+Guardia Buleria	GUARDIA B		Ribes Gutiérrez, Victoria	L	3
+Guardia Buleria	GUARDIA B		Ponce Garzón, Rafael	V	2
+Guardia Buleria	GUARDIA B		Moro Álvarez, Maribel	X	5
+Guardia Buleria	GUARDIA B		Ponce Garzón, Rafael	V	3
+Guardia Buleria	GUARDIA B		García Piña, Ismael	J	6
+Guardia Buleria	GUARDIA B		Bueno Guisado, Antonio	X	7
+Guardia Buleria	GUARDIA B		Martín Bizcocho, Rocío	X	3
+Guardia Buleria	GUARDIA B		Ortega Florido, Juan Antonio	V	7
+Guardia Buleria	GUARDIA B		Marchena Gómez, Almudena	V	6
+Guardia Buleria	GUARDIA B		Moreno Vicente, Francisco	V	1
+Guardia Buleria	GUARDIA B		Morilla Romero de la Osa, Rafael	M	2
+Guardia Buleria	GUARDIA B		Macho Alcázar, Lorena	M	6
+Guardia Buleria	GUARDIA B		Ortega Florido, Juan Antonio	M	7
+Guardia Buleria	GUARDIA B		Villa Doblas, María	M	1
+Guardia Buleria	GUARDIA B		Durán Campos, María José	X	5
+Guardia Buleria	GUARDIA B		Santos Ríos, Carmen	M	6
+Guardia Buleria	GUARDIA B		Villegas Muñoz, Rosalía	J	5
+Guardia Buleria	GUARDIA B		Ramos Calderón, Antonio	J	7
+Guardia Buleria	GUARDIA B		Amores Oviedo, Asunción	M	3
+Guardia Buleria	GUARDIA B		Amores Oviedo, Asunción	V	5
+Guardia Buleria	GUARDIA B		Benítez Zamora, Belén	X	2
+Guardia Buleria	GUARDIA B		Peña Varela, Cristina	L	1
+Guardia Buleria	GUARDIA B		Peña Varela, Cristina	V	3
+Guardia Buleria	GUARDIA B		Ramos Gallego, Ana	L	5
+Guardia Buleria	GUARDIA B		Ramos Gallego, Ana	V	7
+Guardia Buleria	GUARDIA B		Sánchez Romero, Carmen	L	5
+Guardia Buleria	GUARDIA B		Sánchez Romero, Carmen	J	6
+Guardia Buleria	GUARDIA B		Brincau Chamorro, Jessica	J	6
+Guardia Buleria	GUARDIA B		Cotta Marvizón, Mercedes	V	6
+Guardia Buleria	GUARDIA B		Laguna Luque, María Luisa	X	7
+Guardia Buleria	GUARDIA B		Martín Bizcocho, Rocío	X	6
+Guardia Buleria	GUARDIA B		Pacheco Cano, Encarnación	V	5
+Guardia Buleria	GUARDIA B		Pacheco Cano, Encarnación	M	6
+Guardia Buleria	GUARDIA B		Gómez De los Santos, Rafael	X	5
+Guardia Buleria	GUARDIA B		León Bernia, Ana de	M	1
+Guardia Buleria	GUARDIA B		Fernandez Moreno, Raquel	V	1
+Guardia Buleria	GUARDIA B		Figueroa Abrio, Mercedes	M	5
+Guardia Buleria	GUARDIA B		García Bonilla, María José	X	3
+Guardia Buleria	GUARDIA B		Iglesias López, Rocío	M	5
+Guardia Buleria	GUARDIA B		Iglesias López, Rocío	J	5
+Guardia Buleria	GUARDIA B		Fuentes Monge, José	M	1
+Guardia Buleria	GUARDIA B		León Bernia, Ana de	J	5
+Guardia Buleria	GUARDIA B		García Sarmiento, María	L	7
+Guardia Buleria	GUARDIA B		Prados Moreno, Charo	X	1
+Guardia Buleria	GUARDIA B		Romero López, Evaristo	M	7
+Guardia Buleria	GUARDIA B		Márquez Villar, Francisco Javier	L	3
+Guardia Buleria	GUARDIA B		Márquez Villar, Francisco Javier	L	6
+Guardia Buleria	GUARDIA B		Cantillana Cortés, Pedro	L	6
+Guardia Buleria	GUARDIA B		Cruz Toribio, Jesús	J	2
+Guardia Buleria	GUARDIA B		Gómez Gallardo, Manuel	L	2
+Guardia Buleria	GUARDIA B		Gómez Gallardo, Manuel	M	3
+Guardia Buleria	GUARDIA B		Guerrero Mayo, Juanma	M	7
+Guardia Tarde	GUARDIA TARDE		Gutiérrez De la Rosa, Tito	X	12
+Guardia Tarde	GUARDIA TARDE		Gutiérrez De la Rosa, Tito	X	9
+Guardia Tarde	GUARDIA TARDE		Gutiérrez De la Rosa, Tito	L	12
+Guardia Tarde	GUARDIA TARDE		Jiménez Moreno, Míryam	L	10
+Guardia Tarde	GUARDIA TARDE		Jiménez Moreno, Míryam	V	9
+Guardia Tarde	GUARDIA TARDE		Olmedo Rivera, José Antonio	L	8
+Guardia Tarde	GUARDIA TARDE		Olmedo Rivera, José Antonio	L	9
+Guardia Tarde	GUARDIA TARDE		González Sayago, José Antonio	M	10
+Guardia Tarde	GUARDIA TARDE		González Sayago, José Antonio	V	8
+Guardia Tarde	GUARDIA TARDE		González Sayago, José Antonio	M	12
+Guardia Tarde	GUARDIA TARDE		Cabello García, Teresa	J	10
+Guardia Tarde	GUARDIA TARDE		Cabello García, Teresa	J	9
+Guardia Tarde	GUARDIA TARDE		Cabello García, Teresa	J	8
+Guardia Tarde	GUARDIA TARDE		García Bonilla, María José	V	10
+Guardia Tarde	GUARDIA TARDE		Romero López, Evaristo	M	9
+Guardia Tarde	GUARDIA TARDE		Romero López, Evaristo	M	8
+Guardia Tarde	GUARDIA TARDE		Galavis García, Antonio	V	12
+Guardia Tarde	GUARDIA TARDE		Galavis García, Antonio	X	10
+Guardia Tarde	GUARDIA TARDE		González Martínez, José Manuel	J	12
+Guardia Tarde	GUARDIA TARDE		González Martínez, José Manuel	X	8
+Guardia Recreo	GUARDIA RECREO		Ciero Polvillo, Conchi	M	4
+Guardia Recreo	GUARDIA RECREO		Ciero Polvillo, Conchi	X	4
+Guardia Recreo	GUARDIA RECREO		Capote Gordillo, Alicia	V	4
+Guardia Recreo	GUARDIA RECREO		Capote Gordillo, Alicia	X	4
+Guardia Recreo	GUARDIA RECREO		Iglésis Gallardo, Margari	L	4
+Guardia Recreo	GUARDIA RECREO		Iglésis Gallardo, Margari	J	4
+Guardia Recreo	GUARDIA RECREO		Campos Palma, Javier	L	4
+Guardia Recreo	GUARDIA RECREO		Campos Palma, Javier	M	4
+Guardia Recreo	GUARDIA RECREO		León Funes, Carlos	L	4
+Guardia Recreo	GUARDIA RECREO		León Funes, Carlos	J	4
+Guardia Recreo	GUARDIA RECREO		Rico Ginel, Sergio Luis	V	4
+Guardia Recreo	GUARDIA RECREO		Rico Ginel, Sergio Luis	L	4
+Guardia Recreo	GUARDIA RECREO		Ortega Rodríguez, David	X	4
+Guardia Recreo	GUARDIA RECREO		Ortega Rodríguez, David	M	4
+Guardia Recreo	GUARDIA RECREO		Ribes Gutiérrez, Victoria	J	4
+Guardia Recreo	GUARDIA RECREO		Ponce Garzón, Rafael	V	4
+Guardia Recreo	GUARDIA RECREO		Ponce Garzón, Rafael	X	4
+Guardia Recreo	GUARDIA RECREO		Morilla Romero de la Osa, Rafael	X	4
+Guardia Recreo	GUARDIA RECREO		Morilla Romero de la Osa, Rafael	J	4
+Guardia Recreo	GUARDIA RECREO		Santos Ríos, Carmen	X	4
+Guardia Recreo	GUARDIA RECREO		Santos Ríos, Carmen	L	4
+Guardia Recreo	GUARDIA RECREO		Cotta Marvizón, Mercedes	M	4
+Guardia Recreo	GUARDIA RECREO		Cruz Toribio, Jesús	V	4
+Guardia Recreo	GUARDIA RECREO		Cruz Toribio, Jesús	J	4
+Guardia Recreo	GUARDIA RECREO		Díaz Reyes, Francisco José	J	4
+Guardia Recreo	GUARDIA RECREO		Díaz Reyes, Francisco José	V	4
+Guardia Recreo	GUARDIA RECREO		Díaz Reyes, Manuel Ángel	M	4
+Guardia Recreo	GUARDIA RECREO		Díaz Reyes, Manuel Ángel	L	4
+Guardia Recreo	GUARDIA RECREO		García Tejero, Javier	V	4
+Guardia Recreo	GUARDIA RECREO		García Tejero, Javier	M	4
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Pérez Molina, Salud	X	3
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Pérez Molina, Salud	X	2
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Aguilar Gutiérrez, Jorge	J	3
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Aguilar Gutiérrez, Jorge	V	2
+Guardia Biblioteca	GUARDIA BIBLIOTECA		González Lora, Juan Carlos	L	1
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Coto Martínez, Araceli	M	3
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Coto Martínez, Araceli	J	6
+Guardia Biblioteca	GUARDIA BIBLIOTECA		González Arranz, Patricia	M	2
+Guardia Biblioteca	GUARDIA BIBLIOTECA		González Arranz, Patricia	V	5
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Bueno Guisado, Antonio	X	1
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Montero Navarro, Joaquínma	J	1
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Montero Navarro, Joaquínma	J	2
+Guardia Biblioteca	GUARDIA BIBLIOTECA		López Rodríguez, Amparo	L	3
+Guardia Biblioteca	GUARDIA BIBLIOTECA		López Rodríguez, Amparo	V	1
+Guardia Biblioteca	GUARDIA BIBLIOTECA		García Fernandez, María Jesús	L	6
+Guardia Biblioteca	GUARDIA BIBLIOTECA		García Fernandez, María Jesús	L	2
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Ignacio Martagón, Montserrat	V	6
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Ignacio Martagón, Montserrat	V	3
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Morillo López, Yolanda	M	6
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Ramos Calderón, Antonio	J	5
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Ramos Calderón, Antonio	M	5
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Cubero Madroñal, Emilia	L	5
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Cubero Madroñal, Emilia	X	5
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Rodríguez Muñoz, Rocío	M	1
+Guardia Biblioteca	GUARDIA BIBLIOTECA		Rodríguez Muñoz, Rocío	X	6
+Guardia Recreo PT	GUARDIA RECREO PT		Brincau Chamorro, Jessica	X	4
+Guardia Recreo PT	GUARDIA RECREO PT		Brincau Chamorro, Jessica	V	4
+Guardia Recreo PT	GUARDIA RECREO PT		Brincau Chamorro, Jessica	L	4
+Guardia Recreo PT	GUARDIA RECREO PT		Brincau Chamorro, Jessica	M	4
+Guardia Recreo PT	GUARDIA RECREO PT		Cotta Marvizón, Mercedes	J	4
+Atención Aula Oportunidad	Atención aula Oportunidad		Gutiérrez Melgar, Débora	J	5
+Atención Aula Oportunidad	Atención aula Oportunidad		Gutiérrez Melgar, Débora	L	7
+Atención Aula Oportunidad	Atención aula Oportunidad		Aguilar Gutiérrez, Jorge	X	7
+Atención Aula Oportunidad	Atención aula Oportunidad		Gavira Maestre, Clara	M	6
+Atención Aula Oportunidad	Atención aula Oportunidad		Reina Giráldez, Olga	X	5
+Atención Aula Oportunidad	Atención aula Oportunidad		Viruel Romero, Rosa	V	7
+Atención Aula Oportunidad	Atención aula Oportunidad		Benítez Ramos, Eduardo	L	5
+Atención Aula Oportunidad	Atención aula Oportunidad		Benítez Ramos, Eduardo	J	7
+Atención Aula Oportunidad	Atención aula Oportunidad		Díaz Torres, Gema	V	5
+Atención Aula Oportunidad	Atención aula Oportunidad		Real Jiménez, Marta	J	6
+Atención Aula Oportunidad	Atención aula Oportunidad		Real Jiménez, Marta	M	7
+Atención Aula Oportunidad	Atención aula Oportunidad		Real Jiménez, Marta	L	6
+Atención Aula Oportunidad	Atención aula Oportunidad		Casado Jiménez, Rocío	V	6
+Atención Aula Oportunidad	Atención aula Oportunidad		Casado Jiménez, Rocío	M	5
+Atención Aula Oportunidad	Atención aula Oportunidad		Casado Jiménez, Rocío	X	6
+Coordinación CEPER			Ponce Garzón, Rafael	V	6
+Coordinación CEPER			Ortega Romero, Carmen	V	6
+Coordinación CEPER			Yáñez Fernandez, Rosa	V	6
+Equipo Técnico de Coordinación Peda			Torres Gago, José María	L	6
+Equipo Técnico de Coordinación Peda			Vilches Navarrete, José Manuel	L	6
+Equipo Técnico de Coordinación Peda			Aguilar Gutiérrez, Jorge	L	6
+Equipo Técnico de Coordinación Peda			Pérez Molina, Salud	L	6
+Equipo Técnico de Coordinación Peda			López Rodríguez, Amparo	L	6
+Equipo Técnico de Coordinación Peda			Cordero Romero, Amelia	L	6
+Equipo Técnico de Coordinación Peda			González Lora, Juan Carlos	L	6
+Equipo Técnico de Coordinación Peda			Blázquez Pérez, Antonio	L	6
+Equipo Técnico de Coordinación Peda			Cano Ceballos, Desiré	L	6
+Equipo Técnico de Coordinación Peda			Pérez Del Río, Mercedes	L	6
+Equipo Técnico de Coordinación Peda			Alkhoury Navarro, Sahar	L	6
+Equipo Técnico de Coordinación Peda			Torres Gago, José María	L	7
+Equipo Técnico de Coordinación Peda			Vilches Navarrete, José Manuel	L	7
+Equipo Técnico de Coordinación Peda			Aguilar Gutiérrez, Jorge	L	7
+Equipo Técnico de Coordinación Peda			Pérez Molina, Salud	L	7
+Equipo Técnico de Coordinación Peda			López Rodríguez, Amparo	L	7
+Equipo Técnico de Coordinación Peda			Cordero Romero, Amelia	L	7
+Equipo Técnico de Coordinación Peda			González Lora, Juan Carlos	L	7
+Equipo Técnico de Coordinación Peda			Blázquez Pérez, Antonio	L	7
+Equipo Técnico de Coordinación Peda			Cano Ceballos, Desiré	L	7
+Equipo Técnico de Coordinación Peda			Alkhoury Navarro, Sahar	L	7
+Reunión Area Artística			Aguilar Gutiérrez, Jorge	X	2
+Reunión Area Artística			Fernandez Calderón, Carlos	X	2
+Reunión Área Cientefico-Tecnológica			Pérez Molina, Salud	M	2
+Reunión Área Cientefico-Tecnológica			Casado Jiménez, Rocío	M	2
+Reunión Área Cientefico-Tecnológica			Prado Lobato, Miriam	M	2
+Reunión Área Cientefico-Tecnológica			Ramos Gallego, Ana	M	2
+Reunión Área FP			González Lora, Juan Carlos	M	2
+Reunión Área FP			Rodríguez Muñoz, Rocío	M	2
+Reunión Área FP			Vilches Navarrete, José Manuel	M	2
+Reunión Área FP			Díaz Reyes, Francisco José	M	2
+Reunión Área FP			Gutiérrez Melgar, Débora	M	2
+Reunión Área FP			Coto Martínez, Araceli	M	2
+Reunión Área FP			García Villarán, Carlos	M	2
+Reunión Área FP			Cano Ceballos, Desiré	M	2
+Reunión Área Sociolingüistica			López García, José Luis	X	2
+Reunión Área Sociolingüistica			López Rodríguez, Amparo	X	2
+Reunión Área Sociolingüistica			Ignacio Martagón, Montserrat	X	2
+Reunión Área Sociolingüistica			Ponce Garzón, Rafael	X	2
+Reunión Coordinación Profesorado Di			López Rodríguez, Amparo	X	1
+Reunión Coordinación Profesorado Di			Pérez Molina, Salud	X	1
+Reunión Coordinación Profesorado Di			Santos Ríos, Carmen	X	1
+Reunión Coordinación Profesorado Di			Reina García, Inés	X	1
+Reunión Coordinación Profesorado Di			Cordero Romero, Amelia	X	1
+Reunión Coordinación Profesorado Di			Pérez Del Río, Mercedes	X	1
+REUNION TUTORES CFGB			García Villarán, Carlos	J	3
+REUNION TUTORES CFGB			Cordero Romero, Amelia	J	3
+REUNION TUTORES CFGB			Polania García, Paloma	J	3
+REUNION TUTORES CFGB			García Tejero, Javier	J	3
+REUNION TUTORES CFGB			García Fernandez, María Jesús	J	3
+Reunión Convivencia			Blázquez Pérez, Antonio	V	3
+Reunión Convivencia			Alkhoury Navarro, Sahar	V	3
+Reunión Convivencia			Langa González, Julián	V	3
+Reunión Convivencia			Cordero Romero, Amelia	V	3
+Reunión Convivencia			Guillén López, María Jesús	V	3
+Reunión Convivencia			Gavira Maestre, Clara	V	3
+Reunión Coordinación Proyectos			Torres Gago, José María	L	5
+Reunión Coordinación Proyectos			Ignacio Martagón, Montserrat	L	5
+Reunión Coordinación Proyectos			Guillén López, María Jesús	L	5
+Reunión Coordinación Proyectos			Morillo López, Yolanda	L	5
+Reunión Coordinación Proyectos			Cano Ceballos, Desiré	L	5
+Reunión Coordinación Proyectos			Viruel Romero, Rosa	L	5
+Reunión Coordinación Proyectos			Durán Campos, María José	L	5
+Reunión Coordinación Proyectos			Polania García, Paloma	L	5
+Reunión Coordinación Proyectos			Barón Abad, Jorge	L	5
+Reunión Coordinación Proyectos			Prados Moreno, Charo	L	5
+Reunión Departamento Artístico			Aguilar Gutiérrez, Jorge	X	3
+Reunión Departamento Artístico			González Macías, Rocío	X	3
+Reunión Departamento Automoción			Cantillana Cortés, Pedro	M	5
+Reunión Departamento Automoción			Cruz Toribio, Jesús	M	5
+Reunión Departamento Automoción			Díaz Reyes, Francisco José	M	5
+Reunión Departamento Automoción			Díaz Reyes, Manuel Ángel	M	5
+Reunión Departamento Automoción			Galavis García, Antonio	M	5
+Reunión Departamento Automoción			García Tejero, Javier	M	5
+Reunión Departamento Automoción			Gómez Gallardo, Manuel	M	5
+Reunión Departamento Automoción			González Martínez, José Manuel	M	5
+Reunión Departamento Automoción			Guerrero Mayo, Juanma	M	5
+Reunión Departamento Automoción			Langa González, Julián	M	5
+Reunión Departamento Automoción			López Alcántara, Luis	M	5
+Reunión Departamento Automoción			López Peñaloza, Ignacio	M	5
+Reunión Departamento Biología y Geo			Castaño Sánchez, María de los Ángel	J	6
+Reunión Departamento Biología y Geo			Pezzotti, María Rosa	J	6
+Reunión Departamento Biología y Geo			Ortega Romero, Carmen	J	6
+Reunión Departamento Biología y Geo			Reina García, Inés	J	6
+Reunión Departamento Biología y Geo			Laguna Luque, María Luisa	J	6
+Reunión Departamento Biología y Geo			Pérez Molina, Salud	J	6
+Reunión Departamento Educación Físi			Durán Correa, Fernando	X	3
+Reunión Departamento Educación Físi			Fernandez Calderón, Carlos	X	3
+Reunión Departamento Electricidad y			Campos Palma, Javier	X	10
+Reunión Departamento Electricidad y			León Funes, Carlos	X	10
+Reunión Departamento Electricidad y			Montiel Montesinos, Juanfran	X	10
+Reunión Departamento Electricidad y			Parias Ángel, Marta	X	10
+Reunión Departamento Electricidad y			Polania García, Paloma	X	10
+Reunión Departamento Electricidad y			Rengel López, Julio	X	10
+Reunión Departamento Electricidad y			Rico Ginel, Sergio Luis	X	10
+Reunión Departamento Electricidad y			Suárez Fernandez-Miranda, Susana	X	10
+Reunión Departamento Electricidad y			Estepa Pérez, Rafael	X	10
+Reunión Departamento Electricidad y			González Lora, Juan Carlos	X	10
+Reunión Departamento Electricidad y			Lomas Ruiz, Amador	X	10
+Reunión Departamento Electricidad y			Medina Guerrero, Alfonso	X	10
+Reunión Departamento Electricidad y			Ortega Rodríguez, David	X	10
+Reunión Departamento Electricidad y			Peso González, Manuel	X	10
+Reunión Departamento Formación y Or			Baquero Guzmán, Inmaculada	J	10
+Reunión Departamento Formación y Or			Coto Martínez, Araceli	J	10
+Reunión Departamento Formación y Or			Gómez Mayo, Juan Antonio	J	10
+Reunión Departamento Formación y Or			González Arranz, Patricia	J	10
+Reunión Departamento Formación y Or			Guillén López, María Jesús	J	10
+Reunión Departamento Formación y Or			Gutiérrez De la Rosa, Tito	J	10
+Reunión Departamento Formación y Or			Ribes Gutiérrez, Victoria	J	10
+Reunión Departamento Física y Quími			Prado Lobato, Miriam	X	3
+Reunión Departamento Física y Quími			Ruiz Castro, Ana María	X	3
+Reunión Departamento Geografía e Hi			Gavira Maestre, Clara	J	5
+Reunión Departamento Geografía e Hi			López García, José Luis	J	5
+Reunión Departamento Geografía e Hi			Ponce Garzón, Rafael	J	5
+Reunión Departamento Geografía e Hi			Torres Gago, José María	J	5
+Reunión Departamento Humanidades			Crespo Arnold, Marcos	V	5
+Reunión Departamento Humanidades			Moro Álvarez, Maribel	V	5
+Reunión Departamento Humanidades			García Fernandez, María Jesús	V	5
+Reunión Departamento Humanidades			Ignacio Martagón, Montserrat	V	5
+Reunión Departamento Humanidades			Morillo López, Yolanda	V	5
+Reunión Departamento Humanidades			Ramos Calderón, Antonio	V	5
+Reunión Departamento Humanidades			Cubero Madroñal, Emilia	V	5
+Reunión Departamento Humanidades			Yáñez Fernandez, Rosa	V	5
+Reunión Departamento Humanidades			Fuentes Monge, José	V	5
+Reunión Departamento Idiomas			Rodríguez Pueyo, Lucía	X	6
+Reunión Departamento Idiomas			Alkhoury Navarro, Sahar	X	6
+Reunión Departamento Idiomas			Durán Campos, María José	X	6
+Reunión Departamento Idiomas			López Rodríguez, Amparo	X	6
+Reunión Departamento Idiomas			Ciero Polvillo, Conchi	X	6
+Reunión Departamento Idiomas			Reina Giráldez, Olga	X	6
+Reunión Departamento Idiomas			Santos Ríos, Carmen	X	6
+Reunión Departamento Idiomas			Villegas Muñoz, Rosalía	X	6
+Reunión Departamento Informática y			Barón Abad, Jorge	M	8
+Reunión Departamento Informática y			Blázquez Pérez, Antonio	M	8
+Reunión Departamento Informática y			Bueno Guisado, Antonio	M	8
+Reunión Departamento Informática y			García Villarán, Carlos	M	8
+Reunión Departamento Informática y			Herrera Martín, Javier	M	8
+Reunión Departamento Informática y			Jiménez Moreno, Míryam	M	8
+Reunión Departamento Informática y			Macho Alcázar, Lorena	M	8
+Reunión Departamento Informática y			Marchena Gómez, Almudena	M	8
+Reunión Departamento Informática y			Montero Navarro, Joaquínma	M	8
+Reunión Departamento Informática y			Moreno Vicente, Francisco	M	8
+Reunión Departamento Informática y			Morilla Romero de la Osa, Rafael	M	8
+Reunión Departamento Informática y			Olmedo Rivera, José Antonio	M	8
+Reunión Departamento Informática y			Ortega Florido, Juan Antonio	M	8
+Reunión Departamento Informática y			González Sayago, José Antonio	M	8
+Reunión Departamento Informática y			Vilches Navarrete, José Manuel	M	8
+Reunión Departamento Informática y			Villa Doblas, María	M	8
+Reunión Departamento Matemáticas			Amores Oviedo, Asunción	J	3
+Reunión Departamento Matemáticas			Benítez Zamora, Belén	J	3
+Reunión Departamento Matemáticas			Peña Varela, Cristina	J	3
+Reunión Departamento Matemáticas			Ramos Gallego, Ana	J	3
+Reunión Departamento Matemáticas			Sánchez Romero, Carmen	J	3
+Reunión Departamento Matemáticas			Viruel Romero, Rosa	J	3
+Reunión Departamento Servicios Soci			Benítez Ramos, Eduardo	X	10
+Reunión Departamento Servicios Soci			Cabello García, Teresa	X	10
+Reunión Departamento Servicios Soci			Cano Ceballos, Desiré	X	10
+Reunión Departamento Servicios Soci			Díaz Torres, Gema	X	10
+Reunión Departamento Servicios Soci			Fernandez Moreno, Raquel	X	10
+Reunión Departamento Servicios Soci			Figueroa Abrio, Mercedes	X	10
+Reunión Departamento Servicios Soci			García Bonilla, María José	X	10
+Reunión Departamento Servicios Soci			Iglesias López, Rocío	X	10
+Reunión Departamento Servicios Soci			León Bernia, Ana de	X	10
+Reunión Departamento Servicios Soci			García Sarmiento, María	X	10
+Reunión Departamento Servicios Soci			Prados Moreno, Charo	X	10
+Reunión Departamento Servicios Soci			Real Jiménez, Marta	X	10
+Reunión Departamento Servicios Soci			Rodríguez Muñoz, Rocío	X	10
+Reunión Departamento Servicios Soci			Romero López, Evaristo	X	10
+Reunión Departamento Tecnología			Casado Jiménez, Rocío	J	5
+Reunión Departamento Tecnología			Márquez Villar, Francisco Javier	J	5
+Reunión Equipo Directivo			Blázquez Pérez, Antonio	J	5
+Reunión Equipo Directivo			Cano Ceballos, Desiré	J	5
+Reunión Equipo Directivo			Alkhoury Navarro, Sahar	J	5
+Reunión Equipo Directivo			García Villarán, Carlos	J	5
+Reunión Equipo Directivo			Castaño Sánchez, María de los Ángel	J	5
+Reunión Equipo Directivo			Langa González, Julián	J	5
+Reunión Equipo Directivo			Yáñez Fernandez, Rosa	J	5
+Reunión Equipo Directivo			Ramírez Serrano, Ana	J	5
+REUNION RADIO			González Arranz, Patricia	X	3
+REUNION RADIO			González Lora, Juan Carlos	X	3
+REUNION RADIO			González Arranz, Patricia	V	3
+REUNION RADIO			González Lora, Juan Carlos	V	3
+Reunión Turores 1º ESO			Alkhoury Navarro, Sahar	M	1
+Reunión Turores 1º ESO			Langa González, Julián	M	1
+Reunión Turores 1º ESO			Pérez Del Río, Mercedes	M	1
+Reunión Turores 1º ESO			González Macías, Rocío	M	1
+Reunión Turores 1º ESO			Pezzotti, María Rosa	M	1
+Reunión Turores 1º ESO			Gavira Maestre, Clara	M	1
+Reunión Turores 2º ESO			Alkhoury Navarro, Sahar	M	2
+Reunión Turores 2º ESO			Langa González, Julián	M	2
+Reunión Turores 2º ESO			Cordero Romero, Amelia	M	2
+Reunión Turores 2º ESO			Ruiz Castro, Ana María	M	2
+Reunión Turores 2º ESO			Durán Correa, Fernando	M	2
+Reunión Turores 2º ESO			Crespo Arnold, Marcos	M	2
+Reunión Turores 2º ESO			Gavira Maestre, Clara	M	2
+Reunión Turores 3º y 4º ESO			Cordero Romero, Amelia	X	3
+Reunión Turores 3º y 4º ESO			Castaño Sánchez, María de los Ángel	X	3
+Reunión Turores 3º y 4º ESO			Sánchez Romero, Carmen	X	3
+Reunión Turores 3º y 4º ESO			Durán Campos, María José	X	3
+Reunión Turores 3º y 4º ESO			López García, José Luis	X	3
+Reunión Turores 3º y 4º ESO			Pérez Del Río, Mercedes	X	3
+Reunión Turores 3º y 4º ESO			Villegas Muñoz, Rosalía	X	3
+Reunión Erasmus			Caballero de León Morales, María	X	5
+Reunión Erasmus			Rodríguez Domínguez, Esperanza	X	5
+Reunión Erasmus			Parias Ángel, Marta	X	5
+Reunión Erasmus			González Lora, Juan Carlos	X	5
+Reunión Erasmus			Gómez Mayo, Juan Antonio	X	5
+Reunión Erasmus			Herrera Martín, Javier	X	5
+Reunión Erasmus			Cano Ceballos, Desiré	X	5
+Reunión Erasmus			Rodríguez Muñoz, Rocío	X	5
+Reunión Erasmus			Guerrero Mayo, Juanma	X	5
+Reunión Erasmus			López Alcántara, Luis	X	5
+Reunión Departamento Administración			Caballero de León Morales, María	X	10
+Reunión Departamento Administración			Fernandez García, María Francisca	X	10
+Reunión Departamento Administración			Gutiérrez Melgar, Débora	X	10
+Reunión Departamento Administración			Ramírez Serrano, Ana	X	10
+Reunión Departamento Administración			Rodríguez Domínguez, Esperanza	X	10
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			González Macías, Rocío	V	2
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Iglésis Gallardo, Margari	V	2
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Pacheco Cano, Encarnación	V	2
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Ruiz Castro, Ana María	X	5
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Morillo López, Yolanda	X	5
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Durán Correa, Fernando	L	3
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Ciero Polvillo, Conchi	L	3
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Crespo Arnold, Marcos	M	3
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Rodríguez Pueyo, Lucía	M	3
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Pezzotti, María Rosa	L	2
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Pérez Ramírez, Ana Cristina	L	2
+REUNIÓN COORDINACIÓN TUTOR-CO-TUTO			Martín Bizcocho, Rocío	L	2
+Coordinación Erasmus			Herrera Martín, Javier	J	3
+Coordinación Erasmus			Herrera Martín, Javier	V	5
+Coordinación Erasmus			Gómez Mayo, Juan Antonio	J	3
+Coordinación Erasmus			Gómez Mayo, Juan Antonio	V	5
+Coordinación Erasmus			Gómez Mayo, Juan Antonio	V	6
+Horas Atención Repetidores 2º FPI			Herrera Martín, Javier	V	3
+Coordinación Dual			Parias Ángel, Marta	L	2
