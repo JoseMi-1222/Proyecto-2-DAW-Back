@@ -1,4 +1,4 @@
--- Insertar franjas horarias con IDs fijos del 1 al 14
+-- 1. INSERTAR FRANJAS HORARIAS
 INSERT INTO franja (id_franja, hora_inicio, hora_fin) VALUES (1, '08:15:00', '09:15:00') ON DUPLICATE KEY UPDATE hora_inicio=hora_inicio;
 INSERT INTO franja (id_franja, hora_inicio, hora_fin) VALUES (2, '09:15:00', '10:15:00') ON DUPLICATE KEY UPDATE hora_inicio=hora_inicio;
 INSERT INTO franja (id_franja, hora_inicio, hora_fin) VALUES (3, '10:15:00', '11:15:00') ON DUPLICATE KEY UPDATE hora_inicio=hora_inicio;
@@ -13,3 +13,6 @@ INSERT INTO franja (id_franja, hora_inicio, hora_fin) VALUES (11, '18:00:00', '1
 INSERT INTO franja (id_franja, hora_inicio, hora_fin) VALUES (12, '18:15:00', '19:15:00') ON DUPLICATE KEY UPDATE hora_inicio=hora_inicio;
 INSERT INTO franja (id_franja, hora_inicio, hora_fin) VALUES (13, '19:15:00', '20:15:00') ON DUPLICATE KEY UPDATE hora_inicio=hora_inicio;
 INSERT INTO franja (id_franja, hora_inicio, hora_fin) VALUES (14, '20:15:00', '21:15:00') ON DUPLICATE KEY UPDATE hora_inicio=hora_inicio;
+INSERT INTO usuario (id_usuario, correo, nombre, password, rol) 
+VALUES (1, 'admin@admin.com', 'Administrador', '$2a$10$8.UnVuG9HHgffUDAlk8qfOuVGkqRzgVwdFYiNu.k4.7d/Wk.W5.2.', 'administrador')
+ON DUPLICATE KEY UPDATE password = VALUES(password), rol = VALUES(rol);

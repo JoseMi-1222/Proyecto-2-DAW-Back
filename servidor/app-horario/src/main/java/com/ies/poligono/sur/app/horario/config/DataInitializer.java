@@ -11,27 +11,28 @@ import com.ies.poligono.sur.app.horario.dao.UsuarioRepository;
 import com.ies.poligono.sur.app.horario.model.Usuario;
 
 @Component
-@Order(2) // Ejecutar después de FranjaInitializer
-@Profile("!test") // No ejecutar en tests
+@Order(2)
+@Profile("!test")
 public class DataInitializer implements CommandLineRunner {
 
-    @Autowired
-    private UsuarioRepository usuarioRepository;
+	@Autowired
+	private UsuarioRepository usuarioRepository;
 
-    @Autowired
-    private PasswordEncoder passwordEncoder;
+	@Autowired
+	private PasswordEncoder passwordEncoder;
 
-    @Override
-    public void run(String... args) throws Exception {
-        if (usuarioRepository.count() == 0) {
-            Usuario admin = new Usuario();
-            admin.setNombre("Administrador");
-            admin.setEmail("admin@admin.com");
-            admin.setPassword(passwordEncoder.encode("admin"));
-            admin.setRol("administrador");
+	@Override
+	public void run(String... args) throws Exception {
+		Usuario admin = usuarioRepository.findByEmail("admin@admin.com");
 
-            usuarioRepository.save(admin);
-            System.out.println("Usuario administrador creado: admin@admin.com / admin");
-        }
-    }
+		if (admin == null) {
+			admin = new Usuario();
+			admin.setEmail("admin@admin.com");
+		}
+		admin.setNombre("Administrador");
+		admin.setPassword(passwordEncoder.encode("admin"));
+		admin.setRol("administrador");
+
+		usuarioRepository.save(admin);
+	}
 }
