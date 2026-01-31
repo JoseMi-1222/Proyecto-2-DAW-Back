@@ -4,5 +4,6 @@ import lombok.Data;
 
 @Data
 public class CambioContrasenaDTO {
+    private String contrasenaActual; 
     private String nuevaContrasena;
 }

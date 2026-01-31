@@ -4,6 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.ies.poligono.sur.app.horario.dao.HorarioRepository;
 import com.ies.poligono.sur.app.horario.model.Horario;
@@ -30,10 +31,9 @@ public class HorarioServiceImpl implements HorarioService {
 	}
 
 	@Override
+	@Transactional(readOnly = true)
 	public List<Horario> obtenerPorProfesor(Long idProfesor) {
-		return horarioRepository.findAll().stream()
-			.filter(h -> h.getProfesor() != null && h.getProfesor().getIdProfesor().equals(idProfesor))
-			.toList();
+		return horarioRepository.findByProfesor_IdProfesor(idProfesor);
 	}
 
 }

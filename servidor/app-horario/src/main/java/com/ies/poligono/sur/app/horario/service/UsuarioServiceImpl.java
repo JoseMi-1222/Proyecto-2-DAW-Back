@@ -96,9 +96,13 @@ public class UsuarioServiceImpl implements UsuarioService {
 
 	@Override
 	@Transactional
-	public Usuario actualizarContraseña(Long id, String nuevaContraseña) {
+	public Usuario actualizarContraseña(Long id, String contrasenaActual, String nuevaContraseña) {
 		Usuario usuario = usuarioRepository.findById(id)
 				.orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Usuario no encontrado"));
+
+		if (!passwordEncoder.matches(contrasenaActual, usuario.getPassword())) {
+			throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "La contraseña actual no es correcta");
+		}
 
 		String nuevaPass = passwordEncoder.encode(nuevaContraseña);
 		usuario.setPassword(nuevaPass);

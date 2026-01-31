@@ -29,7 +29,7 @@ public class Profesor {
 
 	@OneToOne
 	@JoinColumn(name = "id_usuario", nullable = true)
-	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler", "profesor" })
 	private Usuario usuario;
 
 	private String nombre;

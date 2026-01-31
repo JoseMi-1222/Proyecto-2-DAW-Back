@@ -30,7 +30,6 @@ public class HorarioController {
 	@Autowired
 	HorarioService horarioService;
 
-	// Endpoint para obtener horarios
 	@GetMapping
 	public ResponseEntity<List<Horario>> obtenerHorarios(@RequestParam(required = false) Long idProfesor) {
 		List<Horario> horarios;
@@ -42,7 +41,6 @@ public class HorarioController {
 		return ResponseEntity.ok(horarios);
 	}
 
-	// Endpoint para subir el archivo
 	@PostMapping("/importacion")
 	@ResponseStatus(HttpStatus.CREATED)
 	public ResponseEntity<Map<String, String>> importacion(@RequestBody PostImportacionInputDTO inputDTO) {

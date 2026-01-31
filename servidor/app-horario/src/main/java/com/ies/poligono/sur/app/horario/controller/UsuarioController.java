@@ -98,19 +98,24 @@ public class UsuarioController {
 		}
 	}
 
-	@PutMapping("/{id}/cambiar-contrasena")
-	@PreAuthorize("hasAnyRole('ADMINISTRADOR', 'PROFESOR')")
-	public ResponseEntity<Usuario> cambiarContrasena(@PathVariable Long id, @RequestBody CambioContrasenaDTO dto,
+	@PutMapping("/{id}/cambiar-contrasena") 
+	@PreAuthorize("isAuthenticated()") 
+	public ResponseEntity<?> cambiarContrasena(@PathVariable Long id, @RequestBody CambioContrasenaDTO dto,
 			Authentication authentication) {
 
 		Usuario usuarioLogueado = usuarioRepository.findByEmail(authentication.getName())
 				.orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Usuario logueado no encontrado"));
 
 		if (!usuarioLogueado.getId().equals(id)) {
-			return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
+			return ResponseEntity.status(HttpStatus.FORBIDDEN).body("No puedes cambiar la contraseña de otro usuario");
 		}
-
-		Usuario actualizado = usuarioService.actualizarContraseña(id, dto.getNuevaContrasena());
-		return ResponseEntity.ok(actualizado);
+		
+		try {
+			Usuario actualizado = usuarioService.actualizarContraseña(id, dto.getContrasenaActual(), dto.getNuevaContrasena());
+			return ResponseEntity.ok(actualizado);
+			
+		} catch (ResponseStatusException e) {
+			return ResponseEntity.status(e.getStatusCode()).body(e.getReason());
+		}
 	}
 }

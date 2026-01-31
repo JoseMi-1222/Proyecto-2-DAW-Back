@@ -21,6 +21,8 @@ import com.ies.poligono.sur.app.horario.dto.AusenciaTramoDTO;
 import com.ies.poligono.sur.app.horario.dto.PostAusenciasInputDTO;
 import com.ies.poligono.sur.app.horario.model.Ausencia;
 import com.ies.poligono.sur.app.horario.model.Horario;
+import org.springframework.data.domain.Sort;
+import com.ies.poligono.sur.app.horario.model.Ausencia;
 
 @Service
 public class AusenciaServiceImpl implements AusenciaService {
@@ -293,6 +295,12 @@ public class AusenciaServiceImpl implements AusenciaService {
 			ausencia.setJustificada(true);
 		}
 		ausenciaRepository.saveAll(ausencias);
+	}
+	
+	@Override
+	public List<Ausencia> obtenerTodas() {
+		// Buscamos todas las ausencias ordenadas por fecha (la más reciente primero)
+		return ausenciaRepository.findAll(Sort.by(Sort.Direction.DESC, "fecha"));
 	}
 
 }

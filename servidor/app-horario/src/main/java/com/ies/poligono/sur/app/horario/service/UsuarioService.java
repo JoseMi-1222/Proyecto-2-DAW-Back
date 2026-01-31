@@ -13,7 +13,7 @@ public interface UsuarioService {
 
 	Usuario actualizarUsuario(Long id, Usuario usuarioActualizado);
 
-	Usuario actualizarContraseña(Long id, String nuevaContraseña);
+	Usuario actualizarContraseña(Long id, String contrasenaActual, String nuevaContraseña);
 
 	String generarEmailDesdeNombre(String nombre);
 
