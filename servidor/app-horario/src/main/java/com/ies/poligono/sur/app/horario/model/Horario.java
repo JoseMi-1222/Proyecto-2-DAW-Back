@@ -8,6 +8,11 @@ import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
+import jakarta.persistence.Cacheable;
+
+import org.hibernate.annotations.Cache;
+import org.hibernate.annotations.CacheConcurrencyStrategy;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -17,32 +22,35 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Cacheable
+@Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
 public class Horario {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-    @ManyToOne
-    @JoinColumn(name = "id_asignatura", nullable = false)
-    private Asignatura asignatura;
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
 
-    @ManyToOne
-    @JoinColumn(name = "id_curso", nullable = true)
-    private Curso curso;
+	@ManyToOne
+	@JoinColumn(name = "id_asignatura", nullable = false)
+	private Asignatura asignatura;
 
-    @ManyToOne
-    @JoinColumn(name = "id_aula", nullable = true)
-    private Aula aula;
+	@ManyToOne
+	@JoinColumn(name = "id_curso", nullable = true)
+	private Curso curso;
 
-    @ManyToOne
-    @JoinColumn(name = "id_profesor", nullable = false)
-    private Profesor profesor;
+	@ManyToOne
+	@JoinColumn(name = "id_aula", nullable = true)
+	private Aula aula;
 
-    @Column(nullable = false)
-    private String dia;
+	@ManyToOne
+	@JoinColumn(name = "id_profesor", nullable = false)
+	private Profesor profesor;
 
-    @ManyToOne
-    @JoinColumn(name = "franja", nullable = false)
-    private Franja franja;
+	@Column(nullable = false)
+	private String dia;
+
+	@ManyToOne
+	@JoinColumn(name = "franja", nullable = false)
+	private Franja franja;
 
 }

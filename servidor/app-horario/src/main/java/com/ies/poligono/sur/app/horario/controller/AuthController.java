@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -31,33 +31,21 @@ public class AuthController {
 	private UsuarioRepository usuarioRepository;
 
 	@Autowired
-	private PasswordEncoder passwordEncoder;
-
-	@Autowired
 	private JwtService jwtService;
 
 	@PostMapping("/login")
 	public AuthResponse loginUser(@RequestBody AuthenticationRequest authenticationRequest) throws Exception {
-	    // Autenticar al usuario con el AuthenticationManager
-	    authenticationManager.authenticate(
-	        new UsernamePasswordAuthenticationToken(
-	            authenticationRequest.getUsername(),
-	            authenticationRequest.getPassword()
-	        )
-	    );
 
-	    // Cargar detalles del usuario (Spring Security)
-	    final UserDetails userDetails = userDetailsService.loadUserByUsername(authenticationRequest.getUsername());
+		authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(authenticationRequest.getUsername(),
+				authenticationRequest.getPassword()));
 
-	    // Generar el token JWT
-	    final String jwt = jwtService.generateToken(userDetails);
+		final UserDetails userDetails = userDetailsService.loadUserByUsername(authenticationRequest.getUsername());
 
-	    // Buscar al usuario completo desde base de datos
-	    Usuario usuario = usuarioRepository.findByEmail(authenticationRequest.getUsername());
+		final String jwt = jwtService.generateToken(userDetails);
 
-	    // Devolver token + objeto Usuario (DTO)
-	    return new AuthResponse(jwt, usuario);
+		Usuario usuario = usuarioRepository.findByEmail(authenticationRequest.getUsername())
+				.orElseThrow(() -> new UsernameNotFoundException("Usuario no encontrado"));
+
+		return new AuthResponse(jwt, usuario);
 	}
-
-
 }

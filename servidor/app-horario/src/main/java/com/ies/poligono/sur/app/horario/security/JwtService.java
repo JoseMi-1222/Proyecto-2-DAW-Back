@@ -15,7 +15,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
 @Service
 public class JwtService {
 
-	private String SECRET_KEY = "secret";
+	private final String SECRET_KEY = "esta_es_una_clave_secreta_super_larga_para_que_firme_bien_el_token_ies_poligono_sur";
 
 	public String extractUsername(String token) {
 		return extractClaim(token, Claims::getSubject);
@@ -39,14 +39,13 @@ public class JwtService {
 	}
 
 	public String generateToken(UserDetails userDetails) {
-	    Map<String, Object> claims = new HashMap<>();
+		Map<String, Object> claims = new HashMap<>();
 
-	    // Añadimos el rol del usuario a los claims
-	    userDetails.getAuthorities().forEach(authority -> {
-	        claims.put("role", authority.getAuthority()); // Ej: "ROLE_ADMINISTRADOR"
-	    });
+		userDetails.getAuthorities().forEach(authority -> {
+			claims.put("role", authority.getAuthority()); // Ej: "ROLE_ADMINISTRADOR"
+		});
 
-	    return createToken(claims, userDetails.getUsername());
+		return createToken(claims, userDetails.getUsername());
 	}
 
 	private String createToken(Map<String, Object> claims, String subject) {
@@ -59,9 +58,8 @@ public class JwtService {
 		final String username = extractUsername(token);
 		return (username.equals(userDetails.getUsername()) && !isTokenExpired(token));
 	}
-	
-	public String extractRole(String token) {
-	    return extractAllClaims(token).get("role", String.class);
-	}
 
+	public String extractRole(String token) {
+		return extractAllClaims(token).get("role", String.class);
+	}
 }

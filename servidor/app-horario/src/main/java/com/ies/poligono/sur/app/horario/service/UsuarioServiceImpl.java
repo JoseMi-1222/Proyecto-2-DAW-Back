@@ -4,10 +4,13 @@ import java.util.List;
 import java.util.Optional;
 
 import org.apache.commons.lang3.StringUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.server.ResponseStatusException;
 
 import com.ies.poligono.sur.app.horario.dao.ProfesorRepository;
@@ -18,107 +21,109 @@ import com.ies.poligono.sur.app.horario.model.Usuario;
 @Service
 public class UsuarioServiceImpl implements UsuarioService {
 
-	@Autowired
-	UsuarioRepository usuarioRepository;
+	private static final Logger log = LoggerFactory.getLogger(UsuarioServiceImpl.class);
 
 	@Autowired
-	ProfesorRepository profesorRepository;
+	private UsuarioRepository usuarioRepository;
 
 	@Autowired
-	PasswordEncoder passwordEncoder;
+	private ProfesorRepository profesorRepository;
+
+	@Autowired
+	private PasswordEncoder passwordEncoder;
 
 	private final String DOMINIO_CORREO = "@iespoligonosur.org";
 
 	@Override
+	@Transactional(readOnly = true)
 	public List<Usuario> obtenerUsuarios() {
 		return usuarioRepository.findAll();
 	}
 
 	@Override
+	@Transactional
 	public Usuario crearUsuario(Usuario usuario) {
-
-		if (usuarioRepository.findByEmail(usuario.getEmail()) != null) {
-			throw new IllegalArgumentException("Ya existe un usuario con ese email");
+		if (usuarioRepository.existsByEmail(usuario.getEmail())) {
+			throw new IllegalArgumentException("Ya existe un usuario con ese email: " + usuario.getEmail());
 		}
 
 		String contraseñaEncriptada = passwordEncoder.encode(usuario.getPassword());
 		usuario.setPassword(contraseñaEncriptada);
 
+		log.info("Creando nuevo usuario: {}", usuario.getEmail());
 		return usuarioRepository.save(usuario);
 	}
 
 	@Override
+	@Transactional
 	public void eliminarUsuario(Long id) {
 		Usuario usuario = usuarioRepository.findById(id).orElseThrow(
 				() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Usuario no encontrado con ID: " + id));
 
-		// Buscar si hay un profesor asociado a este usuario
 		Profesor profesor = profesorRepository.findByUsuario(usuario);
+
 		if (profesor != null) {
-			// Romper la relación antes de borrar al usuario
+			log.info("Desvinculando usuario {} del profesor {}", id, profesor.getNombre());
 			profesor.setUsuario(null);
-			profesorRepository.save(profesor); // guarda el cambio en la BD
+			profesorRepository.save(profesor);
 		}
 
-		// Ahora que está libre, eliminamos el usuario
+		log.info("Eliminando usuario con ID: {}", id);
 		usuarioRepository.delete(usuario);
 	}
 
-	// Método para actualizar un usuario
+	@Override
+	@Transactional
 	public Usuario actualizarUsuario(Long id_usuario, Usuario usuarioActualizado) {
-		// Verificar si el usuario existe en la base de datos
-		Optional<Usuario> usuarioExistenteOpt = usuarioRepository.findById(id_usuario);
+		Usuario usuarioExistente = usuarioRepository.findById(id_usuario)
+				.orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Usuario no encontrado"));
 
-		if (usuarioExistenteOpt.isPresent()) {
-			Usuario usuarioExistente = usuarioExistenteOpt.get();
-
-			// Verificar si el nuevo correo electrónico ya existe y no pertenece al usuario
-			// actual
-			if (!usuarioExistente.getEmail().equals(usuarioActualizado.getEmail())
-					&& usuarioRepository.existsByEmail(usuarioActualizado.getEmail())) {
-				throw new RuntimeException("El correo electrónico ya está registrado");
-			}
-
-			// Si la contraseña no está vacía, se encripta
-			if (usuarioActualizado.getPassword() != null && !usuarioActualizado.getPassword().isEmpty()) {
-				usuarioExistente.setPassword(passwordEncoder.encode(usuarioActualizado.getPassword()));
-			}
-
-			// Actualizar otros campos del usuario
-			usuarioExistente.setNombre(usuarioActualizado.getNombre());
-			usuarioExistente.setEmail(usuarioActualizado.getEmail());
-			usuarioExistente.setRol(usuarioActualizado.getRol());
-
-			// Guardar el usuario actualizado en la base de datos
-			return usuarioRepository.save(usuarioExistente);
-		} else {
-			// Si no se encuentra el usuario, retornamos null
-			return null;
+		if (!usuarioExistente.getEmail().equals(usuarioActualizado.getEmail())
+				&& usuarioRepository.existsByEmail(usuarioActualizado.getEmail())) {
+			throw new RuntimeException("El correo electrónico ya está registrado por otro usuario");
 		}
+
+		if (usuarioActualizado.getPassword() != null && !usuarioActualizado.getPassword().isEmpty()) {
+			usuarioExistente.setPassword(passwordEncoder.encode(usuarioActualizado.getPassword()));
+		}
+
+		usuarioExistente.setNombre(usuarioActualizado.getNombre());
+		usuarioExistente.setEmail(usuarioActualizado.getEmail());
+		usuarioExistente.setRol(usuarioActualizado.getRol());
+
+		return usuarioRepository.save(usuarioExistente);
 	}
 
 	@Override
+	@Transactional
 	public Usuario actualizarContraseña(Long id, String nuevaContraseña) {
 		Usuario usuario = usuarioRepository.findById(id)
 				.orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Usuario no encontrado"));
 
 		String nuevaPass = passwordEncoder.encode(nuevaContraseña);
 		usuario.setPassword(nuevaPass);
+		log.info("Contraseña actualizada para el usuario ID: {}", id);
 		return usuarioRepository.save(usuario);
 	}
 
 	@Override
 	public String generarEmailDesdeNombre(String nombre) {
+		if (nombre == null || !nombre.contains(",")) {
+			return "";
+		}
+
 		String[] arrNombre = nombre.split(",");
-		String apellidos = arrNombre[0].replace(".", "").trim(); // Trovato .
+		String apellidos = arrNombre[0].replace(".", "").trim();
 		String nombreProf = "";
+
 		if (arrNombre.length > 1) {
 			nombreProf = arrNombre[1].trim().replace(".", "").concat(".");
 		}
+
 		String email = StringUtils
 				.stripAccents(nombreProf.concat(apellidos).toLowerCase().replace(" ", ".").concat(DOMINIO_CORREO))
 				.toLowerCase();
+
 		return email;
 	}
-
 }

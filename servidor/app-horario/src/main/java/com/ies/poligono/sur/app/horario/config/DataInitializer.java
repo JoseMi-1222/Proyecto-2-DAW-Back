@@ -23,12 +23,13 @@ public class DataInitializer implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		Usuario admin = usuarioRepository.findByEmail("admin@admin.com");
 
-		if (admin == null) {
-			admin = new Usuario();
-			admin.setEmail("admin@admin.com");
-		}
+		Usuario admin = usuarioRepository.findByEmail("admin@admin.com").orElseGet(() -> {
+			Usuario nuevoUsuario = new Usuario();
+			nuevoUsuario.setEmail("admin@admin.com");
+			return nuevoUsuario;
+		});
+
 		admin.setNombre("Administrador");
 		admin.setPassword(passwordEncoder.encode("admin"));
 		admin.setRol("administrador");
