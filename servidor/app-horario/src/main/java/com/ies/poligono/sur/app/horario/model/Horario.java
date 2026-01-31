@@ -1,5 +1,7 @@
 package com.ies.poligono.sur.app.horario.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -24,6 +26,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Cacheable
 @Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
+@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 public class Horario {
 
 	@Id
@@ -32,18 +35,22 @@ public class Horario {
 
 	@ManyToOne
 	@JoinColumn(name = "id_asignatura", nullable = false)
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 	private Asignatura asignatura;
 
 	@ManyToOne
 	@JoinColumn(name = "id_curso", nullable = true)
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 	private Curso curso;
 
 	@ManyToOne
 	@JoinColumn(name = "id_aula", nullable = true)
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 	private Aula aula;
 
 	@ManyToOne
 	@JoinColumn(name = "id_profesor", nullable = false)
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 	private Profesor profesor;
 
 	@Column(nullable = false)
@@ -51,6 +58,7 @@ public class Horario {
 
 	@ManyToOne
 	@JoinColumn(name = "franja", nullable = false)
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 	private Franja franja;
 
 }

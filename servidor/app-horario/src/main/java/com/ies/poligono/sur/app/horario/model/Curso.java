@@ -3,6 +3,8 @@ package com.ies.poligono.sur.app.horario.model;
 import org.hibernate.annotations.Cache;
 import org.hibernate.annotations.CacheConcurrencyStrategy;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 import jakarta.persistence.Cacheable;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -20,11 +22,12 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Cacheable
 @Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
+@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 public class Curso {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long idCurso;
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long idCurso;
 
-    private String nombre;
+	private String nombre;
 }
