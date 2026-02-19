@@ -29,7 +29,6 @@ public class HorarioController {
     @Autowired
     private AsignaturaRepository asignaturaRepository; 
 
-    // --- NUEVO: Inyectamos el repositorio de cursos ---
     @Autowired
     private CursoRepository cursoRepository;
 
@@ -42,9 +41,6 @@ public class HorarioController {
     @PostMapping("/profesor/{id}")
     @PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
     public ResponseEntity<List<Horario>> guardarHorario(@PathVariable Long id, @RequestBody List<Horario> horarios) {
-        // Al recibir la lista de 'horarios', Spring deserializará el JSON.
-        // Como tu modelo 'Horario' ya tiene el campo 'Curso curso', 
-        // y el frontend envía el objeto curso, se guardará automáticamente la relación.
         return ResponseEntity.ok(horarioService.guardarHorarioProfesor(id, horarios));
     }
     
@@ -54,7 +50,6 @@ public class HorarioController {
         return ResponseEntity.ok(asignaturaRepository.findAll());
     }
 
-    // --- NUEVO ENDPOINT: Obtener lista de Cursos para el desplegable ---
     @GetMapping("/cursos")
     @PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR') or hasAuthority('administrador') or hasAuthority('profesor')")
     public ResponseEntity<List<Curso>> obtenerTodosCursos() {

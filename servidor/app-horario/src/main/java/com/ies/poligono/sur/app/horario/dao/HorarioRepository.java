@@ -4,6 +4,7 @@ import java.time.LocalTime;
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Modifying; // Importante
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
@@ -14,8 +15,10 @@ import com.ies.poligono.sur.app.horario.model.Horario;
 public interface HorarioRepository extends JpaRepository<Horario, Long> {
 	
 	List<Horario> findByProfesor_IdProfesor(Long idProfesor);
-	
-	void deleteByProfesor_IdProfesor(Long idProfesor);
+
+    @Modifying
+    @Query("DELETE FROM Horario h WHERE h.profesor.idProfesor = :idProfesor")
+	void deleteByProfesor_IdProfesor(@Param("idProfesor") Long idProfesor);
 
 	@Query("""
 			SELECT h FROM Horario h

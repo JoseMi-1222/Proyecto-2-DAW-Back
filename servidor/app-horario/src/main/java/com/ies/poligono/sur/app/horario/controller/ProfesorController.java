@@ -92,9 +92,13 @@ public class ProfesorController {
 	
 	@DeleteMapping("/{id}")
 	@PreAuthorize("hasRole('ADMINISTRADOR')")
-	public ResponseEntity<Void> eliminarProfesor(@PathVariable Long id) {
-		profesorService.deleteById(id);
-		return ResponseEntity.noContent().build();
+	public ResponseEntity<?> eliminarProfesor(@PathVariable Long id) {
+		try {
+			profesorService.deleteById(id);
+			return ResponseEntity.ok().body("{\"mensaje\": \"Profesor y sus datos eliminados correctamente\"}");
+		} catch (Exception e) {
+			return ResponseEntity.badRequest().body("{\"error\": \"Error al eliminar: " + e.getMessage() + "\"}");
+		}
 	}
 	
 	@PutMapping("/{id}")
@@ -107,8 +111,6 @@ public class ProfesorController {
             return ResponseEntity.notFound().build();
         }
     }
-
-	// --- MÉTODOS AÑADIDOS PARA ASIGNAR USUARIO ---
 
 	@GetMapping("/sin-usuario")
 	@PreAuthorize("hasRole('ADMINISTRADOR')")
@@ -127,7 +129,6 @@ public class ProfesorController {
 		}
 	}
 	
-	// DTO
 	public static class RegistroUsuarioDTO {
 		private String email;
 		private String password;

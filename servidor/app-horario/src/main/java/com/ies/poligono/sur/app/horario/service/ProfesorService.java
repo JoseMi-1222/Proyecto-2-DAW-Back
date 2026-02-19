@@ -9,30 +9,30 @@ import com.ies.poligono.sur.app.horario.model.Profesor;
 
 public interface ProfesorService {
 
-	Profesor findByNombre(String nombre);
+    Profesor findByNombre(String nombre);
 
-	List<Profesor> buscarPorNombreParcial(String nombre);
+    List<Profesor> buscarPorNombreParcial(String nombre);
 
-	Profesor findById(Long id);
+    Profesor findById(Long id);
 
-	List<Profesor> obtenerTodos();
+    List<Profesor> obtenerTodos();
 
-	Profesor insertar(Profesor profesor);
+    Profesor insertar(Profesor profesor);
 
-	Profesor findByEmailUsuario(String email);
+    Profesor findByEmailUsuario(String email);
 
-	Long obtenerIdProfesorPorUsername(String email);
+    Long obtenerIdProfesorPorUsername(String email);
 
-	Profesor findByIdUsuario(Long idUsuario);
+    Profesor findByIdUsuario(Long idUsuario);
 
-	Page<Profesor> obtenerProfesoresPaginados(String busqueda, Pageable pageable);
-	
-	void deleteById(Long id);
-	
-	Profesor actualizar(Long id, Profesor profesorDatos);
+    Page<Profesor> obtenerProfesoresPaginados(String busqueda, Pageable pageable);
+    
+    void deleteById(Long id);
+    
+    Profesor actualizar(Long id, Profesor profesorDatos);
 
-	List<Profesor> obtenerProfesoresSinUsuario();
+    List<Profesor> obtenerProfesoresSinUsuario();
 
-	Profesor crearUsuarioParaProfesor(Long idProfesor, String email, String password);
+    Profesor crearUsuarioParaProfesor(Long idProfesor, String email, String password);
 
 }

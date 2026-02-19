@@ -65,9 +65,6 @@ public class HorarioServiceProcessorImpl implements HorarioServiceProcessor {
 
 	/**
 	 * Devuelva una lista de horarios dado el txt completo
-	 * 
-	 * @param txtHorario
-	 * @return
 	 */
 	private List<Horario> montarLstHorarioDesdeTxt(String txtHorario) {
 		List<Horario> lstHorario = new ArrayList<Horario>();
@@ -94,20 +91,23 @@ public class HorarioServiceProcessorImpl implements HorarioServiceProcessor {
 
 	/**
 	 * Crea un objeto horario dada la fila del txt
-	 * 
-	 * @param txtFilaHorario
-	 * @return
 	 */
 	private Horario montarRegistroDesdeFilaTxt(String txtFilaHorario) {
 		Horario horario = new Horario();
 
 		// Limpiar la línea de caracteres de control (Windows \r\n)
 		String lineaLimpia = txtFilaHorario.trim();
-		String[] arrHorario = lineaLimpia.split("\t");
+		// IMPORTANTE: El split debe manejar campos vacíos si los hubiera
+		String[] arrHorario = lineaLimpia.split("\t"); 
 
 		// Limpiar cada campo de espacios y caracteres de control
 		for (int i = 0; i < arrHorario.length; i++) {
 			arrHorario[i] = arrHorario[i].trim();
+		}
+		
+		// Verificar que tenemos los campos mínimos (Asignatura, Curso, Aula, Profesor, Dia, Franja)
+		if (arrHorario.length < 6) {
+			return null;
 		}
 
 		Asignatura asignatura = procesarAsignatura(arrHorario[0]);
@@ -119,8 +119,10 @@ public class HorarioServiceProcessorImpl implements HorarioServiceProcessor {
 		Aula aula = procesarAula(arrHorario[2]);
 		horario.setAula(aula);
 
+		// AQUÍ ESTABA EL CAMBIO CLAVE: Pasamos el código del profesor (columna 3 del TXT)
 		Profesor profesor = procesarProfesor(arrHorario[3]);
 		horario.setProfesor(profesor);
+		
 		horario.setDia(arrHorario[4]);
 
 		// Validar y convertir la franja
@@ -142,12 +144,6 @@ public class HorarioServiceProcessorImpl implements HorarioServiceProcessor {
 		return horario;
 	}
 
-	/**
-	 * Recupera la asignatura o la inserta si no existe
-	 * 
-	 * @param nombreAsignatura
-	 * @return
-	 */
 	private Asignatura procesarAsignatura(String nombreAsignatura) {
 		Asignatura asignatura = asignaturaService.findByNombre(nombreAsignatura);
 		if (asignatura == null) {
@@ -158,12 +154,6 @@ public class HorarioServiceProcessorImpl implements HorarioServiceProcessor {
 		return asignatura;
 	}
 
-	/**
-	 * Recupera el Curso o lo inserta si no existe
-	 * 
-	 * @param nombre
-	 * @return
-	 */
 	private Curso procesarCurso(String nombre) {
 		Curso curso = null;
 		if (StringUtils.isNotBlank(nombre)) {
@@ -177,12 +167,6 @@ public class HorarioServiceProcessorImpl implements HorarioServiceProcessor {
 		return curso;
 	}
 
-	/**
-	 * Recupera el Aula o lo inserta si no existe
-	 * 
-	 * @param codigo
-	 * @return
-	 */
 	private Aula procesarAula(String codigo) {
 		Aula aula = null;
 
@@ -199,46 +183,40 @@ public class HorarioServiceProcessorImpl implements HorarioServiceProcessor {
 	}
 
 	/**
-	 * Recupera el Profesor o lo inserta si no existe
-	 * 
-	 * @param nombre
-	 * @return
+	 * CORREGIDO: Recupera el Profesor por ABREVIATURA o lo inserta si no existe
+	 * @param codigoAbreviatura El código que viene en el TXT (ej: "AGAR")
 	 */
-	private Profesor procesarProfesor(String nombre) {
-		Profesor profesor = profesorService.findByNombre(nombre);
+	private Profesor procesarProfesor(String codigoAbreviatura) {
+		// 1. Buscamos por ABREVIATURA (Única)
+		Profesor profesor = profesorService.findByAbreviatura(codigoAbreviatura);
+		
 		if (profesor == null) {
-			// asignar usuario al profesor
+			System.out.println("Creando nuevo profesor con abreviatura: " + codigoAbreviatura);
+			
+			// 2. Si no existe, creamos el usuario asociado
 			Usuario usuario = new Usuario();
-			String email = usuarioService.generarEmailDesdeNombre(nombre);
-			System.out.println("Validación email: " + email);
+			// Usamos el código como base para el email temporal
+			String email = usuarioService.generarEmailDesdeNombre(codigoAbreviatura);
 			usuario.setEmail(email);
 			usuario.setPassword("Pass123");
 			usuario.setRol("profesor");
-			usuario.setNombre(nombre);
+			usuario.setNombre(codigoAbreviatura); // Nombre temporal igual a la abreviatura
 			usuario = usuarioService.crearUsuario(usuario);
 
-			// crear profesor
+			// 3. Crear profesor vinculando la abreviatura
 			profesor = new Profesor();
 			profesor.setUsuario(usuario);
-			profesor.setNombre(nombre);
+			profesor.setNombre(codigoAbreviatura); // Nombre temporal
+			profesor.setAbreviatura(codigoAbreviatura); // ¡IMPORTANTE! Guardamos la abreviatura
 			profesor = profesorService.insertar(profesor);
 		}
 		return profesor;
 	}
 
-	/**
-	 * Borra el horario anterior e inserta el nuevo
-	 * 
-	 * @param lstHorario
-	 */
 	private void insertarHorarioImportado(List<Horario> lstHorario) {
-		// borrar todos los registros del horario anterior
 		horarioService.borrarTodosLosHorarios();
-
-		// iterar lista de horarios y hacer insert por cada registro
 		for (Horario horario : lstHorario) {
 			horarioService.crearHorario(horario);
 		}
 	}
-
 }
