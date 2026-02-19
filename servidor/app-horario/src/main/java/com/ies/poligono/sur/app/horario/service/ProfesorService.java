@@ -34,5 +34,7 @@ public interface ProfesorService {
     List<Profesor> obtenerProfesoresSinUsuario();
 
     Profesor crearUsuarioParaProfesor(Long idProfesor, String email, String password);
+    
+    Profesor findByAbreviatura(String abreviatura);
 
 }

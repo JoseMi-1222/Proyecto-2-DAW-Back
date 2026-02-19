@@ -165,4 +165,10 @@ public class ProfesorServiceImpl implements ProfesorService {
         profesor.setUsuario(nuevoUsuario);
         return profesorRepository.save(profesor);
     }
+
+    @Override
+    @Transactional(readOnly = true)
+    public Profesor findByAbreviatura(String abreviatura) {
+        return profesorRepository.findByAbreviatura(abreviatura);
+    }
 }
