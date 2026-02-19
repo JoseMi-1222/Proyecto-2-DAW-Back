@@ -1,6 +1,7 @@
 package com.ies.poligono.sur.app.horario.model;
 
 import java.util.List;
+
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -39,7 +40,8 @@ public class Profesor {
 
 	@Column(unique = true)
 	private String abreviatura;
-
+	
+	
 	@OneToMany(mappedBy = "profesor")
 	@JsonIgnoreProperties({ "profesor", "hibernateLazyInitializer", "handler" })
 	private List<Horario> horarios;

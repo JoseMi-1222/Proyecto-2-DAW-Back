@@ -99,7 +99,11 @@ public class ProfesorServiceImpl implements ProfesorService {
     @Override
     @Transactional(readOnly = true)
     public Page<Profesor> obtenerProfesoresPaginados(String busqueda, Pageable pageable) {
-        return profesorRepository.buscarProfesoresConFiltro(busqueda, pageable);
+        Page<Profesor> profesores = profesorRepository.buscarProfesoresConFiltro(busqueda, pageable);
+        
+        profesores.forEach(p -> p.getHorarios().size());
+        
+        return profesores;
     }
     
     @Override
