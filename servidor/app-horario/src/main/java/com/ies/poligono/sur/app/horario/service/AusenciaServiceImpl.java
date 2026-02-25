@@ -22,7 +22,6 @@ import com.ies.poligono.sur.app.horario.dto.PostAusenciasInputDTO;
 import com.ies.poligono.sur.app.horario.model.Ausencia;
 import com.ies.poligono.sur.app.horario.model.Horario;
 import org.springframework.data.domain.Sort;
-import com.ies.poligono.sur.app.horario.model.Ausencia;
 
 @Service
 public class AusenciaServiceImpl implements AusenciaService {
@@ -82,6 +81,10 @@ public class AusenciaServiceImpl implements AusenciaService {
 				a.setHorario(h);
 				a.setDescripcion(dto.getMotivo());
 				a.setFecha(dto.getFecha());
+				
+				// NUEVO: Guardamos también el nombre del archivo adjunto
+				a.setArchivoAdjunto(dto.getArchivoAdjunto());
+				
 				ausenciaRepository.save(a);
 				creadas++;
 			}
@@ -130,6 +133,8 @@ public class AusenciaServiceImpl implements AusenciaService {
 			a.setHorario(horario);
 			a.setDescripcion(dto.getMotivo());
 			a.setFecha(dto.getFecha());
+			a.setArchivoAdjunto(dto.getArchivoAdjunto());
+			
 			ausenciaRepository.save(a);
 		}
 

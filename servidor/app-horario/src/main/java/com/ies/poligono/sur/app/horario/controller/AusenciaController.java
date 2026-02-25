@@ -7,6 +7,8 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.io.Resource;
+import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
@@ -14,17 +16,20 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PatchMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.multipart.MultipartFile;
 
 import com.ies.poligono.sur.app.horario.dto.AusenciaAgrupadaDTO;
 import com.ies.poligono.sur.app.horario.dto.PostAusenciasInputDTO;
-import com.ies.poligono.sur.app.horario.model.Ausencia; // <--- IMPORTANTE: Añadido para devolver la entidad completa
+import com.ies.poligono.sur.app.horario.model.Ausencia;
 import com.ies.poligono.sur.app.horario.model.Profesor;
 import com.ies.poligono.sur.app.horario.service.AusenciaService;
+import com.ies.poligono.sur.app.horario.service.FileStorageService;
 import com.ies.poligono.sur.app.horario.service.ProfesorService;
 
 import lombok.RequiredArgsConstructor;
@@ -40,14 +45,31 @@ public class AusenciaController {
 	@Autowired
 	private ProfesorService profesorService;
 
-	// --- NUEVO ENDPOINT PARA ADMIN ---
+	@Autowired
+	private FileStorageService fileStorageService;
+
 	@GetMapping("/todas")
 	@PreAuthorize("hasRole('ADMINISTRADOR')")
 	public ResponseEntity<List<Ausencia>> obtenerTodasLasAusencias() {
-		// Llamamos a un método del servicio que recupera TODO (lo crearemos en el siguiente paso)
 		return ResponseEntity.ok(ausenciaService.obtenerTodas());
 	}
-	// ---------------------------------
+
+	@PostMapping("/upload-archivo")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR')")
+	public ResponseEntity<String> uploadArchivo(@RequestParam("file") MultipartFile file) {
+		String fileName = fileStorageService.guardarArchivo(file);
+		return ResponseEntity.ok(fileName);
+	}
+
+	@GetMapping("/descargar-archivo/{fileName:.+}")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR')")
+	public ResponseEntity<Resource> descargarArchivo(@PathVariable String fileName) {
+		Resource resource = fileStorageService.cargarArchivoComoRecurso(fileName);
+
+		return ResponseEntity.ok()
+				.header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + resource.getFilename() + "\"")
+				.body(resource);
+	}
 
 	@PostMapping
 	@PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR')")

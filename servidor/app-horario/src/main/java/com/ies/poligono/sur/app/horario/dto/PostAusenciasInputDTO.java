@@ -19,5 +19,6 @@ public class PostAusenciasInputDTO {
 	private String motivo;
 	
 	private Long idProfesor;
-	
+
+	private String archivoAdjunto; 
 }
