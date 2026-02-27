@@ -43,6 +43,9 @@ public class Ausencia {
 	@Column(name = "archivo_adjunto", length = 500)
 	private String archivoAdjunto;
 
+	@Column(name = "justificante", length = 500)
+	private String justificante;
+
 	@ManyToOne
 	@JoinColumn(name = "id_horario", nullable = false)
 	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })

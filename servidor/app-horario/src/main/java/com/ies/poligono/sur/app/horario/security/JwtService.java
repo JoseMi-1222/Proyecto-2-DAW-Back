@@ -42,7 +42,7 @@ public class JwtService {
 		Map<String, Object> claims = new HashMap<>();
 
 		userDetails.getAuthorities().forEach(authority -> {
-			claims.put("role", authority.getAuthority()); // Ej: "ROLE_ADMINISTRADOR"
+			claims.put("role", authority.getAuthority());
 		});
 
 		return createToken(claims, userDetails.getUsername());

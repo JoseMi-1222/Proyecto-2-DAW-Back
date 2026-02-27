@@ -78,18 +78,14 @@ public class ProfesorController {
 
 	@GetMapping("/gestion")
 	@PreAuthorize("hasRole('ADMINISTRADOR')")
-	public ResponseEntity<Page<Profesor>> obtenerProfesoresGestion(
-			@RequestParam(required = false) String busqueda,
-			@RequestParam(defaultValue = "0") int page,
-			@RequestParam(defaultValue = "10") int size) {
-		
-		Page<Profesor> profesores = profesorService.obtenerProfesoresPaginados(
-			busqueda, 
-			PageRequest.of(page, size, Sort.by("nombre").ascending())
-		);
+	public ResponseEntity<Page<Profesor>> obtenerProfesoresGestion(@RequestParam(required = false) String busqueda,
+			@RequestParam(defaultValue = "0") int page, @RequestParam(defaultValue = "10") int size) {
+
+		Page<Profesor> profesores = profesorService.obtenerProfesoresPaginados(busqueda,
+				PageRequest.of(page, size, Sort.by("nombre").ascending()));
 		return ResponseEntity.ok(profesores);
 	}
-	
+
 	@DeleteMapping("/{id}")
 	@PreAuthorize("hasRole('ADMINISTRADOR')")
 	public ResponseEntity<?> eliminarProfesor(@PathVariable Long id) {
@@ -100,17 +96,17 @@ public class ProfesorController {
 			return ResponseEntity.badRequest().body("{\"error\": \"Error al eliminar: " + e.getMessage() + "\"}");
 		}
 	}
-	
+
 	@PutMapping("/{id}")
-    @PreAuthorize("hasRole('ADMINISTRADOR')")
-    public ResponseEntity<Profesor> actualizarProfesor(@PathVariable Long id, @RequestBody Profesor profesor) {
-        Profesor actualizado = profesorService.actualizar(id, profesor);
-        if (actualizado != null) {
-            return ResponseEntity.ok(actualizado);
-        } else {
-            return ResponseEntity.notFound().build();
-        }
-    }
+	@PreAuthorize("hasRole('ADMINISTRADOR')")
+	public ResponseEntity<Profesor> actualizarProfesor(@PathVariable Long id, @RequestBody Profesor profesor) {
+		Profesor actualizado = profesorService.actualizar(id, profesor);
+		if (actualizado != null) {
+			return ResponseEntity.ok(actualizado);
+		} else {
+			return ResponseEntity.notFound().build();
+		}
+	}
 
 	@GetMapping("/sin-usuario")
 	@PreAuthorize("hasRole('ADMINISTRADOR')")
@@ -128,14 +124,25 @@ public class ProfesorController {
 			return ResponseEntity.badRequest().body("{\"error\": \"" + e.getMessage() + "\"}");
 		}
 	}
-	
+
 	public static class RegistroUsuarioDTO {
 		private String email;
 		private String password;
-		
-		public String getEmail() { return email; }
-		public void setEmail(String email) { this.email = email; }
-		public String getPassword() { return password; }
-		public void setPassword(String password) { this.password = password; }
+
+		public String getEmail() {
+			return email;
+		}
+
+		public void setEmail(String email) {
+			this.email = email;
+		}
+
+		public String getPassword() {
+			return password;
+		}
+
+		public void setPassword(String password) {
+			this.password = password;
+		}
 	}
 }

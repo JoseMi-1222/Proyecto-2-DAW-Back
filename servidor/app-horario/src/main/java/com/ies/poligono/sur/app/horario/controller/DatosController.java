@@ -22,64 +22,63 @@ import com.ies.poligono.sur.app.horario.service.BackupService;
 @RequestMapping("/api/datos")
 public class DatosController {
 
-    @Autowired
-    private BackupService backupService;
+	@Autowired
+	private BackupService backupService;
 
-    @Autowired
-    private HorarioServiceProcessor horarioServiceProcessor;
+	@Autowired
+	private HorarioServiceProcessor horarioServiceProcessor;
 
-    @PostMapping("/importar")
-    @PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
-    public ResponseEntity<String> importarArchivo(@RequestParam("file") MultipartFile file) {
-        if (file.isEmpty()) {
-            return ResponseEntity.badRequest().body("El archivo está vacío.");
-        }
+	@PostMapping("/importar")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
+	public ResponseEntity<String> importarArchivo(@RequestParam("file") MultipartFile file) {
+		if (file.isEmpty()) {
+			return ResponseEntity.badRequest().body("El archivo está vacío.");
+		}
 
-        String nombre = file.getOriginalFilename();
-        
-        try {
-            if (nombre != null && nombre.toLowerCase().endsWith(".json")) {
-                backupService.procesarImportacionJson(file);
-                return ResponseEntity.ok("Copia de seguridad (JSON) restaurada correctamente. Base de datos actualizada.");
-            } 
-            
-            else if (nombre != null && nombre.toLowerCase().endsWith(".txt")) {
-                byte[] fileContent = file.getBytes();
-                String encodedString = Base64.getEncoder().encodeToString(fileContent);
+		String nombre = file.getOriginalFilename();
 
-                PostImportacionInputDTO dto = new PostImportacionInputDTO();
-                dto.setFile(encodedString);
+		try {
+			if (nombre != null && nombre.toLowerCase().endsWith(".json")) {
+				backupService.procesarImportacionJson(file);
+				return ResponseEntity
+						.ok("Copia de seguridad (JSON) restaurada correctamente. Base de datos actualizada.");
+			}
 
-                horarioServiceProcessor.importarHorario(dto);
-                
-                return ResponseEntity.ok("Horario inicial (TXT) cargado y procesado correctamente.");
-            } 
-            
-            else {
-                return ResponseEntity.badRequest().body("Formato no soportado. Por favor sube un .json o un .txt");
-            }
+			else if (nombre != null && nombre.toLowerCase().endsWith(".txt")) {
+				byte[] fileContent = file.getBytes();
+				String encodedString = Base64.getEncoder().encodeToString(fileContent);
 
-        } catch (Exception e) {
-            e.printStackTrace();
-            return ResponseEntity.internalServerError().body("Error crítico al procesar el archivo: " + e.getMessage());
-        }
-    }
+				PostImportacionInputDTO dto = new PostImportacionInputDTO();
+				dto.setFile(encodedString);
 
+				horarioServiceProcessor.importarHorario(dto);
 
-    @GetMapping("/exportar/json")
-    @PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
-    public ResponseEntity<BackupDataDTO> descargarJson() {
-        return ResponseEntity.ok(backupService.exportarDatosCompletos());
-    }
+				return ResponseEntity.ok("Horario inicial (TXT) cargado y procesado correctamente.");
+			}
 
-    @GetMapping("/exportar/txt")
-    @PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
-    public ResponseEntity<String> descargarTxt() {
-        String contenidoTxt = backupService.generarTxtHorario();
-        
-        return ResponseEntity.ok()
-                .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"horario_instituto.txt\"")
-                .header(HttpHeaders.CONTENT_TYPE, "text/plain; charset=UTF-8")
-                .body(contenidoTxt);
-    }
+			else {
+				return ResponseEntity.badRequest().body("Formato no soportado. Por favor sube un .json o un .txt");
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+			return ResponseEntity.internalServerError().body("Error crítico al procesar el archivo: " + e.getMessage());
+		}
+	}
+
+	@GetMapping("/exportar/json")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
+	public ResponseEntity<BackupDataDTO> descargarJson() {
+		return ResponseEntity.ok(backupService.exportarDatosCompletos());
+	}
+
+	@GetMapping("/exportar/txt")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
+	public ResponseEntity<String> descargarTxt() {
+		String contenidoTxt = backupService.generarTxtHorario();
+
+		return ResponseEntity.ok()
+				.header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"horario_instituto.txt\"")
+				.header(HttpHeaders.CONTENT_TYPE, "text/plain; charset=UTF-8").body(contenidoTxt);
+	}
 }

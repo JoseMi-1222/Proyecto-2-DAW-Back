@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ies.poligono.sur.app.horario.dao.AsignaturaRepository;
-import com.ies.poligono.sur.app.horario.dao.CursoRepository; // <--- NUEVO IMPORT
+import com.ies.poligono.sur.app.horario.dao.CursoRepository;
 import com.ies.poligono.sur.app.horario.model.Asignatura;
-import com.ies.poligono.sur.app.horario.model.Curso;      // <--- NUEVO IMPORT
+import com.ies.poligono.sur.app.horario.model.Curso;
 import com.ies.poligono.sur.app.horario.model.Horario;
 import com.ies.poligono.sur.app.horario.service.HorarioService;
 
@@ -23,36 +23,36 @@ import com.ies.poligono.sur.app.horario.service.HorarioService;
 @RequestMapping("/api/horarios")
 public class HorarioController {
 
-    @Autowired
-    private HorarioService horarioService;
-    
-    @Autowired
-    private AsignaturaRepository asignaturaRepository; 
+	@Autowired
+	private HorarioService horarioService;
 
-    @Autowired
-    private CursoRepository cursoRepository;
+	@Autowired
+	private AsignaturaRepository asignaturaRepository;
 
-    @GetMapping("/profesor/{id}")
-    @PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR') or hasAuthority('administrador') or hasAuthority('profesor')")
-    public ResponseEntity<List<Horario>> obtenerHorario(@PathVariable Long id) {
-        return ResponseEntity.ok(horarioService.obtenerPorProfesor(id));
-    }
+	@Autowired
+	private CursoRepository cursoRepository;
 
-    @PostMapping("/profesor/{id}")
-    @PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
-    public ResponseEntity<List<Horario>> guardarHorario(@PathVariable Long id, @RequestBody List<Horario> horarios) {
-        return ResponseEntity.ok(horarioService.guardarHorarioProfesor(id, horarios));
-    }
-    
-    @GetMapping("/asignaturas")
-    @PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR') or hasAuthority('administrador') or hasAuthority('profesor')")
-    public ResponseEntity<List<Asignatura>> obtenerTodasAsignaturas() {
-        return ResponseEntity.ok(asignaturaRepository.findAll());
-    }
+	@GetMapping("/profesor/{id}")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR') or hasAuthority('administrador') or hasAuthority('profesor')")
+	public ResponseEntity<List<Horario>> obtenerHorario(@PathVariable Long id) {
+		return ResponseEntity.ok(horarioService.obtenerPorProfesor(id));
+	}
 
-    @GetMapping("/cursos")
-    @PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR') or hasAuthority('administrador') or hasAuthority('profesor')")
-    public ResponseEntity<List<Curso>> obtenerTodosCursos() {
-        return ResponseEntity.ok(cursoRepository.findAll());
-    }
+	@PostMapping("/profesor/{id}")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasAuthority('administrador')")
+	public ResponseEntity<List<Horario>> guardarHorario(@PathVariable Long id, @RequestBody List<Horario> horarios) {
+		return ResponseEntity.ok(horarioService.guardarHorarioProfesor(id, horarios));
+	}
+
+	@GetMapping("/asignaturas")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR') or hasAuthority('administrador') or hasAuthority('profesor')")
+	public ResponseEntity<List<Asignatura>> obtenerTodasAsignaturas() {
+		return ResponseEntity.ok(asignaturaRepository.findAll());
+	}
+
+	@GetMapping("/cursos")
+	@PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR') or hasAuthority('administrador') or hasAuthority('profesor')")
+	public ResponseEntity<List<Curso>> obtenerTodosCursos() {
+		return ResponseEntity.ok(cursoRepository.findAll());
+	}
 }

@@ -92,17 +92,15 @@ public class AusenciaController {
 
 	@GetMapping
 	@PreAuthorize("hasAnyRole('PROFESOR', 'ADMINISTRADOR')")
-	public ResponseEntity<List<AusenciaAgrupadaDTO>> obtenerAusencias(
-			@RequestParam(required = false) Long idusuario,
+	public ResponseEntity<List<AusenciaAgrupadaDTO>> obtenerAusencias(@RequestParam(required = false) Long idusuario,
 			Principal principal) {
-		
+
 		Profesor profesor = null;
-		
+
 		if (idusuario != null) {
 			Authentication auth = SecurityContextHolder.getContext().getAuthentication();
-			Set<String> roles = auth.getAuthorities().stream()
-					.map(r -> r.getAuthority()).collect(Collectors.toSet());
-			
+			Set<String> roles = auth.getAuthorities().stream().map(r -> r.getAuthority()).collect(Collectors.toSet());
+
 			if (roles.contains("ROLE_ADMINISTRADOR")) {
 				profesor = profesorService.findByIdUsuario(idusuario);
 			} else {
@@ -112,33 +110,30 @@ public class AusenciaController {
 			profesor = profesorService.findByEmailUsuario(principal.getName());
 		}
 
-		List<AusenciaAgrupadaDTO> ausencias = ausenciaService
-				.obtenerAusenciasAgrupadasV2(profesor.getIdProfesor());
+		List<AusenciaAgrupadaDTO> ausencias = ausenciaService.obtenerAusenciasAgrupadasV2(profesor.getIdProfesor());
 
 		return ResponseEntity.ok(ausencias);
 	}
 
 	@DeleteMapping
 	@PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR')")
-	public ResponseEntity<Void> eliminarAusencia(
-			@RequestBody java.util.Map<String, Object> payload,
+	public ResponseEntity<Void> eliminarAusencia(@RequestBody java.util.Map<String, Object> payload,
 			Principal principal) {
 
 		if (payload.containsKey("id")) {
 			Long id = Long.parseLong(payload.get("id").toString());
 			ausenciaService.eliminarAusenciaPorId(id);
-		}
-		else if (payload.containsKey("fecha")) {
+		} else if (payload.containsKey("fecha")) {
 			String fechaStr = payload.get("fecha").toString();
 			LocalDate fecha = LocalDate.parse(fechaStr);
-			
+
 			Long idProfesor = null;
 			if (payload.containsKey("idProfesor")) {
 				idProfesor = Long.parseLong(payload.get("idProfesor").toString());
 			} else {
 				idProfesor = profesorService.obtenerIdProfesorPorUsername(principal.getName());
 			}
-			
+
 			ausenciaService.eliminarAusenciasPorFechaYProfesor(fecha, idProfesor);
 		}
 
@@ -147,21 +142,37 @@ public class AusenciaController {
 
 	@PatchMapping("/justificar-dia")
 	@PreAuthorize("hasRole('ADMINISTRADOR') or hasRole('PROFESOR')")
-	public ResponseEntity<Void> justificarAusenciasDia(
-			@RequestBody java.util.Map<String, Object> payload,
+	public ResponseEntity<Void> justificarAusenciasDia(@RequestBody java.util.Map<String, Object> payload,
 			Principal principal) {
 
 		String fechaStr = payload.get("fecha").toString();
 		LocalDate fecha = LocalDate.parse(fechaStr);
-		
+
 		Long idProfesor = null;
 		if (payload.containsKey("idProfesor")) {
 			idProfesor = Long.parseLong(payload.get("idProfesor").toString());
 		} else {
 			idProfesor = profesorService.obtenerIdProfesorPorUsername(principal.getName());
 		}
-		
-		ausenciaService.justificarAusenciasDia(fecha, idProfesor);
+
+		String nombreJustificante = null;
+		if (payload.containsKey("justificante")) {
+			nombreJustificante = payload.get("justificante").toString();
+		}
+
+		ausenciaService.justificarAusenciasDia(fecha, idProfesor, nombreJustificante);
+
+		return ResponseEntity.noContent().build();
+	}
+
+	@PatchMapping("/aprobar-justificante")
+	@PreAuthorize("hasRole('ADMINISTRADOR')")
+	public ResponseEntity<Void> aprobarJustificante(@RequestBody java.util.Map<String, Object> payload) {
+		String fechaStr = payload.get("fecha").toString();
+		LocalDate fecha = LocalDate.parse(fechaStr);
+		Long idProfesor = Long.parseLong(payload.get("idProfesor").toString());
+
+		ausenciaService.aprobarJustificante(fecha, idProfesor);
 
 		return ResponseEntity.noContent().build();
 	}

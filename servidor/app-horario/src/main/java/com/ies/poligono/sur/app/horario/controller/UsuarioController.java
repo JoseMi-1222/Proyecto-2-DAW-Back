@@ -98,8 +98,8 @@ public class UsuarioController {
 		}
 	}
 
-	@PutMapping("/{id}/cambiar-contrasena") 
-	@PreAuthorize("isAuthenticated()") 
+	@PutMapping("/{id}/cambiar-contrasena")
+	@PreAuthorize("isAuthenticated()")
 	public ResponseEntity<?> cambiarContrasena(@PathVariable Long id, @RequestBody CambioContrasenaDTO dto,
 			Authentication authentication) {
 
@@ -109,11 +109,12 @@ public class UsuarioController {
 		if (!usuarioLogueado.getId().equals(id)) {
 			return ResponseEntity.status(HttpStatus.FORBIDDEN).body("No puedes cambiar la contraseña de otro usuario");
 		}
-		
+
 		try {
-			Usuario actualizado = usuarioService.actualizarContraseña(id, dto.getContrasenaActual(), dto.getNuevaContrasena());
+			Usuario actualizado = usuarioService.actualizarContraseña(id, dto.getContrasenaActual(),
+					dto.getNuevaContrasena());
 			return ResponseEntity.ok(actualizado);
-			
+
 		} catch (ResponseStatusException e) {
 			return ResponseEntity.status(e.getStatusCode()).body(e.getReason());
 		}

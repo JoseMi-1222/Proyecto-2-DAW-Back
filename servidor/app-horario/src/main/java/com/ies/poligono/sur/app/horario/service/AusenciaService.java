@@ -21,7 +21,9 @@ public interface AusenciaService {
 
 	List<AusenciaAgrupadaDTO> obtenerAusenciasAgrupadasV2(Long idProfesor);
 
-	void justificarAusenciasDia(LocalDate fecha, Long idProfesor);
+	void justificarAusenciasDia(LocalDate fecha, Long idProfesor, String nombreJustificante);
+	
+	void aprobarJustificante(LocalDate fecha, Long idProfesor);
 	
 	List<Ausencia> obtenerTodas();
 

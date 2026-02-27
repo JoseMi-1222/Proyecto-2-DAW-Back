@@ -14,20 +14,14 @@ import com.ies.poligono.sur.app.horario.model.Horario;
 public interface AsignaturaRepository extends JpaRepository<Asignatura, Long> {
 
 	Asignatura findByNombre(String nombre);
-	
-	
+
 	@Query("""
-	        SELECT h FROM Horario h
-	        WHERE h.profesor.id = :idProfesor
-	        AND h.dia = :dia
-	        AND h.franja.horaInicio >= :horaInicio
-	        AND h.franja.horaInicio < :horaFin
-	    """)
-	    List<Horario> findHorariosEntreHoras(
-	        Long idProfesor,
-	        String dia,
-	        LocalTime horaInicio,
-	        LocalTime horaFin
-	    );
+			    SELECT h FROM Horario h
+			    WHERE h.profesor.id = :idProfesor
+			    AND h.dia = :dia
+			    AND h.franja.horaInicio >= :horaInicio
+			    AND h.franja.horaInicio < :horaFin
+			""")
+	List<Horario> findHorariosEntreHoras(Long idProfesor, String dia, LocalTime horaInicio, LocalTime horaFin);
 
 }
