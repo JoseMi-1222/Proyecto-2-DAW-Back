@@ -207,4 +207,28 @@ public class ProfesorServiceImpl implements ProfesorService {
 
 		return profesorRepository.save(nuevoProfesor);
 	}
+    
+    @Override
+	@Transactional
+	public void cambiarEstadoProfesor(Long idProfesor, boolean estado) {
+		Profesor profesor = findById(idProfesor);
+		if (profesor != null) {
+			profesor.setActivo(estado);
+			
+			profesorRepository.save(profesor);
+			log.info("El estado del profesor {} ha cambiado a activo={}", profesor.getNombre(), estado);
+		} else {
+			throw new RuntimeException("Profesor no encontrado");
+		}
+	}
+    
+    @Override
+	@Transactional(readOnly = true)
+	public Page<Profesor> obtenerProfesoresPaginados(String busqueda, boolean activo, Pageable pageable) {
+		// Usamos la nueva consulta que filtra por estado
+		Page<Profesor> profesores = profesorRepository.buscarProfesoresConFiltroYEstado(busqueda, activo, pageable);
+		
+		profesores.forEach(p -> p.getHorarios().size());
+		return profesores;
+	}
 }

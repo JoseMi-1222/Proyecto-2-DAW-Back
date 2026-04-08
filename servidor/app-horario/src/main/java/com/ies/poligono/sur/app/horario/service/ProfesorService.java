@@ -38,5 +38,9 @@ public interface ProfesorService {
     Profesor findByAbreviatura(String abreviatura);
     
     Profesor crearProfesorYUsuario(com.ies.poligono.sur.app.horario.dto.CrearProfesorUsuarioDTO dto);
+    
+    void cambiarEstadoProfesor(Long idProfesor, boolean estado);
+
+	Page<Profesor> obtenerProfesoresPaginados(String busqueda, boolean activo, Pageable pageable);
 
 }

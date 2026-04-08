@@ -41,6 +41,8 @@ public class Profesor {
 	@Column(unique = true)
 	private String abreviatura;
 	
+	@Column(name = "activo", columnDefinition = "boolean default true")
+	private Boolean activo = true;
 	
 	@OneToMany(mappedBy = "profesor")
 	@JsonIgnoreProperties({ "profesor", "hibernateLazyInitializer", "handler" })

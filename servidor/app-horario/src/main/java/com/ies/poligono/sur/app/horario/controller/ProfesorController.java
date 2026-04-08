@@ -11,6 +11,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PatchMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
@@ -18,6 +19,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.data.domain.Pageable;
 
 import com.ies.poligono.sur.app.horario.model.Profesor;
 import com.ies.poligono.sur.app.horario.service.ProfesorService;
@@ -74,16 +76,6 @@ public class ProfesorController {
 		} else {
 			return ResponseEntity.notFound().build();
 		}
-	}
-
-	@GetMapping("/gestion")
-	@PreAuthorize("hasRole('ADMINISTRADOR')")
-	public ResponseEntity<Page<Profesor>> obtenerProfesoresGestion(@RequestParam(required = false) String busqueda,
-			@RequestParam(defaultValue = "0") int page, @RequestParam(defaultValue = "10") int size) {
-
-		Page<Profesor> profesores = profesorService.obtenerProfesoresPaginados(busqueda,
-				PageRequest.of(page, size, Sort.by("nombre").ascending()));
-		return ResponseEntity.ok(profesores);
 	}
 
 	@DeleteMapping("/{id}")
@@ -156,5 +148,28 @@ public class ProfesorController {
 		} catch (RuntimeException e) {
 			return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(java.util.Map.of("message", e.getMessage()));
 		}
+	}
+	
+	@PatchMapping("/{id}/estado")
+	@PreAuthorize("hasRole('ADMINISTRADOR')")
+	public ResponseEntity<Void> cambiarEstado(@PathVariable Long id, @RequestParam boolean activo) {
+		profesorService.cambiarEstadoProfesor(id, activo);
+		return ResponseEntity.ok().build();
+	}
+	
+	@GetMapping("/gestion")
+	@PreAuthorize("hasRole('ADMINISTRADOR')")
+	public ResponseEntity<Page<Profesor>> obtenerProfesoresGestion(
+			@RequestParam(required = false, defaultValue = "") String busqueda,
+			@RequestParam(defaultValue = "0") int page,
+			@RequestParam(defaultValue = "10") int size,
+			@RequestParam(defaultValue = "false") boolean verDesactivados) {
+		
+		boolean estadoBuscado = !verDesactivados; 
+		
+		Pageable pageable = org.springframework.data.domain.PageRequest.of(page, size);
+		Page<Profesor> profesores = profesorService.obtenerProfesoresPaginados(busqueda, estadoBuscado, pageable);
+		
+		return ResponseEntity.ok(profesores);
 	}
 }
