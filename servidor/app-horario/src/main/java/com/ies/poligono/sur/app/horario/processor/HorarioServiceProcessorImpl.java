@@ -168,28 +168,32 @@ public class HorarioServiceProcessorImpl implements HorarioServiceProcessor {
 		return aula;
 	}
 
-	private Profesor procesarProfesor(String codigoAbreviatura) {
+	private Profesor procesarProfesor(String identificador) {
 
-		Profesor profesor = profesorService.findByAbreviatura(codigoAbreviatura);
+		Profesor profesor = profesorService.findByAbreviatura(identificador);
 
 		if (profesor == null) {
-			System.out.println("Creando nuevo profesor con abreviatura: " + codigoAbreviatura);
+			profesor = profesorService.findByNombre(identificador);
+		}
+
+		if (profesor == null) {
+			System.out.println("Creando nuevo profesor desde el importador: " + identificador);
 
 			Usuario usuario = new Usuario();
-
-			String email = usuarioService.generarEmailDesdeNombre(codigoAbreviatura);
+			String email = usuarioService.generarEmailDesdeNombre(identificador);
 			usuario.setEmail(email);
 			usuario.setPassword("Pass123");
 			usuario.setRol("profesor");
-			usuario.setNombre(codigoAbreviatura);
+			usuario.setNombre(identificador);
 			usuario = usuarioService.crearUsuario(usuario);
 
 			profesor = new Profesor();
 			profesor.setUsuario(usuario);
-			profesor.setNombre(codigoAbreviatura);
-			profesor.setAbreviatura(codigoAbreviatura);
+			profesor.setNombre(identificador);
+			profesor.setAbreviatura(identificador);
 			profesor = profesorService.insertar(profesor);
 		}
+		
 		return profesor;
 	}
 

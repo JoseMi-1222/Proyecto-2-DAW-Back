@@ -145,4 +145,16 @@ public class ProfesorController {
 			this.password = password;
 		}
 	}
+	
+	@PostMapping("/crear-completo")
+	@PreAuthorize("hasRole('ADMINISTRADOR')")
+	public ResponseEntity<?> crearProfesorYUsuario(
+			@RequestBody com.ies.poligono.sur.app.horario.dto.CrearProfesorUsuarioDTO dto) {
+		try {
+			Profesor nuevoProfesor = profesorService.crearProfesorYUsuario(dto);
+			return ResponseEntity.status(HttpStatus.CREATED).body(nuevoProfesor);
+		} catch (RuntimeException e) {
+			return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(java.util.Map.of("message", e.getMessage()));
+		}
+	}
 }

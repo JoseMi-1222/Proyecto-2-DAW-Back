@@ -175,4 +175,36 @@ public class ProfesorServiceImpl implements ProfesorService {
     public Profesor findByAbreviatura(String abreviatura) {
         return profesorRepository.findByAbreviatura(abreviatura);
     }
+    
+    @Override
+	@Transactional
+	public Profesor crearProfesorYUsuario(com.ies.poligono.sur.app.horario.dto.CrearProfesorUsuarioDTO dto) {
+		
+		if (profesorRepository.findByNombre(dto.getNombre()) != null) {
+			throw new RuntimeException("Ya existe un profesor con el nombre exacto: " + dto.getNombre() + ". Añade un segundo apellido o una inicial para diferenciarlo.");
+		}
+
+		if (profesorRepository.findByAbreviatura(dto.getAbreviatura()) != null) {
+			throw new RuntimeException("Ya existe un profesor con la abreviatura: " + dto.getAbreviatura());
+		}
+		if (usuarioRepository.existsByEmail(dto.getEmail())) {
+			throw new RuntimeException("El email ya está en uso por otro usuario.");
+		}
+
+		Usuario nuevoUsuario = new Usuario();
+		nuevoUsuario.setNombre(dto.getNombre());
+		nuevoUsuario.setEmail(dto.getEmail());
+		nuevoUsuario.setRol("profesor");
+		
+		nuevoUsuario.setPassword(passwordEncoder.encode("Cambiame123!")); 
+		
+		nuevoUsuario = usuarioRepository.save(nuevoUsuario);
+
+		Profesor nuevoProfesor = new Profesor();
+		nuevoProfesor.setNombre(dto.getNombre());
+		nuevoProfesor.setAbreviatura(dto.getAbreviatura());
+		nuevoProfesor.setUsuario(nuevoUsuario);
+
+		return profesorRepository.save(nuevoProfesor);
+	}
 }

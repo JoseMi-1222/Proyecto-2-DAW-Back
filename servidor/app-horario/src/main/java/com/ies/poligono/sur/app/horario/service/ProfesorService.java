@@ -36,5 +36,7 @@ public interface ProfesorService {
     Profesor crearUsuarioParaProfesor(Long idProfesor, String email, String password);
     
     Profesor findByAbreviatura(String abreviatura);
+    
+    Profesor crearProfesorYUsuario(com.ies.poligono.sur.app.horario.dto.CrearProfesorUsuarioDTO dto);
 
 }
