@@ -17,5 +17,7 @@ public interface AusenciaRepository extends JpaRepository<Ausencia, Long> {
 	List<Ausencia> findByFechaAndHorario_Profesor_IdProfesor(LocalDate fecha, Long idProfesor);
 
 	boolean existsByFechaAndHorario(LocalDate fecha, Horario horario);
+	
+	List<Ausencia> findByFecha(java.time.LocalDate fecha);
 
 }

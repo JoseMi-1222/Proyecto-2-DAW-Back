@@ -11,6 +11,7 @@ import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.ies.poligono.sur.app.horario.apputils.AusenciasUtils;
 import com.ies.poligono.sur.app.horario.dao.AusenciaRepository;
@@ -18,6 +19,7 @@ import com.ies.poligono.sur.app.horario.dao.FranjaRepository;
 import com.ies.poligono.sur.app.horario.dao.HorarioRepository;
 import com.ies.poligono.sur.app.horario.dto.AusenciaAgrupadaDTO;
 import com.ies.poligono.sur.app.horario.dto.AusenciaTramoDTO;
+import com.ies.poligono.sur.app.horario.dto.GuardiaDTO;
 import com.ies.poligono.sur.app.horario.dto.PostAusenciasInputDTO;
 import com.ies.poligono.sur.app.horario.model.Ausencia;
 import com.ies.poligono.sur.app.horario.model.Horario;
@@ -272,4 +274,47 @@ public class AusenciaServiceImpl implements AusenciaService {
 		ausenciaRepository.saveAll(ausencias);
 	}
 
+	@Override
+	@Transactional(readOnly = true)
+	public List<GuardiaDTO> obtenerGuardiasDeHoy() {
+		LocalDate hoy = LocalDate.now();
+
+		List<Ausencia> ausenciasHoy = ausenciaRepository.findByFecha(hoy);
+
+		List<GuardiaDTO> guardias = new ArrayList<>();
+
+		for (Ausencia ausencia : ausenciasHoy) {
+
+			com.ies.poligono.sur.app.horario.model.Horario h = ausencia.getHorario();
+
+			if (h != null) {
+				GuardiaDTO dto = new GuardiaDTO();
+
+				dto.setNombreProfesor(h.getProfesor() != null ? h.getProfesor().getNombre() : "Desconocido");
+
+				dto.setAsignatura(h.getAsignatura() != null ? h.getAsignatura().getNombre() : "Sin Asignatura");
+
+				dto.setAula(h.getAula() != null ? h.getAula().getCodigo() : "Sin Aula");
+
+				if (h.getFranja() != null) {
+					String textoFranja = h.getFranja().getHoraInicio() + " - " + h.getFranja().getHoraFin();
+					dto.setFranja(textoFranja);
+					dto.setHoraFin(h.getFranja().getHoraFin().toString());
+				} else {
+					dto.setFranja("-");
+					dto.setHoraFin("23:59");
+				}
+
+				guardias.add(dto);
+			}
+		}
+
+		guardias.sort((g1, g2) -> {
+			String hora1 = g1.getFranja().split(" - ")[0];
+			String hora2 = g2.getFranja().split(" - ")[0];
+			return java.time.LocalTime.parse(hora1).compareTo(java.time.LocalTime.parse(hora2));
+		});
+
+		return guardias;
+	}
 }

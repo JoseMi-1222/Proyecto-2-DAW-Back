@@ -25,6 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
 import com.ies.poligono.sur.app.horario.dto.AusenciaAgrupadaDTO;
+import com.ies.poligono.sur.app.horario.dto.GuardiaDTO;
 import com.ies.poligono.sur.app.horario.dto.PostAusenciasInputDTO;
 import com.ies.poligono.sur.app.horario.model.Ausencia;
 import com.ies.poligono.sur.app.horario.model.Profesor;
@@ -175,5 +176,12 @@ public class AusenciaController {
 		ausenciaService.aprobarJustificante(fecha, idProfesor);
 
 		return ResponseEntity.noContent().build();
+	}
+	
+	@GetMapping("/guardias/hoy")
+	@PreAuthorize("hasAnyRole('ADMINISTRADOR', 'PROFESOR')")
+	public ResponseEntity<List<GuardiaDTO>> obtenerGuardiasDeHoy() {
+		List<GuardiaDTO> guardias = ausenciaService.obtenerGuardiasDeHoy();
+		return ResponseEntity.ok(guardias);
 	}
 }
