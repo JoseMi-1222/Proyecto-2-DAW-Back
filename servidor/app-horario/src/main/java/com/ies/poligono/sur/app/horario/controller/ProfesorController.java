@@ -172,4 +172,18 @@ public class ProfesorController {
 		
 		return ResponseEntity.ok(profesores);
 	}
+	
+	@PostMapping("/{id}/sustituto")
+	@PreAuthorize("hasRole('ADMINISTRADOR')")
+	public ResponseEntity<?> crearSustituto(
+			@PathVariable Long id, 
+			@RequestBody com.ies.poligono.sur.app.horario.dto.CrearProfesorUsuarioDTO dtoSustituto) {
+		
+		try {
+			Profesor sustituto = profesorService.crearSustituto(id, dtoSustituto);
+			return ResponseEntity.ok(sustituto);
+		} catch (Exception e) {
+			return ResponseEntity.badRequest().body(e.getMessage());
+		}
+	}
 }

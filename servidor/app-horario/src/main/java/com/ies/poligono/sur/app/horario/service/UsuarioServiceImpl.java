@@ -106,6 +106,9 @@ public class UsuarioServiceImpl implements UsuarioService {
 
 		String nuevaPass = passwordEncoder.encode(nuevaContraseña);
 		usuario.setPassword(nuevaPass);
+		
+		usuario.setPrimerLogin(false); 
+
 		log.info("Contraseña actualizada para el usuario ID: {}", id);
 		return usuarioRepository.save(usuario);
 	}

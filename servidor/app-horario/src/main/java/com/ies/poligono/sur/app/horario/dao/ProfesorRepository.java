@@ -40,5 +40,7 @@ public interface ProfesorRepository extends JpaRepository<Profesor, Long> {
 	
 	@Query("SELECT p FROM Profesor p WHERE (:busqueda IS NULL OR LOWER(p.nombre) LIKE LOWER(CONCAT('%', :busqueda, '%'))) AND p.activo = :activo")
 	Page<Profesor> buscarProfesoresConFiltroYEstado(String busqueda, boolean activo, Pageable pageable);
+	
+	List<Profesor> findBySustitutoDe(Profesor profesorOriginal);
 
 }

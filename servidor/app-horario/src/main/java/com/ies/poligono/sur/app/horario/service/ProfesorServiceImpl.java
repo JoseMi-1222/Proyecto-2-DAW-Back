@@ -212,8 +212,37 @@ public class ProfesorServiceImpl implements ProfesorService {
 	@Transactional
 	public void cambiarEstadoProfesor(Long idProfesor, boolean estado) {
 		Profesor profesor = findById(idProfesor);
+		
 		if (profesor != null) {
 			profesor.setActivo(estado);
+			if (profesor.getUsuario() != null) {
+				profesor.getUsuario().setActivo(estado);
+			}
+			
+			if (estado == true) { 
+				
+				if (profesor.getSustitutoDe() != null) {
+					Profesor original = profesor.getSustitutoDe();
+					original.setActivo(false);
+					if (original.getUsuario() != null) {
+						original.getUsuario().setActivo(false);
+					}
+					profesorRepository.save(original);
+					log.info("Apagado automático: {} era el original", original.getNombre());
+				}
+				
+				List<Profesor> susSustitutos = profesorRepository.findBySustitutoDe(profesor);
+				for (Profesor sust : susSustitutos) {
+					if (sust.getActivo()) {
+						sust.setActivo(false);
+						if (sust.getUsuario() != null) {
+							sust.getUsuario().setActivo(false);
+						}
+						profesorRepository.save(sust);
+						log.info("Apagado automático: {} era el sustituto", sust.getNombre());
+					}
+				}
+			}
 			
 			profesorRepository.save(profesor);
 			log.info("El estado del profesor {} ha cambiado a activo={}", profesor.getNombre(), estado);
@@ -225,10 +254,46 @@ public class ProfesorServiceImpl implements ProfesorService {
     @Override
 	@Transactional(readOnly = true)
 	public Page<Profesor> obtenerProfesoresPaginados(String busqueda, boolean activo, Pageable pageable) {
-		// Usamos la nueva consulta que filtra por estado
 		Page<Profesor> profesores = profesorRepository.buscarProfesoresConFiltroYEstado(busqueda, activo, pageable);
 		
 		profesores.forEach(p -> p.getHorarios().size());
 		return profesores;
+	}
+    
+    @Override
+	@Transactional
+	public Profesor crearSustituto(Long idProfesorOriginal, com.ies.poligono.sur.app.horario.dto.CrearProfesorUsuarioDTO dtoSustituto) {
+		
+		Profesor profesorOriginal = findById(idProfesorOriginal);
+		if (profesorOriginal == null) {
+			throw new RuntimeException("Profesor original no encontrado.");
+		}
+
+		Profesor profesorSustituto = crearProfesorYUsuario(dtoSustituto);
+
+		List<com.ies.poligono.sur.app.horario.model.Horario> horariosOriginales = horarioRepository.findByProfesor_IdProfesor(idProfesorOriginal);
+		
+		for (com.ies.poligono.sur.app.horario.model.Horario horarioOriginal : horariosOriginales) {
+			com.ies.poligono.sur.app.horario.model.Horario nuevoHorario = new com.ies.poligono.sur.app.horario.model.Horario();
+			
+			nuevoHorario.setDia(horarioOriginal.getDia());
+			nuevoHorario.setFranja(horarioOriginal.getFranja());
+			nuevoHorario.setAsignatura(horarioOriginal.getAsignatura());
+			nuevoHorario.setAula(horarioOriginal.getAula());
+			nuevoHorario.setCurso(horarioOriginal.getCurso());
+			
+			nuevoHorario.setProfesor(profesorSustituto);
+			
+			horarioRepository.save(nuevoHorario);
+		}
+
+		cambiarEstadoProfesor(idProfesorOriginal, false);
+
+		log.info("Sustituto {} creado con éxito copiando el horario de {}", profesorSustituto.getNombre(), profesorOriginal.getNombre());
+		
+		profesorSustituto.setSustitutoDe(profesorOriginal);
+		profesorRepository.save(profesorSustituto);
+				
+		return profesorSustituto;
 	}
 }

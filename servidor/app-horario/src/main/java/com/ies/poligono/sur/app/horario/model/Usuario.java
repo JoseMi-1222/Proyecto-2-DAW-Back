@@ -46,4 +46,12 @@ public class Usuario {
 	@NotNull(message = "El rol no puede ser nulo")
 	@Pattern(regexp = "^(profesor|administrador)$", message = "El rol debe ser 'profesor' o 'administrador'")
 	private String rol;
+	
+	@Column(name = "activo", columnDefinition = "boolean default true")
+	private Boolean activo = true;
+	
+	@Column(name = "primer_login", columnDefinition = "boolean default true")
+	private Boolean primerLogin = true;
+	
+
 }

@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
+import com.ies.poligono.sur.app.horario.dto.CrearProfesorUsuarioDTO;
 import com.ies.poligono.sur.app.horario.model.Profesor;
 
 public interface ProfesorService {
@@ -42,5 +43,7 @@ public interface ProfesorService {
     void cambiarEstadoProfesor(Long idProfesor, boolean estado);
 
 	Page<Profesor> obtenerProfesoresPaginados(String busqueda, boolean activo, Pageable pageable);
+	
+	Profesor crearSustituto(Long idProfesorOriginal, CrearProfesorUsuarioDTO dtoSustituto);
 
 }
