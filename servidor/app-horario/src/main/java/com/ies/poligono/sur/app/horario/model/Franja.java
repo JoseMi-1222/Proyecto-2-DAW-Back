@@ -2,6 +2,12 @@ package com.ies.poligono.sur.app.horario.model;
 
 import java.time.LocalTime;
 
+import org.hibernate.annotations.Cache;
+import org.hibernate.annotations.CacheConcurrencyStrategy;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+import jakarta.persistence.Cacheable;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -16,13 +22,16 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Cacheable
+@Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
+@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 public class Franja {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long idFranja;
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long idFranja;
 
-    private LocalTime horaInicio;
+	private LocalTime horaInicio;
 
-    private LocalTime horaFin;
+	private LocalTime horaFin;
 }

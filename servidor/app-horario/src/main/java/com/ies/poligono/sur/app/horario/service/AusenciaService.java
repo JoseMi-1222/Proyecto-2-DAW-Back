@@ -4,7 +4,9 @@ import java.time.LocalDate;
 import java.util.List;
 
 import com.ies.poligono.sur.app.horario.dto.AusenciaAgrupadaDTO;
+import com.ies.poligono.sur.app.horario.dto.GuardiaDTO;
 import com.ies.poligono.sur.app.horario.dto.PostAusenciasInputDTO;
+import com.ies.poligono.sur.app.horario.model.Ausencia;
 
 public interface AusenciaService {
 
@@ -20,6 +22,13 @@ public interface AusenciaService {
 
 	List<AusenciaAgrupadaDTO> obtenerAusenciasAgrupadasV2(Long idProfesor);
 
-	void justificarAusenciasDia(LocalDate fecha, Long idProfesor);
+	void justificarAusenciasDia(LocalDate fecha, Long idProfesor, String nombreJustificante);
+	
+	void aprobarJustificante(LocalDate fecha, Long idProfesor);
+	
+	List<Ausencia> obtenerTodas();
+	
+	List<GuardiaDTO> obtenerGuardiasDeHoy();
+	
 
 }

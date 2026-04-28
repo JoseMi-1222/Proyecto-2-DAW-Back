@@ -1,21 +1,20 @@
 package com.ies.poligono.sur.app.horario.service;
 
 import java.util.List;
-
 import com.ies.poligono.sur.app.horario.model.Usuario;
 
 public interface UsuarioService {
 
-	public List<Usuario> obtenerUsuarios();
+	List<Usuario> obtenerUsuarios();
 
-	public Usuario crearUsuario(Usuario usuario);
+	Usuario crearUsuario(Usuario usuario);
 
-	public void eliminarUsuario(Long id);
+	void eliminarUsuario(Long id);
 
-	public Usuario actualizarUsuario(Long id, Usuario usuarioActualizado);
+	Usuario actualizarUsuario(Long id, Usuario usuarioActualizado);
 
-	public Usuario actualizarContraseña(Long id, String nuevaContraseña);
+	Usuario actualizarContraseña(Long id, String contrasenaActual, String nuevaContraseña);
 
-	public String generarEmailDesdeNombre(String nombre);
+	String generarEmailDesdeNombre(String nombre);
 
 }

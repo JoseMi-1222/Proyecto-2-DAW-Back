@@ -2,6 +2,13 @@ package com.ies.poligono.sur.app.horario.model;
 
 import java.time.LocalDate;
 
+import org.hibernate.annotations.Cache;
+import org.hibernate.annotations.CacheConcurrencyStrategy;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+import jakarta.persistence.Cacheable;
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -18,6 +25,9 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Cacheable
+@Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
+@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 public class Ausencia {
 
 	@Id
@@ -30,7 +40,14 @@ public class Ausencia {
 
 	private boolean justificada = false;
 
+	@Column(name = "archivo_adjunto", length = 500)
+	private String archivoAdjunto;
+
+	@Column(name = "justificante", length = 500)
+	private String justificante;
+
 	@ManyToOne
 	@JoinColumn(name = "id_horario", nullable = false)
+	@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 	private Horario horario;
 }

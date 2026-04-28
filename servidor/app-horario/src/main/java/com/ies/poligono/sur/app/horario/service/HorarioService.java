@@ -1,7 +1,6 @@
 package com.ies.poligono.sur.app.horario.service;
 
 import java.util.List;
-
 import com.ies.poligono.sur.app.horario.model.Horario;
 
 public interface HorarioService {
@@ -13,5 +12,7 @@ public interface HorarioService {
 	List<Horario> obtenerTodos();
 	
 	List<Horario> obtenerPorProfesor(Long idProfesor);
+	
+	List<Horario> guardarHorarioProfesor(Long idProfesor, List<Horario> nuevosHorarios);
 
 }

@@ -9,6 +9,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.ies.poligono.sur.app.horario.dao.UsuarioRepository;
 import com.ies.poligono.sur.app.horario.model.Usuario;
@@ -16,24 +17,27 @@ import com.ies.poligono.sur.app.horario.model.Usuario;
 @Service
 public class CustomUserDetailsService implements UserDetailsService {
 
-    @Autowired
-    private UsuarioRepository usuarioRepository;
+	@Autowired
+	private UsuarioRepository usuarioRepository;
 
-    @Override
-    public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
-        Usuario usuario = usuarioRepository.findByEmail(email);
+	@Override
+	@Transactional(readOnly = true)
+	public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
 
-        if (usuario == null) {
-            throw new UsernameNotFoundException("Usuario no encontrado con email: " + email);
-        }
+		Usuario usuario = usuarioRepository.findByEmail(email)
+				.orElseThrow(() -> new UsernameNotFoundException("Usuario no encontrado con email: " + email));
 
-        // Convertimos el rol en autoridad: ROLE_ADMINISTRADOR o ROLE_PROFESOR
-        SimpleGrantedAuthority authority = new SimpleGrantedAuthority("ROLE_" + usuario.getRol().toUpperCase());
+		SimpleGrantedAuthority authority = new SimpleGrantedAuthority("ROLE_" + usuario.getRol().toUpperCase());
 
-        return new User(
-                usuario.getEmail(),
-                usuario.getPassword(),
-                Collections.singletonList(authority)
-        );
-    }
+
+		return new User(
+				usuario.getEmail(), 
+				usuario.getPassword(), 
+				usuario.getActivo() != null ? usuario.getActivo() : true,
+				true, 
+				true, 
+				true,
+				Collections.singletonList(authority)
+		);
+	}
 }

@@ -1,5 +1,6 @@
 package com.ies.poligono.sur.app.horario.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -14,11 +15,13 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 public class Asignatura {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long idAsignatura;
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long idAsignatura;
 
-    private String nombre;
+	private String nombre;
+
 }

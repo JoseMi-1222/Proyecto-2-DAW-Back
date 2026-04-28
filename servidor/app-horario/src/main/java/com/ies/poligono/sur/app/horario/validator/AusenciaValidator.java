@@ -17,9 +17,9 @@ public class AusenciaValidator implements Validator {
 	@Override
 	public void validate(Object target, Errors errors) {
 		PostAusenciasInputDTO dto = (PostAusenciasInputDTO) target;
-		// validaciones
+
 		if (dto.getFecha().isBefore(LocalDate.now())) {
-			// TODO: rellenar error
+
 			throw new IllegalArgumentException("No se puede registrar una ausencia en el pasado.");
 		}
 	}
